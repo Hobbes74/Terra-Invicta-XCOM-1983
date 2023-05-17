@@ -1,0 +1,1120 @@
+[
+ {
+   "dataName": "event_OneHumanity",
+   "friendlyName": "OneHumanity",
+   "illustrationResource": "illustrations/Event_OneHumanity",
+   "soundResource": "",
+   "requiresAliens": true,
+   "year": null,
+   "endYear": null,
+   "earliestMonth": null,
+   "latestMonth": null,
+   "reqTechDataName": "",
+   "logPublicity": "global",
+   "alertPublicity": "factions",
+   "repeatable": "OncePerCampaign",
+   "numOptions": 1,
+   "forceEvent": true,
+   "reqEventUnlock": false,
+   "baseWeight": null,
+   "monthlyWeightDelta": null,
+   "altBaseWeight": {
+      "condition": {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      "value": null
+   },
+   "altMonthlyWeightDelta": null,
+   "weightDeltaWhenTriggered": null,
+   "targetType": "global",
+   "hitAllQualifyingTargets": true,
+   "firstTargetNotificationOnly": false,
+   "global_cooldown_months": 0,
+   "target_cooldown_months": 0,
+   "possibleTargetDataNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "targetConditions": [
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      }
+   ],
+   "targetWeightModifiers": [
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      },
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      },
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      }
+   ],
+   "secondaryStateType": "",
+   "sameSecondaryForAllTargets": false,
+   "possibleSecondaryStateDataNames": [
+      "",
+      "",
+      ""
+   ],
+   "secondaryStateConditions": [
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      },
+      {
+         "$type": "",
+         "strIdx": "",
+         "sign": "",
+         "strValue": ""
+      }
+   ],
+   "secondaryWeightModifiers": [
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      },
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      },
+      {
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "value": null
+      }
+   ],
+   "eventOptions": [
+      {
+         "baseAIPreference": 1,
+         "useAIModifiers": [
+            ""
+         ],
+         "outcomes": [
+            {
+               "weight": 1,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": null,
+               "effectTemplateNames": [
+                  "Effect_GlobalCohesionLoss",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  "event_WaveofFear"
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": null,
+                  "water": "",
+                  "volatiles": "",
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": "",
+                  "influence": "",
+                  "operations": "",
+                  "research": null,
+                  "boost": "",
+                  "water": "",
+                  "volatiles": "",
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": "",
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": "",
+                  "influence": "",
+                  "operations": "",
+                  "research": "",
+                  "boost": "",
+                  "water": "",
+                  "volatiles": "",
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            }
+         ]
+      },
+      {
+         "actingFactionCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "targetCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "baseAIPreference": null,
+         "useAIModifiers": [
+            "",
+            ""
+         ],
+         "outcomes": [
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": null,
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": null,
+                  "water": null,
+                  "volatiles": null,
+                  "metals": null,
+                  "nobleMetals": null,
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": null,
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": null,
+                  "water": "",
+                  "volatiles": null,
+                  "metals": null,
+                  "nobleMetals": null,
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": "",
+                  "water": "",
+                  "volatiles": null,
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            }
+         ]
+      },
+      {
+         "actingFactionCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "targetCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "baseAIPreference": null,
+         "useAIModifiers": [
+            ""
+         ],
+         "outcomes": [
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": null,
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": null,
+                  "water": null,
+                  "volatiles": null,
+                  "metals": null,
+                  "nobleMetals": null,
+                  "fissiles": null,
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": "",
+                  "boost": null,
+                  "water": null,
+                  "volatiles": null,
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": "",
+                  "influence": "",
+                  "operations": null,
+                  "research": null,
+                  "boost": "",
+                  "water": "",
+                  "volatiles": "",
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            }
+         ]
+      },
+      {
+         "actingFactionCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "targetCondition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         },
+         "baseAIPreference": null,
+         "useAIModifiers": [
+            ""
+         ],
+         "outcomes": [
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": null,
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": null,
+                  "boost": null,
+                  "water": null,
+                  "volatiles": null,
+                  "metals": null,
+                  "nobleMetals": null,
+                  "fissiles": "",
+                  "antimatter": null,
+                  "exotics": null
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": null,
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": null,
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": null,
+                  "influence": null,
+                  "operations": null,
+                  "research": "",
+                  "boost": null,
+                  "water": "",
+                  "volatiles": null,
+                  "metals": null,
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            },
+            {
+               "weight": null,
+               "facWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "tarWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "secWtMod": [
+                  {
+                     "value": "",
+                     "condition": {
+                        "$type": "",
+                        "strIdx": "",
+                        "sign": "",
+                        "strValue": ""
+                     }
+                  }
+               ],
+               "AIFavored": "",
+               "forceAlert": "",
+               "effectTemplateNames": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+               ],
+               "delayedEffectTemplateNames": [
+                  ""
+               ],
+               "projectGrantedTemplateName": "",
+               "orgGrantedTemplateName": "",
+               "addNarrativeEvents": [
+                  ""
+               ],
+               "removeNarrativeEvents": [
+                  ""
+               ],
+               "costBuilder": {
+                  "money": "",
+                  "influence": "",
+                  "operations": "",
+                  "research": "",
+                  "boost": "",
+                  "water": "",
+                  "volatiles": "",
+                  "metals": "",
+                  "nobleMetals": "",
+                  "fissiles": "",
+                  "antimatter": "",
+                  "exotics": ""
+               },
+               "costMultiplier": ""
+            }
+         ]
+      }
+   ]
+}
+]

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3710178737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cb62f13a27f0d28d1f5495e4549a04c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sovietunion1983.png
+- Assets/southyemen1983.png
+- Assets/ethiopia1983.png
+- Assets/mongolia1983.png
+- Assets/bulgaria1983.png
+- Assets/yugoslavia1983.png
+- Assets/benin1983.png
+- Assets/southafrica1983.png
+- Assets/romania1983.png
+- Assets/afghanistan1983.png
+- Assets/congo1983.png
+- Assets/cambodia1983.png
+Dependencies: []

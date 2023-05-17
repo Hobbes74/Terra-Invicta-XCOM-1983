@@ -1,0 +1,58 @@
+[
+ {
+   "dataName": "ModernDayStart",
+   "year": 1983,
+   "month": 2,
+   "day": 28,
+   "hour": 23,
+   "minute": 59,
+   "second": 59,
+   "bonusMoney": 0,
+   "bonusInfluence": 0,
+   "bonusOps": 0,
+   "bonusBoost": 0,
+   "bonusMissionControl": 0,
+   "bonusWater": 0,
+   "bonusVolatiles": 0,
+   "bonusMetals": 0,
+   "bonusNobles": 0,
+   "bonusFissiles": 0,
+   "bonusAntimatter": 0,
+   "bonusExotics": 0,
+   "initialCrashdownRegionTemplateName": "random",
+   "initialAtmosphericCO2_ppm": 342,
+   "initialAtmosphericCH4_ppm": 1.617,
+   "initialAtmosphericN2O_ppm": 0.303,
+   "initialStratosphericAerosols_ppm": 0,
+   "initialGlobalSeaLevelAnomaly_cm": 12,
+   "startingTechs": [
+      "WeAreNotAlone",
+      "Skywatch",
+      "MissionToSpace"
+   ],
+   "globalTechsCompleted": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "projectsCompleted": [
+      "Project_Solid-FuelSpaceRockets",
+      "Project_Liquid-FuelRockets",
+      "Project_CryogenicLiquid-FuelRockets",
+      "Project_PlatformCore",
+      "Project_SolarCollector",
+      "Project_SpaceScienceLab",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "startingShipDesigns": [
+      ""
+   ]
+}
+]
