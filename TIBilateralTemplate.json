@@ -2295,12 +2295,6 @@
    "initialColony": true
  },
  {
-   "dataName": "ClaimDEUGermany",
-   "relationType": "Claim",
-   "nation1": "DEU",
-   "region1": "Germany"
- },
- {
    "dataName": "ClaimDEUEastGermany",
    "relationType": "Claim",
    "nation1": "DEU",
@@ -2366,6 +2360,13 @@
    "region1": "Ecuador",
    "capitalClaim": true,
    "initialOwner": true
+ },
+ {
+   "dataName": "ClaimWGAEastGermany",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "EastGermany",
+   "projectUnlockName": "Project_OurOwnWay"
  },
  {
    "dataName": "ClaimWGAGermany",
@@ -2844,7 +2845,7 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Sarajevo",
-   "projectUnlockName": "Project_EuropeanUnion"
+   "projectUnlockName": "Project_EuropeAscendant"
  },
  {
    "dataName": "ClaimEUABelgrade",
@@ -2974,7 +2975,7 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Finland",
-   "projectUnlockName": "Project_EuropeanUnion"
+   "projectUnlockName": "Project_EuropeAscendant"
  },
  {
    "dataName": "ClaimEUAGreenland",
@@ -3086,21 +3087,21 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Kiev",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUAKharkiv",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Kharkiv",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUACrimea",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Crimea",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUAIstanbul",
@@ -3128,14 +3129,14 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Armenia",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUAGeorgia",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Georgia",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUAAzerbaijan",
@@ -3149,7 +3150,7 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Belarus",
-   "projectUnlockName": "Project_EuropeAscendant"
+   "projectUnlockName": "Project_GreatEuropa"
  },
  {
    "dataName": "ClaimEUAMoskva",

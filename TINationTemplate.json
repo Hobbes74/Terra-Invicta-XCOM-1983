@@ -1717,7 +1717,7 @@
  {
    "friendlyName": "Burkina Faso",
    "dataName": "BKF",
-   "flagResource": "nationflags/Burkina_Faso",
+   "FlagResource": "1983/uppervolta1983",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,
@@ -2452,7 +2452,7 @@
  {
    "friendlyName": "Congo",
    "dataName": "COD",
-   "FlagResource": "1983/congo1983",
+   "FlagResource": "1983/zaire1983",
    "unionFlagResource": "",
    "unionTrigger": null,
    "multiplier": 1,

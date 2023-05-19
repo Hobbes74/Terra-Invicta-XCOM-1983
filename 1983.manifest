@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3710178737
+CRC: 2935959035
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5cb62f13a27f0d28d1f5495e4549a04c
+    Hash: 9e959f784e8ff386d641556b6e486d83
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -18,8 +18,10 @@ Assets:
 - Assets/sovietunion1983.png
 - Assets/southyemen1983.png
 - Assets/ethiopia1983.png
+- Assets/uppervolta1983.png
 - Assets/mongolia1983.png
 - Assets/bulgaria1983.png
+- Assets/zaire1983.png
 - Assets/yugoslavia1983.png
 - Assets/benin1983.png
 - Assets/southafrica1983.png

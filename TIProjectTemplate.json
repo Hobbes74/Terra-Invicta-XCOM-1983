@@ -52,5 +52,59 @@
    ],
    "iconResource": "",
    "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "German Reunification",
+   "dataName": "Project_OurOwnWay",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "ArrivalInternationalRelations",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "WGA",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
 }
 ]

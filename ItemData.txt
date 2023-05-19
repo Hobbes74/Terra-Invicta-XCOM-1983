@@ -1,0 +1,39 @@
+Save your item/level/mod data here.
+It does not need to be a text file. Any file type is supported (binary, images, etc...).
+You can save multiple files, Steam items are folders (not single files).
+
+Version 0.1.1
+* Changed: Our Own Way event renamed to German Reunification and changed the parameters to allow West Germany to instead annex East Germany;
+* Added: more UI quotes made by politicians during the Cold War and sci-fi authors;
+* Changed: Burkina Faso renamed to Upper Volta;
+* Changed: Namibia now belongs to South Africa;
+* Changed: Democratic Republic of Congo renamed to Zaire;
+* Changed: Eritreia reunited into Ethiopia;
+* Changed: South Sudan reunited into Sudan;
+* Changed: Cambodia renamed to Kampuchea;
+* Changed: Myanmar renamed to Burma;
+* Changed: South Korea renamed to Republic of Korea;
+* Changed: Taiwan renamed to Republic of China;
+* Changed: North Korea renamed to Democratic People's Republic of Korea;
+* Added: national flags of Zaire and Upper Volta;
+
+Version 0.1.0
+* Added: NATO and Warsaw Pact starting armies based on historical Cold War formations and doubled the number of nukes available to the superpowers;
+* Added: several minor historical rivalries/conflicts involving Afghanistan, Iran, South Africa, Nicaragua and their ideological allies and neighboring countries; 
+* Changed: international situation changed back to 1983, with the Western and Eastern blocs and the non-aligned countries;
+* Changed: Eurasian Union renamed to Soviet Union, flag replaced with the USSR one;
+* Replaced: all socialist/communist countries now use their historical flags, South Africa reverted to its apartheid flag;
+* Changed: country names reverted to 1983;
+* Changed: space stations renamed to the contemporary Salyut 7 and the planned predecessor of the ISS, the US Freedom Station;
+* Added: new European Union project, unlocks after Arrival International Relations, allows unification of the EEC and EFTA countries;
+* Renamed: Europe Ascendant project renamed to Fall Of The Berlin Wall;
+* Changed: Fall Of The Berlin Wall is now required to bring East Germany, Finland, Poland, Chechoslovakia, Hungary, Bulgaria, Romenia, Yugolslavia, Turkey and the Baltic States into the EU;
+* Changed: Great Europa project renamed to Cold War Victory;
+* Changed: Great Europa is now required to unify all the former USSR countries into the EU;
+* Changed: Restored Warsaw Pact renamed to All Power To The Soviets;
+* Changed: Forward Russia renamed to Forward, Comrades!;
+* Changed: Russian intelligence orgs renamed into their Soviet predecessors;
+* Changed: Russia, China and India GDPs altered to change the control points of each country into 5, 5, and 4 respectively;
+* Changed: miltech levels reduced to 1980s levels, with a general drop of 0.3-0.5 points;
+* Changed: One Humanity event replaced with Mutually Assured Destruction narrative event, with the opposite effect (loss of worldwide cohesion);
+* Changed: Security Council event rewritten to 1983;
