@@ -5,17 +5,24 @@ You can save multiple files, Steam items are folders (not single files).
 Version 0.1.1
 * Changed: Our Own Way event renamed to German Reunification and changed the parameters to allow West Germany to instead annex East Germany;
 * Added: more UI quotes made by politicians during the Cold War and sci-fi authors;
-* Changed: Burkina Faso renamed to Upper Volta;
-* Changed: Namibia now belongs to South Africa;
-* Changed: Democratic Republic of Congo renamed to Zaire;
-* Changed: Eritreia reunited into Ethiopia;
-* Changed: South Sudan reunited into Sudan;
-* Changed: Cambodia renamed to Kampuchea;
-* Changed: Myanmar renamed to Burma;
-* Changed: South Korea renamed to Republic of Korea;
-* Changed: Taiwan renamed to Republic of China;
-* Changed: North Korea renamed to Democratic People's Republic of Korea;
+* Changed: several country names and independence status reverted back to 1983;
+** Burkina Faso renamed to Upper Volta;
+** Namibia now belongs to South Africa;
+** Democratic Republic of Congo renamed to Zaire;
+** Changed: Eritreia reunited into Ethiopia;
+** Changed: South Sudan reunited into Sudan;
+** Changed: Cambodia renamed to Kampuchea;
+** Changed: Myanmar renamed to Burma;
+* Changed: reverted countries names back to their shorter versions and modified instead all displayNameWithArticle field of countries will now show their official name (Republic of Korea, etc.)
+* Changed: all displayNameWithArticle field of countries will now show their official name (Republic of Korea, etc.)
 * Added: national flags of Zaire and Upper Volta;
+* Added: Communist councillor trait;
+* Changed: several countries starting bilateral relationship;
+* Changed: more adjustments to alliances and starting armies;
+* Changed: European Union and Warsaw Pact Restored projects now unlock after We Are Not Alone tech;
+* Changed: nuclear and space status of several countries for historical accuracy;
+* Changed: China and India GDP reduced to the equivalent of their 1983 levels;
+* Changed: All Power To the Soviets renamed to Warsaw Treaty Organization;
 
 Version 0.1.0
 * Added: NATO and Warsaw Pact starting armies based on historical Cold War formations and doubled the number of nukes available to the superpowers;

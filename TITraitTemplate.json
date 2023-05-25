@@ -1,0 +1,194 @@
+[
+ {
+   "dataName": "Communist",
+   "friendlyName": "Communist",
+   "grouping": 5,
+   "tags": [
+      "",
+      ""
+   ],
+   "XPCost": null,
+   "moneyCost": null,
+   "influenceCost": null,
+   "opsCost": null,
+   "boostCost": null,
+   "projectDataName": "",
+   "upgradesFrom": "",
+   "randomCouncilorsOnly": true,
+   "incomeMoney": null,
+   "incomeInfluence": null,
+   "incomeOps": null,
+   "incomeBoost": null,
+   "incomeResearch": null,
+   "detectionInvBonus": null,
+   "detectionEspBonus": null,
+   "XPModifier": 0.1,
+   "rerollTrait": "",
+   "rerollTraitBonus": null,
+   "statMods": [
+      {
+         "stat": "Persuasion",
+         "operation": "Additive",
+         "strValue": "2",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      },
+      {
+         "stat": "",
+         "operation": "",
+         "strValue": "",
+         "condition": {
+            "$type": "",
+            "strIdx": "",
+            "sign": "",
+            "strValue": ""
+         }
+      }
+   ],
+   "missionsGrantedNames": [
+      "Inspire",
+      "Advise"
+   ],
+   "restrictedMissionNames": [
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "restrictedLocations": "",
+   "techBonuses": [
+      {
+         "category": "SocialScience",
+         "bonus": 0.1
+      }
+   ],
+   "specialTraitRule": "",
+   "specialTraitRuleValue": null,
+   "baseChance": 0,
+   "classChance": [
+      {
+         "councilorClass": "Activist",
+         "chance": 15
+      },
+      {
+         "councilorClass": "Astronaut",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Celebrity",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Commando",
+         "chance": null
+      },
+      {
+         "councilorClass": "Diplomat",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Evangelist",
+         "chance": null
+      },
+      {
+         "councilorClass": "Executive",
+         "chance": null
+      },
+      {
+         "councilorClass": "Fixer",
+         "chance": null
+      },
+      {
+         "councilorClass": "Hacker",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Inspector",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Investigator",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Journalist",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Judge",
+         "chance": 1
+      },
+      {
+         "councilorClass": "Kingpin",
+         "chance": null
+      },
+      {
+         "councilorClass": "Officer",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Operative",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Politician",
+         "chance": 20
+      },
+      {
+         "councilorClass": "Professor",
+         "chance": 10
+      },
+      {
+         "councilorClass": "Rebel",
+         "chance": 25
+      },
+      {
+         "councilorClass": "Scientist",
+         "chance": 5
+      },
+      {
+         "councilorClass": "Spy",
+         "chance": 5
+      },
+      {
+         "councilorClass": "TechMogul",
+         "chance": null
+      },
+      {
+         "councilorClass": "Tycoon",
+         "chance": null
+      },
+      {
+         "councilorClass": "Alien",
+         "chance": null
+      }
+   ]
+}
+]

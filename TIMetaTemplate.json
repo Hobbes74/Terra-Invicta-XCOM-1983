@@ -66,6 +66,8 @@
 			"PAKArmyPunjab",
 			"JPNArmy",
 			"PRKArmy",
+			"VNMArmy",
+			"THAArmy",
 			//"ISRArmy",
 			"ISRArmyCombined",
 			"KORArmy",
@@ -73,7 +75,14 @@
 			"TURArmyIstanbul",
 			"EGYArmy",
 			"IRNArmy",
-			"IRQArmy"
+			"IRQArmy",
+			"ZAFArmyCapetown",
+			"AGOArmy",
+			"CODArmy",
+			"LBYArmy",
+			"SYRArmy",
+			"ETHArmy",
+			"SOMArmy",
         ]
     }
 ]

@@ -709,5 +709,86 @@
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
- }
+ },
+ {
+   "dataName": "ZAFArmyCapetown",
+   "friendlyName": "South African Army",
+   "startRegionStr": "Namibia",
+   "homeRegionStr": "CapeTown",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "AGOArmy",
+   "friendlyName": "FAPLA",
+   "startRegionStr": "Angola",
+   "homeRegionStr": "Angola",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "CODArmy",
+   "friendlyName": "Zairean Army",
+   "startRegionStr": "Kinshasa",
+   "homeRegionStr": "Kinshasa",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "LBYArmy",
+   "friendlyName": "Libyan Army",
+   "startRegionStr": "Libya",
+   "homeRegionStr": "Libya",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "THAArmy",
+   "friendlyName": "Royal Thai Army",
+   "startRegionStr": "Bangkok",
+   "homeRegionStr": "Bangkok",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "VNMArmy",
+   "friendlyName": "Popular Army",
+   "startRegionStr": "Hanoi",
+   "homeRegionStr": "Hanoi",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "SYRArmy",
+   "friendlyName": "Syrian Army",
+   "startRegionStr": "Syria",
+   "homeRegionStr": "Syria",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "ETHArmy",
+   "friendlyName": "Ethiopian Army",
+   "startRegionStr": "Mekelle",
+   "homeRegionStr": "Ethiopia",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "SOMArmy",
+   "friendlyName": "Somalian Army",
+   "startRegionStr": "Somalia",
+   "homeRegionStr": "Somalia",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
 ]

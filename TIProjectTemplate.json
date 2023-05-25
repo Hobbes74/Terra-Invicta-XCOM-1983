@@ -6,9 +6,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 2500,
+   "researchCost": 1000,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "WeAreNotAlone",
       "",
       "",
       "",
@@ -26,6 +26,60 @@
    "oneTimeGlobally": true,
    "repeatable": false,
    "requiresNation": "EUA",
+   "requiredControlPoint": [
+      "",
+      ""
+   ],
+   "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "",
+   "initialUnlockChance": 10,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "orgGranted": "",
+   "resourcesGranted": [
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "iconResource": "",
+   "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "Restored Warsaw Pact",
+   "dataName": "Project_RestoredWarsawPact",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": null,
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 1000,
+   "prereqs": [
+      "WeAreNotAlone",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "altPrereq0": "",
+   "requiredObjectiveName": "",
+   "altRequiredObjectiveName": "",
+   "requiredMilestone": "",
+   "effects": [
+      "",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "RUS",
    "requiredControlPoint": [
       "",
       ""
