@@ -228,6 +228,12 @@
    "nation2": "AUS"
  },
  {
+   "dataName": "AllianceGBRCAN",
+   "relationType": "Alliance",
+   "nation1": "GBR",
+   "nation2": "CAN"
+ },
+ {
    "dataName": "AllianceGBRDEN",
    "relationType": "Alliance",
    "nation1": "GBR",
@@ -1114,6 +1120,12 @@
    "relationType": "Alliance",
    "nation1": "COL",
    "nation2": "PER"
+ },
+ {
+   "dataName": "AllianceCUBNIC",
+   "relationType": "Alliance",
+   "nation1": "CUB",
+   "nation2": "NIC"
  },
  {
    "dataName": "AllianceCUBPRK",
@@ -3283,14 +3295,14 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Sweden",
-   "projectUnlockName": "Project_EuropeanUnion"
+   "projectUnlockName": "Project_EuropeAscendant"
  },
  {
    "dataName": "ClaimEUAVienna",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Vienna",
-   "projectUnlockName": "Project_EuropeanUnion"
+   "projectUnlockName": "Project_EuropeAscendant"
  },
  {
    "dataName": "ClaimEUAKiev",
@@ -4954,7 +4966,7 @@
    "relationType": "Claim",
    "nation1": "RUS",
    "region1": "Finland",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSAlaska",
@@ -8112,6 +8124,18 @@
    "nation2": "SYR"
  },
  {
+   "dataName": "RivalryRUSAUS",
+   "relationType": "Rivalry",
+   "nation1": "RUS",
+   "nation2": "AUS"
+ },
+ {
+   "dataName": "RivalryRUSCAN",
+   "relationType": "Rivalry",
+   "nation1": "RUS",
+   "nation2": "CAN"
+ },
+ {
    "dataName": "RivalryRUSCHN",
    "relationType": "Rivalry",
    "nation1": "RUS",
@@ -8194,6 +8218,18 @@
    "relationType": "Rivalry",
    "nation1": "RUS",
    "nation2": "NOR"
+ },
+ {
+   "dataName": "RivalryRUSNZL",
+   "relationType": "Rivalry",
+   "nation1": "RUS",
+   "nation2": "NZL"
+ },
+ {
+   "dataName": "RivalryRUSPAK",
+   "relationType": "Rivalry",
+   "nation1": "RUS",
+   "nation2": "PAK"
  },
  {
    "dataName": "RivalryRUSPHL",
@@ -8742,6 +8778,24 @@
    "nation2": "WGA"
  },
  {
+   "dataName": "RivalryCHNAFG",
+   "relationType": "Rivalry",
+   "nation1": "CHN",
+   "nation2": "AFG"
+ },
+ {
+   "dataName": "RivalryCHNAUS",
+   "relationType": "Rivalry",
+   "nation1": "CHN",
+   "nation2": "AUS"
+ },
+ {
+   "dataName": "RivalryCHNCAN",
+   "relationType": "Rivalry",
+   "nation1": "CHN",
+   "nation2": "CAN"
+ },
+ {
    "dataName": "RivalryCHNIND",
    "relationType": "Rivalry",
    "nation1": "CHN",
@@ -8772,6 +8826,12 @@
    "nation2": "MNG"
  },
  {
+   "dataName": "RivalryCHNNZL",
+   "relationType": "Rivalry",
+   "nation1": "CHN",
+   "nation2": "NZL"
+ },
+ {
    "dataName": "RivalryCHNPHL",
    "relationType": "Rivalry",
    "nation1": "CHN",
@@ -8794,12 +8854,6 @@
    "relationType": "Rivalry",
    "nation1": "CHN",
    "nation2": "VNM"
- },
- {
-   "dataName": "RivalryCHNAFG",
-   "relationType": "Rivalry",
-   "nation1": "CHN",
-   "nation2": "AFG"
  },
  {
    "dataName": "RivalryPRKAUS",

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2495897229
+CRC: 4031507147
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 380687d48a3e4ecfdae41d5403db79e3
+    Hash: ddc899b7938317d3af27e500e64c2625
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -15,16 +15,34 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/kiae.png
+- Assets/npomashinostroyeniya.png
+- Assets/tass.png
 - Assets/sovietunion1983.png
 - Assets/southyemen1983.png
+- Assets/alpha.png
 - Assets/ethiopia1983.png
+- Assets/sovietnavy.png
 - Assets/uppervolta1983.png
+- Assets/interkosmos.png
+- Assets/sovietarmy.png
 - Assets/mongolia1983.png
 - Assets/bulgaria1983.png
+- Assets/mig.png
+- Assets/sukhoi.png
+- Assets/kgb.png
+- Assets/npoenergia.png
+- Assets/tupolev.png
 - Assets/zaire1983.png
+- Assets/pravda.png
+- Assets/ministryofinternalaffairs.png
+- Assets/stasi.png
 - Assets/yugoslavia1983.png
+- Assets/vympel.png
 - Assets/southafrica1983.png
 - Assets/romania1983.png
 - Assets/afghanistan1983.png
+- Assets/ministryofpublicsafety.png
+- Assets/fema.png
 - Assets/cambodia1983.png
 Dependencies: []

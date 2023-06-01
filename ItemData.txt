@@ -1,6 +1,19 @@
 Save your item/level/mod data here.
 It does not need to be a text file. Any file type is supported (binary, images, etc...).
-You can save multiple files, Steam items are folders (not single files).
+You can save multiple files, Steam items are folders (not single files).).
+
+Version 0.1.3
+* Removed: XP malus for Communist traits, replaced by a chance to reroll Billionaire;
+* Changed: Western Bloc orgs now forbid councillors with all the communist traits;
+* Changed: increased chance of Communist trait appearing but removed chance of trait appearing on Tech Mogul/Tycoon;
+* Changed: renamed Communist traits to Party Member and Party Secretary;
+
+Version 0.1.2
+* Changed: Fall Of The Berlin Wall project now required to unify the Alpine States, Finland and Sweden into the European Union;
+* Added: Communist trait now has two additional levels, Apparatchik and Nomenklatura;
+* Added: 30 new Eastern bloc orgs, plus others active in 1983;
+* Added: Eastern bloc orgs now require the Nomenklatura councilor trait to be acquired and used;
+* Changed: NATO orgs are forbidden to councilors with the Nomenklatura trait;
 
 Version 0.1.1
 * Changed: Our Own Way event renamed to German Reunification and changed the parameters to allow West Germany to instead annex East Germany;
@@ -34,7 +47,7 @@ Version 0.1.0
 * Changed: space stations renamed to the contemporary Salyut 7 and the planned predecessor of the ISS, the US Freedom Station;
 * Added: new European Union project, unlocks after Arrival International Relations, allows unification of the EEC and EFTA countries;
 * Renamed: Europe Ascendant project renamed to Fall Of The Berlin Wall;
-* Changed: Fall Of The Berlin Wall is now required to bring East Germany, Finland, Poland, Chechoslovakia, Hungary, Bulgaria, Romenia, Yugolslavia, Turkey and the Baltic States into the EU;
+* Changed: Fall Of The Berlin Wall is now required to bring East Germany, Finland, Poland, Chechoslovakia, Hungary, Bulgaria, Romenia, Yugoslavia, Turkey and the Baltic States into the EU;
 * Changed: Great Europa project renamed to Cold War Victory;
 * Changed: Great Europa is now required to unify all the former USSR countries into the EU;
 * Changed: Restored Warsaw Pact renamed to All Power To The Soviets;

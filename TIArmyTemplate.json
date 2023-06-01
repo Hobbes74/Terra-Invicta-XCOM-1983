@@ -101,7 +101,7 @@
  {
    "dataName": "USAMarinesAmericanPacific",
    "friendlyName": "III Marine Force",
-   "startRegionStr": "AmericanPacific",
+   "startRegionStr": "KyushuandShikoku",
    "homeRegionStr": "AmericanPacific",
    "armyType": "Human",
    "deploymentType": "Naval",
