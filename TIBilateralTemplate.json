@@ -6,6 +6,18 @@
    "nation2": "IRQ"
  },
  {
+   "dataName": "WarAGOZAF",
+   "relationType": "War",
+   "nation1": "AGO",
+   "nation2": "ZAF"
+ },
+ {
+   "dataName": "WarETHSOM",
+   "relationType": "War",
+   "nation1": "ETH",
+   "nation2": "SOM"
+ },
+ {
    "dataName": "BreakawayTWNCHN",
    "relationType": "Breakaway",
    "nation1": "TWN",
@@ -798,40 +810,58 @@
    "nation2": "AGO"
  },
  {
-   "dataName": "AllianceRUSBUL",
-   "relationType": "Alliance",
-   "nation1": "RUS",
-   "nation2": "BUL"
- },
- {
    "dataName": "AllianceRUSCUB",
    "relationType": "Alliance",
    "nation1": "RUS",
    "nation2": "CUB"
  },
  {
-   "dataName": "AllianceRUSCZE",
-   "relationType": "Alliance",
+   "dataName": "FederationRUSRUSFed",
+   "relationType": "Federation",
    "nation1": "RUS",
-   "nation2": "CZE"
+   "federation": "RUSFed"
  },
  {
-   "dataName": "AllianceRUSDEU",
-   "relationType": "Alliance",
-   "nation1": "RUS",
-   "nation2": "DEU"
+   "dataName": "FederationBULRUSFed",
+   "relationType": "Federation",
+   "nation1": "BUL",
+   "federation": "RUSFed"
+ },
+ {
+   "dataName": "FederationRUSCZEFed",
+   "relationType": "Federation",
+   "nation1": "CZE",
+   "federation": "RUSFed"
+ },
+ {
+   "dataName": "FederationDEURUSFed",
+   "relationType": "Federation",
+   "nation1": "DEU",
+   "federation": "RUSFed"
+ },
+ {
+   "dataName": "FederationHUNRUSFed",
+   "relationType": "Federation",
+   "nation1": "HUN",
+   "federation": "RUSFed"
+ },
+ {
+   "dataName": "FederationPOLRUSFed",
+   "relationType": "Federation",
+   "nation1": "POL",
+   "federation": "RUSFed"
+ },
+ {
+   "dataName": "FederationROMRUSFed",
+   "relationType": "Federation",
+   "nation1": "ROM",
+   "federation": "RUSFed"
  },
  {
    "dataName": "AllianceRUSETH",
    "relationType": "Alliance",
    "nation1": "RUS",
    "nation2": "ETH"
- },
- {
-   "dataName": "AllianceRUSHUN",
-   "relationType": "Alliance",
-   "nation1": "RUS",
-   "nation2": "HUN"
  },
  {
    "dataName": "AllianceRUSIND",
@@ -882,22 +912,10 @@
    "nation2": "NIC"
  },
  {
-   "dataName": "AllianceRUSPOL",
-   "relationType": "Alliance",
-   "nation1": "RUS",
-   "nation2": "POL"
- },
- {
    "dataName": "AllianceRUSPRK",
    "relationType": "Alliance",
    "nation1": "RUS",
    "nation2": "PRK"
- },
- {
-   "dataName": "AllianceRUSROM",
-   "relationType": "Alliance",
-   "nation1": "RUS",
-   "nation2": "ROM"
  },
  {
    "dataName": "AllianceRUSSYR",
@@ -2584,6 +2602,14 @@
    "initialOwner": true
  },
  {
+   "dataName": "ClaimWGAGermany",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Germany",
+   "capitalClaim": true,
+   "initialOwner": true
+ },
+ {
    "dataName": "ClaimWGAEastGermany",
    "relationType": "Claim",
    "nation1": "WGA",
@@ -2591,12 +2617,859 @@
    "projectUnlockName": "Project_OurOwnWay"
  },
  {
-   "dataName": "ClaimWGAGermany",
+   "dataName": "ClaimWGABalticStates",
    "relationType": "Claim",
    "nation1": "WGA",
+   "region1": "BalticStates",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGABenelux",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Benelux",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGASarajevo",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Sarajevo",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGABelgrade",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Belgrade",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAGreece",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Greece",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGARomania",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Romania",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGABulgaria",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Bulgaria",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGASlovakia",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Slovakia",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAHungary",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Hungary",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGACzechia",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Czechia",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGADenmark",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Denmark",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAFrance",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "France",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGALyon",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Lyon",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAEastGermany",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "EastGermany",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAFinland",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Finland",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAItaly",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Italy",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGANaples",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Naples",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGANorway",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Norway",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAPoland",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Poland",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAPortugal",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Portugal",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGASpain",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Spain",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGABarcelona",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Barcelona",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGACanaryIslands",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "CanaryIslands",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGASweden",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Sweden",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAVienna",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Vienna",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAKiev",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Kiev",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGAKharkiv",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Kharkiv",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimWGACrimea",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Crimea",
+   "projectUnlockName": "Project_PanEuropa"
+ },
+ {
+   "dataName": "ClaimNETBritishWestIndies",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "BritishWestIndies"
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETGreece",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Greece"
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETEngland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "England"
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETEuropeanPacific",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "EuropeanPacific",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETEuropeanRatnakara",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "EuropeanRatnakara",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETEuropeanWestIndies",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "EuropeanWestIndies",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETDenmark",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Denmark",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETDutchCaribbean",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "DutchCaribbean",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETFrance",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "France",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETLyon",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Lyon",
+   "initialOwner": true,
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETGermany",
+   "relationType": "Claim",
+   "nation1": "NET",
    "region1": "Germany",
-   "capitalClaim": true,
-   "initialOwner": true
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETFinland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Finland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETGreenland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Greenland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETIceland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Iceland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETIreland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Ireland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETItaly",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Italy",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNaples",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Naples",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNorthernIreland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "NorthernIreland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNorway",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Norway",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETPoland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Poland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETPortugal",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Portugal",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETScotland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Scotland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETSpain",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Spain",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETBarcelona",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Barcelona",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETCanaryIslands",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "CanaryIslands",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETSweden",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Sweden",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETVienna",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Vienna",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETIstanbul",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Istanbul",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETAnatolia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Anatolia",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETDiyarbakir",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Diyarbakir",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETAlaska",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Alaska",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETAmericanCaribbean",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "AmericanCaribbean",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETAmericanPacific",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "AmericanPacific",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETCalifornia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "California",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETCascadia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Cascadia",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETDixie",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Dixie",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETHighPlains",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "HighPlains",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNewEngland",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "NewEngland",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNewYork",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "NewYork",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETRockyMountains",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "RockyMountains",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETRustBelt",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "RustBelt",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETShenandoah",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Shenandoah",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETTexas",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Texas",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETBritishColumbia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "BritishColumbia",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETCanadianArctic",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "CanadianArctic",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETLaurentia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Laurentia",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETOntario",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Ontario",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETPrairies",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Prairies",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETBrisbane",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Brisbane",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETSydney",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Sydney",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETWestralia",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Westralia",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETNewZealand",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "NewZealand"
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNET_Israel",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "_Israel",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimNETCombinedIsrael",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "CombinedIsrael",
+   "projectUnlockName": "Project_WesternAlliance"
+ },
+ {
+   "dataName": "ClaimGBRAbuja",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Abuja",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAAlgeria",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Algeria",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimPRTAngola",
+   "relationType": "Claim",
+   "nation1": "PRT",
+   "region1": "Angola",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRBotswana",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Botswana",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRCapeTown",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "CapeTown",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUACentralAfricanRepublic",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "CentralAfricanRepublic",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAChad",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Chad",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBREgypt",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Egypt",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimITAEritrea",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Eritrea",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimITAEthiopia",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Ethiopia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRJohannesburg",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Johannesburg",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRKenya",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Kenya",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimNETKinshasa",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Kinshasa",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRLagos",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Lagos",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimITALibya",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Libya",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimWGACameroon",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Cameroon",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUABrazzaville",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Brazzaville",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimNETLubumbashi",
+   "relationType": "Claim",
+   "nation1": "NET",
+   "region1": "Lubumbashi",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAMadagascar",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Madagascar",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAMali",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Mali",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAMauritania",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Mauritania",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimITAMekelle",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Mekelle",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRAccra",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Accra",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUABurkinaFaso",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "BurkinaFaso",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAIvoryCoast",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "IvoryCoast",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUARabat",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Rabat",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimESPWesternSahara",
+   "relationType": "Claim",
+   "nation1": "ESP",
+   "region1": "WesternSahara",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimPRTMozambique",
+   "relationType": "Claim",
+   "nation1": "PRT",
+   "region1": "Mozambique",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimWGANamibia",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Namibia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUANiger",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Niger",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRSudan",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Sudan",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRSouthSudan",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "SouthSudan",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimITASomalia",
+   "relationType": "Claim",
+   "nation1": "ITA",
+   "region1": "Somalia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimWGATanzania",
+   "relationType": "Claim",
+   "nation1": "WGA",
+   "region1": "Tanzania",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUATunisia",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Tunisia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRUganda",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Uganda",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUASenegambia",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Senegambia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimEUAConkary",
+   "relationType": "Claim",
+   "nation1": "EUA",
+   "region1": "Conkary",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRZambia",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Zambia",
+   "projectUnlockName": "Project_ScrambleForAfrica"
+ },
+ {
+   "dataName": "ClaimGBRZimbabwe",
+   "relationType": "Claim",
+   "nation1": "GBR",
+   "region1": "Zimbabwe",
+   "projectUnlockName": "Project_ScrambleForAfrica"
  },
  {
    "dataName": "ClaimEGYAlgeria",
@@ -4807,15 +5680,13 @@
    "dataName": "ClaimRUSBulgaria",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Bulgaria",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Bulgaria"
  },
  {
    "dataName": "ClaimRUSRomania",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Romania",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Romania"
  },
  {
    "dataName": "ClaimRUSEasternSiberia",
@@ -4858,15 +5729,13 @@
    "dataName": "ClaimRUSPoland",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Poland",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Poland"
  },
  {
    "dataName": "ClaimRUSEastGermany",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "EastGermany",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "EastGermany"
  },
  {
    "dataName": "ClaimRUSRostovskaya",
@@ -4922,15 +5791,13 @@
    "dataName": "ClaimRUSSarajevo",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Sarajevo",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Sarajevo"
  },
  {
    "dataName": "ClaimRUSBelgrade",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Belgrade",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Belgrade"
  },
  {
    "dataName": "ClaimRUSWesternSiberia",
@@ -4944,141 +5811,115 @@
    "dataName": "ClaimRUSCzechia",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Czechia",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Czechia"
  },
  {
    "dataName": "ClaimRUSSlovakia",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Slovakia",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Slovakia"
  },
  {
    "dataName": "ClaimRUSHungary",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Hungary",
-   "projectUnlockName": "Project_RestoredWarsawPact"
+   "region1": "Hungary"
  },
  {
    "dataName": "ClaimRUSFinland",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Finland",
-   "projectUnlockName": "Project_ForwardRussia"
- },
- {
-   "dataName": "ClaimRUSAlaska",
-   "relationType": "Claim",
-   "nation1": "RUS",
-   "region1": "Alaska",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Finland"
  },
  {
    "dataName": "ClaimRUSGermany",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Germany",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Germany"
  },
  {
    "dataName": "ClaimRUSVienna",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Vienna",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Vienna"
  },
  {
    "dataName": "ClaimRUSGreece",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Greece",
-   "projectUnlockName": "Project_ForwardRussia"
- },
- {
-   "dataName": "ClaimRUSMongolia",
-   "relationType": "Claim",
-   "nation1": "RUS",
-   "region1": "Mongolia",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Greece"
  },
  {
    "dataName": "ClaimRUSSweden",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Sweden",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Sweden"
  },
  {
    "dataName": "ClaimRUSNorway",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Norway",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Norway"
  },
  {
    "dataName": "ClaimRUSDenmark",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Denmark",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Denmark"
  },
  {
    "dataName": "ClaimRUSBenelux",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Benelux",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Benelux"
  },
  {
    "dataName": "ClaimRUSItaly",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Italy",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Italy"
  },
  {
    "dataName": "ClaimRUSNaples",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Naples",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Naples"
  },
  {
    "dataName": "ClaimRUSLyon",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Lyon",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Lyon"
  },
  {
    "dataName": "ClaimRUSFrance",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "France",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "France"
  },
  {
    "dataName": "ClaimRUSSpain",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Spain",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Spain"
  },
  {
    "dataName": "ClaimRUSBarcelona",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Barcelona",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Barcelona"
+ },
+ {
+   "dataName": "ClaimRUSCanaryIslands",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "CanaryIslands"
  },
  {
    "dataName": "ClaimRUSPortugal",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Portugal",
-   "projectUnlockName": "Project_ForwardRussia"
+   "region1": "Portugal"
  },
  {
    "dataName": "ClaimRWPNewGuinea",
@@ -8274,12 +9115,6 @@
    "nation2": "ZAF"
  },
  {
-   "dataName": "RivalryZAFAGO",
-   "relationType": "Rivalry",
-   "nation1": "ZAF",
-   "nation2": "AGO"
- },
- {
    "dataName": "RivalryZAFZWE",
    "relationType": "Rivalry",
    "nation1": "ZAF",
@@ -9118,12 +9953,6 @@
    "relationType": "Rivalry",
    "nation1": "SEN",
    "nation2": "YEM"
- },
- {
-   "dataName": "RivalrySOMETH",
-   "relationType": "Rivalry",
-   "nation1": "SOM",
-   "nation2": "ETH"
  },
  {
    "dataName": "RivalryPERECU",
@@ -11234,6 +12063,391 @@
    "nation1": "RUS",
    "region1": "Karelia",
    "initialOwner": true
+ },
+ {
+   "dataName": "ClaimRUSAlaska",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Alaska",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSAmericanCaribbean",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "AmericanCaribbean",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSAmericanPacific",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "AmericanPacific",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSCalifornia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "California",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSCascadia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Cascadia",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSDixie",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Dixie",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSHighPlains",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "HighPlains",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSNewEngland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "NewEngland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSNewYork",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "NewYork",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSRockyMountains",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "RockyMountains",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSRustBelt",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "RustBelt",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSShenandoah",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Shenandoah",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSTexas",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Texas",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSBritishColumbia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "BritishColumbia",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSCanadianArctic",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "CanadianArctic",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSLaurentia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Laurentia",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSOntario",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Ontario",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSPrairies",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Prairies",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSEuropeanWestIndies",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "EuropeanWestIndies",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSDutchCaribbean",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "DutchCaribbean",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSGreenland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Greenland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSIceland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Iceland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSIreland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Ireland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSBritishWestIndies",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "BritishWestIndies",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSEngland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "England",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSNorthernIreland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "NorthernIreland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSScotland",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Scotland",
+   "projectUnlockName": "Project_RedDawn"
+ },
+ {
+   "dataName": "ClaimRUSAfghanistan",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Afghanistan",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSCambodia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Cambodia",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSCuba",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Cuba",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSLaos",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Laos",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSMongolia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Mongolia",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSNorthKorea",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "NorthKorea",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSSouthKorea",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "SouthKorea",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSTaiwan",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Taiwan",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSHanoi",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Hanoi",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSHoChiMinhCity",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "HoChiMinhCity",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSWuhan",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Wuhan",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSXian",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Xian",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSGobi",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Gobi",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSBeijing",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Beijing",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSManchuria",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Manchuria",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSGuangzhou",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Guangzhou",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSGuizhou",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Guizhou",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSChongqing",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Chongqing",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSTibet",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Tibet",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSNanjing",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Nanjing",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSShanghai",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Shanghai",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSXinjiang",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Xinjiang",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSEritrea",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Eritrea",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSEthiopia",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Ethiopia",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSMekelle",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Mekelle",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSAngola",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Angola",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSMozambique",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Mozambique",
+   "projectUnlockName": "Project_CommunistInternational"
+ },
+ {
+   "dataName": "ClaimRUSNicaragua",
+   "relationType": "Claim",
+   "nation1": "RUS",
+   "region1": "Nicaragua",
+   "projectUnlockName": "Project_CommunistInternational"
  },
  {
    "dataName": "ClaimARMArmenia",

@@ -2,8 +2,17 @@ Save your item/level/mod data here.
 It does not need to be a text file. Any file type is supported (binary, images, etc...).
 You can save multiple files, Steam items are folders (not single files).).
 
+Version 0.1.4
+* Added: Red Dawn project, allows Russia to conquer North America (excluding Mexico)
+* Added: Communist International project, allows Russia to unify all the starting communist states (non-Warsaw Pact ones), plus South Korea and Taiwan;
+* Added: Western Alliance project, allows the Netherlands to unify all the NATO countries + Israel, Australia and New Zealand;
+* Added: Scramble For Africa project, the European countries get a claim on their former African colonies;
+* Added: Pan-Europa project, continental Europe unifies under the banner of Germany;
+* Removed: Restored Warsaw Pact and Forward Russia projects;
+
+
 Version 0.1.3
-* Removed: XP malus for Communist traits, replaced by a chance to reroll Billionaire;
+* Removed: XP malus for Communist traits, replaced by a lower chance to reroll Billionaire;
 * Changed: Western Bloc orgs now forbid councillors with all the communist traits;
 * Changed: increased chance of Communist trait appearing but removed chance of trait appearing on Tech Mogul/Tycoon;
 * Changed: renamed Communist traits to Party Member and Party Secretary;
