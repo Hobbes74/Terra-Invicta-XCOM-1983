@@ -853,10 +853,10 @@ TINationTemplate.unionDisplayNameWithArticle.ETH=the African Union
 TINationTemplate.unionAdjective.ETH=African
 TINationTemplate.unionDisplayNameWithArticlePrep.ETH=in the African Union
 
-TINationTemplate.unionDisplayName.EUA=European Union
-TINationTemplate.unionDisplayNameWithArticle.EUA=the European Union
+TINationTemplate.unionDisplayName.EUA=European Economic Community
+TINationTemplate.unionDisplayNameWithArticle.EUA=the European Economic Community
 TINationTemplate.unionAdjective.EUA=European
-TINationTemplate.unionDisplayNameWithArticlePrep.EUA=in the European Union
+TINationTemplate.unionDisplayNameWithArticlePrep.EUA=in the European Economic Community
 
 TINationTemplate.unionDisplayName.MYS=United Malay Nation
 TINationTemplate.unionDisplayNameWithArticle.MYS=the United Malay Nation

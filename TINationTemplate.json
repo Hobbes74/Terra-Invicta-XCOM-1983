@@ -1375,8 +1375,8 @@
    "friendlyName": "Benelux",
    "dataName": "NET",
    "flagResource": "nationflags/Netherlands",
-   "flagResource": "1983/westernalliance",
-   "unionTrigger": 2,
+   "unionFlagResource": "1983/westernalliance",
+   "unionTrigger": 3,
    "multiplier": 1,
    "color32": {
       "r": 84,
@@ -9313,7 +9313,7 @@
    "friendlyName": "West Germany",
    "dataName": "WGA",
    "flagResource": "nationflags/Germany",
-   "flagResource": "1983/paneuropa",
+   "unionFlagResource": "1983/paneuropa",
    "unionTrigger": 3,
    "multiplier": 1,
    "color32": {

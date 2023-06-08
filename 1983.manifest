@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4031507147
+CRC: 1877605273
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ddc899b7938317d3af27e500e64c2625
+    Hash: 5ed9f7e82f7e47c8669985a5fa57c2da
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -16,33 +16,63 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/kiae.png
+- Assets/tamiltigers.png
 - Assets/npomashinostroyeniya.png
-- Assets/tass.png
-- Assets/sovietunion1983.png
+- Assets/eln.png
 - Assets/southyemen1983.png
-- Assets/alpha.png
 - Assets/ethiopia1983.png
-- Assets/sovietnavy.png
+- Assets/dgi.png
 - Assets/uppervolta1983.png
-- Assets/interkosmos.png
+- Assets/npoorion.png
 - Assets/sovietarmy.png
-- Assets/mongolia1983.png
 - Assets/bulgaria1983.png
+- Assets/wsw.png
 - Assets/mig.png
+- Assets/jemaahislamiyah.png
 - Assets/sukhoi.png
+- Assets/mongolia1983.png
+- Assets/plo.png
+- Assets/redhand.png
+- Assets/pflp.png
+- Assets/zaire1983.png
+- Assets/pravda.png
+- Assets/paneuropa.png
+- Assets/yugoslavia1983.png
+- Assets/usla.png
+- Assets/vympel.png
+- Assets/hizbuttahrir.png
+- Assets/fatah.png
+- Assets/securitate.png
+- Assets/islamicjihad.png
+- Assets/npoalmaz.png
+- Assets/fema.png
+- Assets/cambodia1983.png
+- Assets/viam.png
+- Assets/fmln.png
+- Assets/moro.png
+- Assets/wftu.png
+- Assets/sb.png
+- Assets/tass.png
+- Assets/pkk.png
+- Assets/sovietunion1983.png
+- Assets/alpha.png
+- Assets/elektronika.png
+- Assets/sovietnavy.png
+- Assets/interkosmos.png
+- Assets/mek.png
+- Assets/comecon.png
+- Assets/pira.png
 - Assets/kgb.png
 - Assets/npoenergia.png
 - Assets/tupolev.png
-- Assets/zaire1983.png
-- Assets/pravda.png
 - Assets/ministryofinternalaffairs.png
 - Assets/stasi.png
-- Assets/yugoslavia1983.png
-- Assets/vympel.png
+- Assets/westernalliance.png
+- Assets/muslimbrotherhood.png
+- Assets/robotron.png
 - Assets/southafrica1983.png
 - Assets/romania1983.png
 - Assets/afghanistan1983.png
 - Assets/ministryofpublicsafety.png
-- Assets/fema.png
-- Assets/cambodia1983.png
+- Assets/japaneseredarmy.png
 Dependencies: []

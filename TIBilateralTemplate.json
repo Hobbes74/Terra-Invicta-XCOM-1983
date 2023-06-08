@@ -12,12 +12,6 @@
    "nation2": "ZAF"
  },
  {
-   "dataName": "WarETHSOM",
-   "relationType": "War",
-   "nation1": "ETH",
-   "nation2": "SOM"
- },
- {
    "dataName": "BreakawayTWNCHN",
    "relationType": "Breakaway",
    "nation1": "TWN",
@@ -814,6 +808,54 @@
    "relationType": "Alliance",
    "nation1": "RUS",
    "nation2": "CUB"
+ },
+ {
+   "dataName": "FederationWGAEUAFed",
+   "relationType": "Federation",
+   "nation1": "WGA",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationEUAEUAFed",
+   "relationType": "Federation",
+   "nation1": "EUA",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationGBRUAFed",
+   "relationType": "Federation",
+   "nation1": "GBR",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationIRLEUAFed",
+   "relationType": "Federation",
+   "nation1": "IRL",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationITAEUAFed",
+   "relationType": "Federation",
+   "nation1": "ITA",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationNETEUAFed",
+   "relationType": "Federation",
+   "nation1": "NET",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationDENEUAFed",
+   "relationType": "Federation",
+   "nation1": "DEN",
+   "federation": "EUAFed"
+ },
+ {
+   "dataName": "FederationGREEUAFed",
+   "relationType": "Federation",
+   "nation1": "GRE",
+   "federation": "EUAFed"
  },
  {
    "dataName": "FederationRUSRUSFed",
@@ -2708,13 +2750,6 @@
    "projectUnlockName": "Project_PanEuropa"
  },
  {
-   "dataName": "ClaimWGAEastGermany",
-   "relationType": "Claim",
-   "nation1": "WGA",
-   "region1": "EastGermany",
-   "projectUnlockName": "Project_PanEuropa"
- },
- {
    "dataName": "ClaimWGAFinland",
    "relationType": "Claim",
    "nation1": "WGA",
@@ -2816,21 +2851,21 @@
    "dataName": "ClaimNETBritishWestIndies",
    "relationType": "Claim",
    "nation1": "NET",
-   "region1": "BritishWestIndies"
+   "region1": "BritishWestIndies",
    "projectUnlockName": "Project_WesternAlliance"
  },
  {
    "dataName": "ClaimNETGreece",
    "relationType": "Claim",
    "nation1": "NET",
-   "region1": "Greece"
+   "region1": "Greece",
    "projectUnlockName": "Project_WesternAlliance"
  },
  {
    "dataName": "ClaimNETEngland",
    "relationType": "Claim",
    "nation1": "NET",
-   "region1": "England"
+   "region1": "England",
    "projectUnlockName": "Project_WesternAlliance"
  },
  {
@@ -2859,13 +2894,6 @@
    "relationType": "Claim",
    "nation1": "NET",
    "region1": "Denmark",
-   "projectUnlockName": "Project_WesternAlliance"
- },
- {
-   "dataName": "ClaimNETDutchCaribbean",
-   "relationType": "Claim",
-   "nation1": "NET",
-   "region1": "DutchCaribbean",
    "projectUnlockName": "Project_WesternAlliance"
  },
  {
@@ -3174,7 +3202,7 @@
    "dataName": "ClaimNETNewZealand",
    "relationType": "Claim",
    "nation1": "NET",
-   "region1": "NewZealand"
+   "region1": "NewZealand",
    "projectUnlockName": "Project_WesternAlliance"
  },
  {
@@ -3926,14 +3954,12 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Benelux",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUABritishWestIndies",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "BritishWestIndies",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUASarajevo",
@@ -3954,7 +3980,6 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Greece",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUARomania",
@@ -3995,8 +4020,7 @@
    "dataName": "ClaimEUAEngland",
    "relationType": "Claim",
    "nation1": "EUA",
-   "region1": "England",
-   "projectUnlockName": "Project_EuropeanUnion"
+   "region1": "England"
  },
  {
    "dataName": "ClaimEUAEuropeanPacific",
@@ -4027,14 +4051,12 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Denmark",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUADutchCaribbean",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "DutchCaribbean",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAFrance",
@@ -4056,7 +4078,6 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Germany",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAEastGermany",
@@ -4077,49 +4098,42 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Greenland",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAIceland",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Iceland",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAIreland",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Ireland",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAItaly",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Italy",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUANaples",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Naples",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUANorthernIreland",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "NorthernIreland",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUANorway",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Norway",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAPoland",
@@ -4133,35 +4147,30 @@
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Portugal",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUAScotland",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Scotland",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUASpain",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Spain",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUABarcelona",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "Barcelona",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUACanaryIslands",
    "relationType": "Claim",
    "nation1": "EUA",
    "region1": "CanaryIslands",
-   "projectUnlockName": "Project_EuropeanUnion"
  },
  {
    "dataName": "ClaimEUASweden",

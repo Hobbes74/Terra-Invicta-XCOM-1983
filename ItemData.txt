@@ -1,15 +1,34 @@
-Save your item/level/mod data here.
-It does not need to be a text file. Any file type is supported (binary, images, etc...).
-You can save multiple files, Steam items are folders (not single files).).
+The aliens arrive at Earth at one of the heights of the Cold War to find it divided between the Western and Eastern blocs, both heavily armed and ready for WW3.
+
+Work in progress. Requires the latest beta versions.
+
+Includes:
+* The nations and the bilateral relationships have been reset to the year of 1983, with the corresponding flags and names;
+* Starting armies increased and renamed;
+* 30 Eastern Bloc historical organizations: KGB, Stasi, Spetsnaz, Pravda, TASS, MiG, Sukhoi, Tupolev and others;
+* New Communist trait for councillors with three levels, required to purchase/use Eastern orgs, gives several bonuses but it also causes loyalty drops;
+* Western orgs can't be purchased/used by councillors with the Communist trait;
+* Environmental conditions (CO2, methane, etc.) and space programs reduced to reflect 1983;
+* Miltech reduced by 0.3-0.5 points depending on the country;
+* The Soviet Union starts with 5 control points, India and China with only 4;
+* Several new unification projects: Pan-Europa (Germany unifies Europe instead of France), Western Alliance (Benelux unifies all the Western powers), Scramble For Africa (Europe recolonizes the continent), Red Dawn (Soviet Union claims the USA), Communist International, German Reunification, Fall Of The Berlin Wall
+
+Version 0.1.5
+* Changed: European Union changed to European Economic Community (EEC), with its eight members starting already federated: France, West Germany, Italy, United Kingdom, Greece, Ireland, Denmark;
+* Changed: requirements to promote Communist trait;
+* Fixed: missing text strings for some new orgs;
+* Fixed: unused projects appearing for research;
 
 Version 0.1.4
-* Added: Red Dawn project, allows Russia to conquer North America (excluding Mexico)
+* Added: Red Dawn project, allows Russia to conquer North America (excluding Mexico);
 * Added: Communist International project, allows Russia to unify all the starting communist states (non-Warsaw Pact ones), plus South Korea and Taiwan;
 * Added: Western Alliance project, allows the Netherlands to unify all the NATO countries + Israel, Australia and New Zealand;
 * Added: Scramble For Africa project, the European countries get a claim on their former African colonies;
 * Added: Pan-Europa project, continental Europe unifies under the banner of Germany;
+* Added: Angola-South Africa Brush War;
 * Removed: Restored Warsaw Pact and Forward Russia projects;
-
+* Added: NPO Orion, NPO Almaz, VIAM, COMECON, WTFU, Robotron and Elektronika orgs;
+* Changed: several adjustments to the new Eastern Bloc orgs;
 
 Version 0.1.3
 * Removed: XP malus for Communist traits, replaced by a lower chance to reroll Billionaire;
