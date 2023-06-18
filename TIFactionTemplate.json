@@ -417,7 +417,7 @@
 },
  {
    "dataName": "ExploitCouncil",
-   "friendlyName": "Transition Authority",
+   "friendlyName": "Authority",
    "color": {
       "r": 0.929,
       "g": 0.518,
@@ -1060,7 +1060,7 @@
    "difficulty": 1,
    "tutorialAllowed": false,
    "councilorIconBase": "_cooperate",
-   "leaderDataname": "ExploitLeader01",
+   "leaderDataname": "ResistLeader01",
    "defaultPresetName": "Cooperate",
    "hullIndex_default": 0,
    "hullIndex_chem": 0,
@@ -1268,7 +1268,7 @@
    "difficulty": 0,
    "tutorialAllowed": false,
    "councilorIconBase": "_escape",
-   "leaderDataname": "ResistLeader01",
+   "leaderDataname": "ExploitLeader01",
    "defaultPresetName": "Escape",
    "hullIndex_default": 0,
    "hullIndex_chem": 0,

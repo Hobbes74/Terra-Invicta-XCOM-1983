@@ -1,13 +1,13 @@
 TIFactionTemplate.displayName.ResistCouncil=Secretariat
 TIFactionTemplate.displayName.DestroyCouncil=Operation RYaN
-TIFactionTemplate.displayName.ExploitCouncil="Transition Authority
+TIFactionTemplate.displayName.ExploitCouncil=Authority
 TIFactionTemplate.displayName.SubmitCouncil=New World Order
 TIFactionTemplate.displayName.AppeaseCouncil=SDI
 TIFactionTemplate.displayName.CooperateCouncil=Gladio
 TIFactionTemplate.displayName.EscapeCouncil=SETI Project
 TIFactionTemplate.adjective.ResistCouncil=the Secretariat
 TIFactionTemplate.adjective.DestroyCouncil=Operation RYaN
-TIFactionTemplate.adjective.ExploitCouncil=the Transition Authority
+TIFactionTemplate.adjective.ExploitCouncil=the Authority
 TIFactionTemplate.adjective.SubmitCouncil=the New World Order
 TIFactionTemplate.adjective.AppeaseCouncil=SDI
 TIFactionTemplate.adjective.CooperateCouncil=Gladio
@@ -28,7 +28,7 @@ TIFactionTemplate.leader.CooperateCouncil=Sadie Brekke
 TIFactionTemplate.leader.EscapeCouncil=Eldrich Mann
 TIFactionTemplate.fullLeader.ResistCouncil=Secretary Omar Al Shamry, Secretariat
 TIFactionTemplate.fullLeader.DestroyCouncil=Comrade Dmitri Illyuschenko, Operation RYaN
-TIFactionTemplate.fullLeader.ExploitCouncil=Coordinator Machida Ren, the Transition Authority
+TIFactionTemplate.fullLeader.ExploitCouncil=Coordinator Machida Ren, the Authority
 TIFactionTemplate.fullLeader.SubmitCouncil=Commander Silvio Domingo, New World Order
 TIFactionTemplate.fullLeader.AppeaseCouncil=Director Talia Eckhard, SDI
 TIFactionTemplate.fullLeader.CooperateCouncil=Brigadier Sadie Brekke, Gladio
@@ -60,10 +60,10 @@ TIFactionTemplate.CampaignStart.AppeaseCouncil=All I can say {0} is that the Pre
 TIFactionTemplate.CampaignStart.EscapeCouncil=The search for extraterrestrial life has truly begun with the crash of the artificial object at (2), {0}. And {1} must continue its work, to establish first contact with any alien species that we now know are out there.<br/><br/>And we must lead the scientific community and our political leaders in this effort of contacting the aliens, it's already clear that our leaders too preocupied with their petty ideologies and are failing to respond to the greatest moment yet lived by humanity. There's much we need to learn, and quickly, because we do not have the luxury of time anymore, there are already other powers interested at the crash site at (3) and whatever secrets it may contain.<br/><br/>I have assembled a recovery team to help investigating the {4} region. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.<br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. // rank, council name, leader name
 TIFactionTemplate.Introduction.ResistCouncil=We have encountered {0}.<br/><br/>Led by the international diplomatic corps, their leaders have called for the negotiations with our new galactic neighbors.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.DestroyCouncil=We have encountered {0}.<br/><br/>As a result of the Soviet leaders paranoia against the West, the KGB was ordered to create an operation to detect abd prevent any surprise attack by the West.<br/><br/>{4}<br/>   - {1} {2} {3}
-TIFactionTemplate.Introduction.ExploitCouncil=We have encountered {0}.<br/><br/>An unknown East Asian consortium of groups and interests. the Conglomerate is calling for full cooperation with the aliens during their arrival and posing themselves as the transitional authority as they implement their rule over Earth.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.ExploitCouncil=We have encountered {0}.<br/><br/>An unknown East Asian consortium of groups and interests. the Authority is calling for full cooperation with the aliens during their arrival and posing themselves as the transitional government when the implement their rule over Earth.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.SubmitCouncil=We have encountered {0}.<br/><br/>A coalition of revolutionary and terrorist groups, they are using the opportunity created by the alien arrival to gain power while applauding the alien arrival as an opportunity for humanity for global peace and justice.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.AppeaseCouncil=We have encountered {0}.<br/><br/>The Strategic Defense Initiative was initially formed to defend the United States against nuclear missiles but their mission has been changed to protect Earth from the aliens.<br/><br/>{4}<br/>   - {1} {2} {3}
-TIFactionTemplate.Introduction.CooperateCouncil=We have encountered {0}.<br/><br/>A stay-behind organization initially created by the NATO nations to conduct guerrilla warfare against any invaders, Gladio's leadership has now called the extraterrestrials the greatest threat that our species have encountered and has called for total warfare against the extraterrestrials and their supporters on Earth.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.CooperateCouncil=We have encountered {0}.<br/><br/>A stay-behind organization initially created by the NATO nations to conduct guerrilla warfare against any invaders, Gladio's leadership considers the extraterrestrials the greatest threat and has called for total warfare against the extraterrestrials and their supporters on Earth.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.EscapeCouncil=We have encountered {0}.<br/><br/>A network of scientists and their supporters, they call for humanity to establish first contact with as many alien civilizations as possible, since the arrival of the aliens means that more civilizations should be among the stars.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Quote.ResistCouncil=<align="right">"We must approach the aliens with the same ideals of the United Nations and establish peaceful relations with them."<align="left">
 TIFactionTemplate.Quote.DestroyCouncil=<align="right">"The imperialists' greatest weakness is always their blindness to the power of the proletariat once it is properly unleashed."<align="left">
@@ -71,7 +71,7 @@ TIFactionTemplate.Quote.ExploitCouncil=<align="right">"Order is everything that 
 TIFactionTemplate.Quote.SubmitCouncil=<align="right">"The aliens are bringing a new world order of peace and progress for all of us."<align="left">
 TIFactionTemplate.Quote.AppeaseCouncil=<align="right">"We need to remove the permanent threat that hangs over our heads, regardless if they are extraterrestrial or human in origin."<align="left">
 TIFactionTemplate.Quote.CooperateCouncil=<align="right">"Earth must be free of any alien influence or presence to freely choose its destiny."<align="left">
-TIFactionTemplate.Quote.EscapeCouncil=<align="right">"There must be dozens of other civilizations out there and contacting them all is the rational choice."<align="left">
+TIFactionTemplate.Quote.EscapeCouncil=<align="right">"There must be dozens of other civilizations out there and contacting them all is the rational choice to ensure our survival."<align="left">
 TIFactionTemplate.Goal.DestroyCouncil=Divide the workers' enemies and defeat them apiece.
 TIFactionTemplate.Goal.AppeaseCouncil=Protect Earth from any internal or external threats.
 TIFactionTemplate.Victory.DestroyCouncil=spread the revolution through Hydra wormhole
