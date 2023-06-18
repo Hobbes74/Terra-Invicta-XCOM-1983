@@ -1,0 +1,10 @@
+[
+	{
+		"dataName": "DividePlayer",
+		"council": "DivideCouncil",
+	},
+	{
+		"dataName": "ProtectPlayer",
+		"council": "ProtectCouncil",
+	}
+]

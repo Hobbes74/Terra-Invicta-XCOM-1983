@@ -1,0 +1,38 @@
+[
+ {
+   "dataName": "Divide",
+   "friendlyName": "Divide",
+   "nationalAIOption": false,
+   "factionName": "DivideCouncil",
+   "economySetting": null,
+   "welfareSetting": null,
+   "knowledgeSetting": 3,
+   "unitySetting": 1,
+   "militarySetting": 3,
+   "armySetting": 1,
+   "spoilsSetting": 1,
+   "spaceProgramSetting": 1,
+   "boostSetting": 1,
+   "missionControlSetting": 1,
+   "nuclearProgramSetting": 1,
+   "spaceDefenseSetting": 3
+ },
+ {
+   "dataName": "Protect",
+   "friendlyName": "Protect",
+   "nationalAIOption": false,
+   "factionName": "ProtectCouncil",
+   "economySetting": null,
+   "welfareSetting": null,
+   "knowledgeSetting": 3,
+   "unitySetting": null,
+   "militarySetting": 3,
+   "armySetting": null,
+   "spoilsSetting": null,
+   "spaceProgramSetting": 3,
+   "boostSetting": 3,
+   "missionControlSetting": 3,
+   "nuclearProgramSetting": null,
+   "spaceDefenseSetting": 3
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+   "dataName": "DivideLeader01",
+   "string": "M_EUR_06",
+   "enable": false,
+   "specific_person": null,
+   "notes": "",
+   "idleVideoYoung": "charactervideos/M_EUR_06",
+   "idleVideoOld": "charactervideos/M_EUR_06_Mid",
+   "portraitYoung": "characterportraits/M_EUR_06",
+   "portraitOld": "characterportraits/M_EUR_06_Mid",
+   "iconYoung": "charactericons/M_EUR_06_icon",
+   "iconOld": "",
+   "allowedGenders": [
+      "Male",
+      "NonBinary"
+   ],
+   "year": "",
+   "allowedAncestries": [
+      "European",
+      ""
+   ],
+   "allowedJobNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "RevisitNormal": ""
+},
+ {
+   "dataName": "ProtectLeader01",
+   "string": "F_EUR_06",
+   "enable": false,
+   "specific_person": null,
+   "notes": "",
+   "idleVideoYoung": "charactervideos/F_EUR_06",
+   "idleVideoOld": "charactervideos/F_EUR_06_Mid",
+   "portraitYoung": "characterportraits/F_EUR_06",
+   "portraitOld": "characterportraits/F_EUR_06_Mid",
+   "iconYoung": "charactericons/F_EUR_06_icon",
+   "iconOld": "",
+   "allowedGenders": [
+      "Female",
+      "Nonbinary"
+   ],
+   "year": "",
+   "allowedAncestries": [
+      "European",
+      ""
+   ],
+   "allowedJobNames": [
+      "Spy",
+      "Fixer",
+      "Activist",
+      "Journalist",
+      "Hacker",
+      "Professor",
+      "Politician",
+      "Diplomat",
+      "Scientist",
+      "Rebel",
+      "Investigator",
+      "Inspector",
+      "Kingpin",
+      "TechMogul",
+      "Executive",
+      "Judge",
+      "Tycoon",
+      "",
+      "",
+      ""
+   ],
+   "RevisitNormal": ""
+},
+]

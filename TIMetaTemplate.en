@@ -1,2 +1,14 @@
-TIMetaTemplate.displayName.ModernScenario=Modern Scenario
-TIMetaTemplate.description.ModernScenario=1983 start
+TIMetaTemplate.displayName.1983Scenario=1983 Scenario
+TIMetaTemplate.description.1983Scenario=1983 start
+TIMetaTemplate.displayName.3Factions=Three Factions
+TIMetaTemplate.description.3Factions=Divide, Alien, Submit
+TIMetaTemplate.displayName.4Factions=Four Factions
+TIMetaTemplate.description.4Factions=Divide, Resist, Alien, Submit
+TIMetaTemplate.displayName.5Factions=Five Factions
+TIMetaTemplate.description.5Factions=Divide, Resist, Alien, Submit,  Escape
+TIMetaTemplate.displayName.6Factions=Six Factions
+TIMetaTemplate.description.6Factions=Divide, Resist, Alien, Submit, Escape, Cooperate
+TIMetaTemplate.displayName.7Factions=Seven Factions
+TIMetaTemplate.description.7Factions=Divide, Resist, Alien, Submit, Protect, Escape, Cooperate
+TIMetaTemplate.displayName.8Factions=Eight Factions
+TIMetaTemplate.description.8Factions=Divide, Resist, Alien, Submit, Protect, Escape, Cooperate, Appease

@@ -1,0 +1,46 @@
+[
+ {
+   "dataName": "pregenRYaN",
+   "personalName": "Natasha",
+   "familyName": "Romanov",
+   "strGender": "Female",
+   "strAncestry": "European",
+   "appearanceTemplateName": "CharImage48",
+   "randomized": false,
+   "alien": false,
+   "type": "SecretPolice",
+   "regionBorn": "Moskva",
+   "yearBorn": 1941,
+   "monthBorn": 4,
+   "dayBorn": "",
+   "randomizeTraits": false,
+   "allowRandomOnlyTraits": true,
+   "traits": [
+      "CommunistIII",
+      "KGBOfficer",
+      "Government",
+	  "Undercover",
+	  "Cynic"
+   ],
+   "allowedIdeologies": [
+      "Destroy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "persuasion": "",
+   "espionage": "",
+   "command": "",
+   "investigation": "",
+   "science": "",
+   "administration": "",
+   "security": "",
+   "loyalty": null,
+   "debugOnly": false,
+   "debugStartingCouncil": "DestroyCouncil",
+   "debugStartingNation": ""
+},
+]

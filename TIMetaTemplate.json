@@ -1,7 +1,45 @@
 [
 	{
+		"dataName": "FullScenario",
+		"friendlyName": "Full Scenario",
+		"templateType": "TIMetaTemplate",
+		"templateNames": [
+			"CompleteSolarSystem",
+			"ModernScenario",
+			"8Factions"
+		]
+	},
+	{
+		"dataName": "1983Scenario",
+		"friendlyName": "1983 Scenario",
+		"newCampaignOptionCategory": "Scenario",
+		"isNewCampaignOption": true,
+		"optionPriority": 1,
+		"listPriority": 1,
+		"templateType": "TIMetaTemplate",
+		"templateNames": [
+			"ModernStartTime",
+			"ModernRegions",
+			"ModernNations",
+			"ModernArmies",
+			"StandardCouncilors",
+			"ModernStartFleets",
+			"ModernOrgTemplates",
+			"ModernHabs",
+			"StandardRepeatingEvents"
+		]
+	},
+	{
+        "dataName": "ModernStartTime",
+		"friendlyName": "1983 Start",
+        "templateType": "TIStartTimeTemplate",
+        "templateNames": [
+            "ModernStart"
+        ]
+    },	
+	{
         "dataName": "ModernArmies",
-		"friendlyName": "Standard Starting Armies",
+		"friendlyName": "1983 Starting Armies",
         "templateType": "TIArmyTemplate",
         "templateNames": [
             "USAInfantryDixie",
@@ -91,6 +129,7 @@
 		"isNewCampaignOption": false,
         "templateType": "TICouncilorTemplate",
         "templateNames": [
+			"pregenRYaN",
             "pregenC0",
 			"pregenC1",
 			"pregenC1038",
@@ -137,7 +176,7 @@
 	},
 	{
 		"dataName": "ModernOrgTemplates",
-		"friendlyName": "Org Templates",
+		"friendlyName": "1983 Org Templates",
 		"templateType": "TIOrgTemplate",
 		"templateNames": [
 			"1stKGBDirectorate",
@@ -147,7 +186,9 @@
 			"7thKGBDirectorate",
 			"8thKGBDirectorate",
 			"9thKGBDirectorate",
+			"KremlinRegiment",
 			"GRU",
+			"MainPoliticalDirectorate",
 			"MinistryofInternalAffairs",
 			"MinistryofPublicSafety",
 			"MikoyanGurevichDesignBureau",
@@ -160,7 +201,10 @@
 			"NavalSpetsnaz",
 			"VympelTaskGroup",
 			"AlphaTaskGroup",
+			"ZenithTaskGroup",
+			"OmegaTaskGroup",
 			"SpetsnazGRU",
+			"SpetsnazVDV",
 			"NPOMashinostroyeniya",
 			"NPOEnergia",
 			"NPOOrion",
@@ -171,6 +215,7 @@
 			"Elektronika",
 			"COMECON",
 			"WFTU",
+			"Stasi",
 			"EgyptianIslamicJihad",
 			"CentralIntelligenceAgency",
 			"FederalBureauofInvestigation",
@@ -207,6 +252,7 @@
 			"DeltaForce",
 			"SEALTeamSix",
 			"FEMA",
+			"NASA",
 			"Mossad",
 			"ResearchandAnalysisWing",
 			"Koanchosacho",
@@ -340,6 +386,17 @@
 			"Org_KS4510",
 			"AdAstraGames",
 			"Org_KS3039"
+		]
+	},
+	{
+		"dataName": "ModernHabs",
+		"friendlyName": "1983 Start Habitats",
+        "templateType": "TIHabTemplate",
+        "templateNames": [
+			"InternationalSpaceStation",
+			"Tiangong",
+			"AlienHQ",
+			"AlienHQStation"
 		]
 	}
 ]
