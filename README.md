@@ -6,6 +6,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=297741407
 Work in progress. Requires the latest beta versions of Terra Invicta.
 
 Includes:
+* Seven new player factions to replace the vanilla ones: Secretariat, Operation RYaN, Authority, New World Order, SDI, Gladio and SETI Project;
 * The nations and the bilateral relationships have been reset to the year of 1983, with the corresponding flags and names;
 * Starting armies increased and renamed;
 * 30 Eastern Bloc historical organizations: KGB, Stasi, Spetsnaz, Pravda, TASS, MiG, Sukhoi, Tupolev and others;
