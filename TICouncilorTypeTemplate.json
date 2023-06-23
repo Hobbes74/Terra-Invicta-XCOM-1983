@@ -23,8 +23,8 @@
    "randLoyalty": 14,
    "affinities": [
       "Destroy",
-      "Appease",
-      ""
+      "Cooperate",
+      "Submit"
    ],
    "missionNames": [
       "GainInfluence",
@@ -90,9 +90,9 @@
    "baseLoyalty": 4,
    "randLoyalty": 12,
    "affinities": [
+      "Cooperate",
       "Destroy",
-      "Appease",
-      ""
+      "Submit"
    ],
    "missionNames": [
       "GainInfluence",
@@ -159,8 +159,8 @@
    "randLoyalty": 12,
    "affinities": [
       "Destroy",
-      "Appease",
-      ""
+      "Submit",
+      "Exploit"
    ],
    "missionNames": [
       "",
@@ -177,14 +177,14 @@
       "",
       "Extract",
       "Protect",
-      "",
+      "Detain",
       "",
       "Unrest",
       "",
       "Stabilize",
-      "SabotageFacilities",
       "",
-      "SabotageProject",
+      "",
+      "",
       "StealProject",
       "",
       "",
@@ -226,8 +226,8 @@
    "baseLoyalty": 5,
    "randLoyalty": 12,
    "affinities": [
-      "Destroy",
       "Appease",
+      "Escape",
       ""
    ],
    "missionNames": [
@@ -294,9 +294,9 @@
    "baseLoyalty": 5,
    "randLoyalty": 12,
    "affinities": [
-      "Destroy",
-      "Appease",
-      ""
+      "Resist",
+      "Exploit",
+      "Cooperate"
    ],
    "missionNames": [
       "GainInfluence",
@@ -363,8 +363,8 @@
    "randLoyalty": 12,
    "affinities": [
       "Destroy",
-      "Appease",
-      ""
+      "Cooperate",
+      "Submit"
    ],
    "missionNames": [
       "GainInfluence",
@@ -431,8 +431,8 @@
    "randLoyalty": 10,
    "affinities": [
       "Destroy",
-      "Appease",
-      ""
+      "Submit",
+      "Cooperate"
    ],
    "missionNames": [
       "",
@@ -498,9 +498,9 @@
    "baseLoyalty": 6,
    "randLoyalty": 10,
    "affinities": [
-      "Destroy",
-      "Appease",
-      ""
+      "Escape",
+      "Resist",
+      "Cooperate"
    ],
    "missionNames": [
       "GainInfluence",
@@ -566,9 +566,9 @@
    "baseLoyalty": 4,
    "randLoyalty": 12,
    "affinities": [
-      "Destroy",
-      "Appease",
-      ""
+      "Submit",
+      "Cooperate",
+      "Exploit"
    ],
    "missionNames": [
       "",

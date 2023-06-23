@@ -11902,7 +11902,7 @@
    "tier": 2,
    "allowedOnMarket": true,
    "homeRegionNames": [
-      "Mosvka",
+      "Moskva",
       ""
    ],
    "requiresNationality": true,
@@ -13421,7 +13421,7 @@
    "requiredNationName": "RUS",
    "requiredTechName": "",
    "affinities": [
-      "Cooperate",
+      "",
       "",
       ""
    ],
@@ -13876,7 +13876,7 @@
    "spoilsBonus": null,
    "randSpoilsBonus": null,
    "chanceSpaceDevBonus": 100,
-   "spaceDevBonus": 0.2,
+   "spaceDevBonus": 0.02,
    "randSpaceDevBonus": null,
    "chanceSpaceflightBonus": null,
    "spaceflightBonus": null,
