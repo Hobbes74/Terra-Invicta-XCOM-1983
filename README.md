@@ -1,12 +1,12 @@
 The aliens arrive at Earth at one of the heights of the Cold War to find it divided between the Western and Eastern blocs, both heavily armed and ready for WW3.
 
-Public Repository: https://github.com/Hobbes74/Terra-Invicta-1983
+Public Repository: https://github.com/Hobbes74/Terra-Invicta-XCOM-1983
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2977414079
 
-Work in progress. Requires the latest beta versions of Terra Invicta.
+Work in progress. Requires the latest beta version of Terra Invicta.
 
 Includes:
-* Seven new player factions to replace the vanilla ones: Secretariat, Operation RYaN, Authority, New World Order, SDI, Gladio and SETI Project;
+* Seven new player factions to replace the vanilla ones: XCOM, Operation RYaN, Authority, New World Order, SDI, Gladio and SETI Project;
 * The nations and the bilateral relationships have been reset to the year of 1983, with the corresponding flags and names;
 * Starting armies increased and renamed;
 * 30 Eastern Bloc historical organizations: KGB, Stasi, Spetsnaz, Pravda, TASS, MiG, Sukhoi, Tupolev and others;

@@ -1,4 +1,6 @@
-All the images contained on the asset bundle of the 1983 mod are released under a Creative Commons Attribution Share Alike (CC-BY-SA) license since nearly all national flags and organization logos were taken from their respective pages at Wikipedia.org and already use the CC-BY-SA license.
+The XCOM logo and references are copyrighted to 2K/Firaxis.
+
+Nearly all the images contained on the asset bundle of the 1983 mod are released under a Creative Commons Attribution Share Alike (CC-BY-SA) license since nearly all national flags and organization logos were taken and adapted from their respective pages at Wikipedia.org and already use the CC-BY-SA license.
 
 All the templates and other required files are released under an MIT license.
 
