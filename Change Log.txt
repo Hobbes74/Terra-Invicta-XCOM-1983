@@ -1,3 +1,9 @@
+Version 0.1.9
+* Added: XCOM faction, replacing the Secretariat;
+* Changed: SETI, SDI and RYaN ideologies are now neutral towards the aliens;
+* Reverted: SDI and RYaN now start controlling the USA and USSR;
+* Added: more hab sites on the Moon and Mars, and a starting Martian alien base;
+
 Version 0.1.8
 * Changed: new councilor types assigned to specific factions;
 * Changed: faction IP priorities adjusted;

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2376006828
+CRC: 2189626655
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e2852209cef0c955c63e6b899fd20d5d
+    Hash: ce8fd5644f4f7c3a8d4b42947130539d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -22,6 +22,7 @@ Assets:
 - Assets/sdi64.png
 - Assets/ethiopia1983.png
 - Assets/redhand.png
+- Assets/xcom128.png
 - Assets/gladio256.png
 - Assets/npoorion.png
 - Assets/sovietarmy.png
@@ -42,8 +43,9 @@ Assets:
 - Assets/npopivdenne.png
 - Assets/securitate.png
 - Assets/viam.png
-- Assets/kgb64.png
 - Assets/un.png
+- Assets/kgb64.png
+- Assets/xcom64.png
 - Assets/fmln.png
 - Assets/moro.png
 - Assets/wftu.png
@@ -53,8 +55,8 @@ Assets:
 - Assets/un64.png
 - Assets/elektronika.png
 - Assets/gladio.png
-- Assets/npoantey.png
 - Assets/antonov.png
+- Assets/npoantey.png
 - Assets/interkosmos.png
 - Assets/nwo64.png
 - Assets/sovietnavy.png
@@ -64,17 +66,20 @@ Assets:
 - Assets/vdv.png
 - Assets/stasi.png
 - Assets/kgb256.png
+- Assets/exalt64.png
 - Assets/muslimbrotherhood.png
 - Assets/nasa.png
 - Assets/romania1983.png
 - Assets/afghanistan1983.png
 - Assets/southafrica1983.png
+- Assets/exalt256.png
 - Assets/gladio64.png
 - Assets/japaneseredarmy.png
 - Assets/tamiltigers.png
 - Assets/omega64.png
 - Assets/npomashinostroyeniya.png
 - Assets/eln.png
+- Assets/xcom256.png
 - Assets/dgi.png
 - Assets/uppervolta1983.png
 - Assets/mongolia1983.png
@@ -105,15 +110,15 @@ Assets:
 - Assets/comecon.png
 - Assets/nwo256.png
 - Assets/kgb128.png
-- Assets/npotochmach.png
 - Assets/npoenergia.png
 - Assets/ministryofinternalaffairs.png
 - Assets/westernalliance.png
 - Assets/ilyushin.png
-- Assets/robotron.png
+- Assets/exalt128.png
 - Assets/seti128.png
 - Assets/omega256.png
 - Assets/ussr256.png
+- Assets/robotron.png
 - Assets/ministryofpublicsafety.png
 - Assets/italiannavy.png
 Dependencies: []

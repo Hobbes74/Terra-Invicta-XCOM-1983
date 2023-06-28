@@ -3,14 +3,14 @@
    "dataName": "resist",
    "alien": false,
    "undecided": false,
-   "sortOrder": 4,
-   "willProxy": 4,
-   "willAppease": 5,
-   "initialReactionGroup": 0,
+   "sortOrder": 7,
+   "willProxy": -1,
+   "willAppease": -1,
+   "initialReactionGroup": 2,
    "ideology": "Resist",
    "ideologyCoordinates": {
-      "x": 0,
-      "y": 0,
+      "x": 2,
+      "y": 1,
       "z": 0
    }
 },
@@ -18,13 +18,13 @@
    "dataName": "destroy",
    "alien": false,
    "undecided": false,
-   "sortOrder": 5,
+   "sortOrder": 4,
    "willProxy": -1,
-   "willAppease": -1,
+   "willAppease": 1,
    "initialReactionGroup": 1,
    "ideology": "Destroy",
    "ideologyCoordinates": {
-      "x": 1.5,
+      "x": 0,
       "y": -1,
       "z": 0
    }
@@ -63,13 +63,13 @@
    "dataName": "appease",
    "alien": false,
    "undecided": false,
-   "sortOrder": 7,
+   "sortOrder": 5,
    "willProxy": -1,
-   "willAppease": -1,
+   "willAppease": 1,
    "initialReactionGroup": 1,
    "ideology": "Appease",
    "ideologyCoordinates": {
-      "x": 1.5,
+      "x": 0,
       "y": 1,
       "z": 0
    }
@@ -81,11 +81,11 @@
    "sortOrder": 8,
    "willProxy": -1,
    "willAppease": -1,
-   "initialReactionGroup": 2,
+   "initialReactionGroup": 0,
    "ideology": "Cooperate",
    "ideologyCoordinates": {
       "x": 2,
-      "y": 0,
+      "y": -1,
       "z": 0
    }
 },
@@ -96,10 +96,10 @@
    "sortOrder": 3,
    "willProxy": 2,
    "willAppease": 3,
-   "initialReactionGroup": 0,
+   "initialReactionGroup": 1,
    "ideology": "Escape",
    "ideologyCoordinates": {
-      "x": -1,
+      "x": 0,
       "y": 0,
       "z": 0
    }
