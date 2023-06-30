@@ -130,10 +130,10 @@
          "faction": "AlienCouncil",
          "habModuleNames": [
             "AlienOutpostCore",
-            "AlienOutpostMiningComplex",
-            "AlienAssembler",
-            "AlienFusionPile",
-            "AlienFusionPile"
+            "",
+            "",
+            "",
+            ""
          ]
       },
       {

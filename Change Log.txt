@@ -1,3 +1,7 @@
+Version 0.2.0
+* Fixed: old NarrativeEvents removed;
+* Added: ship and hab name lists for some of the new factions;
+
 Version 0.1.9
 * Added: XCOM faction, replacing the Secretariat;
 * Changed: SETI, SDI and RYaN ideologies are now neutral towards the aliens;

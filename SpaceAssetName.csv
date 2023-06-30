@@ -1,0 +1,735 @@
+SovietNaval,Oktyabrskaya Revolutsiya
+SovietNaval,Parizhskaya Kommuna
+SovietNaval,Sovetsky Soyuz
+SovietNaval,Sovetskaya Ukraina
+SovietNaval,Sovetskaya Rossiya
+SovietNaval,Sovetskaya Belorussiya
+SovietNaval,Sovetskaya Gruziya
+SovietNaval,Vladimir Lenin
+SovietNaval,Karl Marx
+SovietNaval,Friedrich Engels
+SovietNaval,Orel
+SovietNaval,Varyag
+SovietNaval,Ulyanovsk
+SovietNaval,Moskva
+SovietNaval,Leningrad
+SovietNaval,Stalingrad
+SovietNaval,Tbilisi
+SovietNaval,Riga
+SovietNaval,Novossibirsk
+SovietNaval,Sevastopol
+SovietNaval,Kronshtadt
+SovietNaval,Maxim Gorky
+SovietNaval,Slava
+SovietNaval,Petropavlovsk
+SovietNaval,Kalinin
+SovietNaval,Kirov
+SovietNaval,Frunze
+SovietNaval,Voroshilov
+SovietNaval,Molotov
+SovietNaval,Sverdlov
+SovietNaval,Ordzhinikidze
+SovietNaval,Komsomolets
+SovietNaval,Kuybyshev
+SovietNaval,Zheleznyakov
+SovietNaval,Chapayev
+SovietNaval,Marat
+SovietNaval,Murmansk
+SovietNaval,Tallinn
+SovietNaval,Chkalov
+SovietNaval,Zdhanov
+SovietNaval,Admiral Ushakov
+SovietNaval,Aleksandr Suvorov
+SovietNaval,Admiral Senyavin
+SovietNaval,Dmitry Pozharsky
+SovietNaval,Admiral Lazarev
+SovietNaval,Shcherbakov
+SovietNaval,Dzerzhinsky
+SovietNaval,Admiral Nakhimov
+SovietNaval,Mikhail Kutuzov
+SovietNaval,Admiral Kornilov
+SovietNaval,Arkhangelsk
+SovietNaval,Vladivostok
+SovietNaval,Baku
+SovietDestroyer,Sovremenny
+SovietDestroyer,Otchayanny
+SovietDestroyer,Otlichny
+SovietDestroyer,Osmotritelny
+SovietDestroyer,Bezuprechny
+SovietDestroyer,Boyevoy
+SovietDestroyer,Stoyky
+SovietDestroyer,Okrylyonny
+SovietDestroyer,Burny
+SovietDestroyer,Gremyashchy
+SovietDestroyer,Veduschy
+SovietDestroyer,Bystry
+SovietDestroyer,Rastoropny
+SovietDestroyer,Bezboyaznenny
+SovietDestroyer,Gremyashchy
+SovietDestroyer,Bezuderzhny
+SovietDestroyer,Bespokoyny
+SovietDestroyer,Nastoychivy
+SovietDestroyer,Basstrashny
+SovietDestroyer,Vazhny
+SovietDestroyer,Vdumchivy
+SovietDestroyer,Vnushitelny
+SovietDestroyer,Vechny
+SovietDestroyer,Udaloy
+SovietDestroyer,Zhguchy
+SovietDestroyer,Zorky
+SovietDestroyer,Derzky
+SovietDestroyer,Gnevny
+SovietDestroyer,Uporny
+SovietDestroyer,Boyky
+SovietDestroyer,Gordy
+SovietDestroyer,Khrabry
+SovietDestroyer,Soobrazitelny
+SovietDestroyer,Provorny
+SovietDestroyer,Ognevoy
+SovietDestroyer,Obraztsovy
+SovietDestroyer,Otvazhny
+SovietDestroyer,Odaryonny
+SovietDestroyer,Slavny
+SovietDestroyer,Stroyny
+SovietDestroyer,Krasny Kavkaz
+SovietDestroyer,Steregushchy
+SovietDestroyer,Reshitelny
+SovietDestroyer,Smyshlyony
+SovietDestroyer,Strogy
+SovietDestroyer,Smetlivy
+SovietDestroyer,Smely
+SovietDestroyer,Krasny Krym
+SovietDestroyer,Sposobny
+SovietDestroyer,Skory
+SovietDestroyer,Sderzhanny
+SovietDestroyer,Nadezhny
+SovietDestroyer,Gubitelny
+SovietDestroyer,Lovky
+SovietDestroyer,Tvyordy
+SovietDestroyer,Tolkovy
+SovietFrigate,Bditelnyy
+SovietFrigate,Bodryy
+SovietFrigate,Dostoynyy
+SovietFrigate,Svirepyy
+SovietFrigate,Silnyy
+SovietFrigate,Doblestnyy
+SovietFrigate,Storozhevoy
+SovietFrigate,Razumnyy
+SovietFrigate,Razyashchiy
+SovietFrigate,Druzhnyy
+SovietFrigate,Deyatelnyy
+SovietFrigate,Retivy
+SovietFrigate,Bezzavetnyy
+SovietFrigate,Zadornyy
+SovietFrigate,Bezukoriznennyy
+SovietFrigate,Ladnyy
+SovietFrigate,Poryvistyy
+SovietFrigate,Rezvyy
+SovietFrigate,Rezkiy
+SovietFrigate,Razitelnyy
+SovietFrigate,Gorzyashchiy
+SovietFrigate,Neukrotimyy
+SovietFrigate,Gromkiy
+SovietFrigate,Bessmennyy
+SovietFrigate,Gordelivy
+SovietFrigate,Ryavnyy
+SovietFrigate,Revnostnyy
+SovietFrigate,Pytlivyy
+SovietFrigate,Lyogky
+SovietFrigate,Letuchiy
+SovietFrigate,Pylkiy
+SovietFrigate,Zharkiy
+SovietSpace,Yuri Gagarin
+SovietSpace,Gherman Titov
+SovietSpace,Andriyan Nikolayev
+SovietSpace,Pavel Popovich
+SovietSpace,Valery Bykovsky
+SovietSpace,Valentina Tereshkova
+SovietSpace,Vladimir Komarov
+SovietSpace,Konstantin Feoktistov
+SovietSpace,Boris Yegorov
+SovietSpace,Pavel Belyayev
+SovietSpace,Alexei Leonov
+SovietSpace,Georgy Beregovoy
+SovietSpace,Vladimir Shatalov
+SovietSpace,Boris Volynov
+SovietSpace,Aleksei Yeliseyev
+SovietSpace,Yevgeny Khrunov
+SovietSpace,Georgy Shonin
+SovietSpace,Valeri Kubasov
+SovietSpace,Anatoly Flipchenko
+SovietSpace,Vladislav Volkov
+SovietSpace,Viktor Gorbatko
+SovietSpace,Vitaly Sevastyanov
+SovietSpace,Nikolay Rukavishnikov
+SovietSpace,Georgy Dobrovolsky
+SovietSpace,Viktor Patsayev
+SovietSpace,Vasily Lazarev
+SovietSpace,Oleg Makarov
+SovietSpace,Pyotr Klimuk
+SovietSpace,Valentin Lebedev
+SovietSpace,Yury Artyukhin
+SovietSpace,Gennadi Sarafanov
+SovietSpace,Lev Dyomin
+SovietSpace,Aleksei Gubarev
+SovietSpace,Georgy Grechko
+SovietSpace,Vitaly Zholobov
+SovietSpace,Vladimir Aksyonov
+SovietSpace,Vyacheslav Zudov
+SovietSpace,Valery Rozhdestvensky
+SovietSpace,Yury Glazkov
+SovietSpace,Vladimir Kovalyonok
+SovietSpace,Valery Ryumin
+SovietSpace,Yury Romanenko
+SovietSpace,Vladimir Dzhanibekov
+SovietSpace,Aleksandr Ivanchenkov
+SovietSpace,Vladimir Lyakhov
+SovietSpace,Yury Malyshev
+SovietSpace,Leonid Popov
+SovietSpace,Leonid Kizim
+SovietSpace,Gennadi Strekalov
+SovietSpace,Viktor Savinykh
+SovietSpace,Aleksandr Serebrov
+SovietSpace,Svetlana Savitskaya
+SovietSpace,Anatoly Berezovoy
+SovietSpace,Oleg Antonov
+SovietSpace,Viktor Belyaev
+SovietSpace,Sergei Korolev
+SovietSpace,Dmitry Grigorovich
+SovietSpace,Mikhail Gurevich
+SovietSpace,Nikolai Kamov
+SovietSpace,Semyon Lavochkin
+SovietSpace,Vladimir Myasishchev
+SovietSpace,Valentin Rumyantsev
+SovietSpace,Igor Sikorsky
+SovietSpace,Andrei Tupolev
+SovietSpace,Alexander Yakovlev
+SovietSpace,Kerim Kerimov
+SovietSpace,Mstislav Keldysh
+SovietSpace,Mikhail Yangel
+SovietSpace,Valentin Glushko
+SovietSpace,Vladimir Chelomey
+SovietSpace,Viktor Makeyev
+SovietSpace,Boris Chertok
+SovietSpace,Mikhail Reshetnev
+SovietSpace,Salyut
+SovietSpace,Mir
+SovietSpace,Soyuz
+SovietSpace,Phobos
+SovietSpace,Almaz
+SovietSpace,Kosmos
+SovietSpace,Lunik
+SovietSpace,Meteor
+SovietSpace,Proton
+SovietSpace,Sputnik
+SovietSpace,Venera
+SovietSpace,Vega
+SovietSpace,Vostok
+SovietSpace,Voskhod
+SovietSpace,Zond
+SovietSpace,Buran
+SovietSpace,Zvezda
+SovietSpace,Nauka
+SovietSpace,Rassvet
+SovietSpace,Poisk
+SovietSpace,Pritchal
+SovietSpace,Kvant
+SovietSpace,Kristall
+SovietSpace,Spektr
+SovietSpace,Priroda
+SovietSpace,Zarya
+SovietSpace,Astron
+SovietSpace,Granat
+SovietSpace,Prognoz
+SovietSpace,Gamma
+SovietSpace,Biocosmos
+SovietSpace,Elektro
+USCapitalShip,Enterprise
+USCapitalShip,Hornet
+USCapitalShip,Wasp
+USCapitalShip,Langley
+USCapitalShip,Saratoga
+USCapitalShip,Lexington
+USCapitalShip,Yorktown
+USCapitalShip,Ranger
+USCapitalShip,Independence
+USCapitalShip,United States
+USCapitalShip,Midway
+USCapitalShip,Coral Sea
+USCapitalShip,Constellation
+USCapitalShip,Kitty Hawk
+USCapitalShip,America
+USCapitalShip,Columbia
+USCapitalShip,Challenger
+USCapitalShip,Endeavour
+USCapitalShip,Atlantis
+USCapitalShip,Intrepid
+USCapitalShip,Liberty
+USCapitalShip,Freedom
+USCapitalShip,Hope
+USCapitalShip,Democracy 
+USCapitalShip,Republic
+USState,Alaska
+USState,Alabama
+USState,Arizona
+USState,Arkansas
+USState,California
+USState,Colorado
+USState,Connecticut
+USState,Delaware
+USState,Florida
+USState,Georgia
+USState,Hawaii
+USState,Idaho
+USState,Illinois
+USState,Indiana
+USState,Iowa
+USState,Kansas
+USState,Kentucky
+USState,Louisiana
+USState,Maine
+USState,Maryland
+USState,Massachusetts
+USState,Michigan
+USState,Minnesota
+USState,Mississipi
+USState,Missouri
+USState,Montana
+USState,Nebraska
+USState,Nevada
+USState,New Hampshire
+USState,New Jersey
+USState,New Mexico
+USState,New York
+USState,North Carolina
+USState,North Dakota
+USState,Ohio
+USState,Oklahoma
+USState,Oregon
+USState,Pennsylvania
+USState,Rhode Island
+USState,South Carolina
+USState,South Dakota
+USState,Tennessee
+USState,Texas
+USState,Virginia
+USState,Washington
+USState,West Virginia
+USState,Wisconsin
+USState,Wyoming
+USState,Utah
+USState,Vermont
+USState,Guam
+USState,Puerto Rico
+USState,Samoa
+USSubmarine,Albacore
+USSubmarine,Archerfish
+USSubmarine,Barb
+USSubmarine,Barbel
+USSubmarine,Barracuda
+USSubmarine,Bass
+USSubmarine,Batfish
+USSubmarine,Bergall
+USSubmarine,Billfish
+USSubmarine,Blueback
+USSubmarine,Bluefish
+USSubmarine,Bonefish
+USSubmarine,Bonita
+USSubmarine,Cavalla
+USSubmarine,Dace
+USSubmarine,Darter
+USSubmarine,Dolphin
+USSubmarine,Drum
+USSubmarine,Finback
+USSubmarine,Flasher
+USSubmarine,Flying Fish
+USSubmarine,Gato
+USSubmarine,Grayback
+USSubmarine,Grayling
+USSubmarine,Greenling
+USSubmarine,Growler
+USSubmarine,Guardfish
+USSubmarine,Gudgeoh
+USSubmarine,Guitarro
+USSubmarine,Gurnard
+USSubmarine,Haddo
+USSubmarine,Haddock
+USSubmarine,Halibut
+USSubmarine,Harder
+USSubmarine,Hawkbill
+USSubmarine,Jack
+USSubmarine,Lapon
+USSubmarine,Mackerel
+USSubmarine,Narwhal
+USSubmarine,Nautilus
+USSubmarine,Parche
+USSubmarine,Pargo
+USSubmarine,Permit
+USSubmarine,Pintado
+USSubmarine,Plunger
+USSubmarine,Pollack
+USSubmarine,Puffer
+USSubmarine,Queenfish
+USSubmarine,Ray
+USSubmarine,Sailfish
+USSubmarine,Salmon
+USSubmarine,Sand Lance
+USSubmarine,Sargo
+USSubmarine,Scamp
+USSubmarine,Scorpion
+USSubmarine,Sculpin
+USSubmarine,Sea Devil
+USSubmarine,Seadragon
+USSubmarine,Seahorse
+USSubmarine,Seawolf
+USSubmarine,Shark
+USSubmarine,Silversides
+USSubmarine,Skate
+USSubmarine,Skipjack
+USSubmarine,Snook
+USSubmarine,Spadefish
+USSubmarine,Sturgeon
+USSubmarine,Swordfish
+USSubmarine,Tang
+USSubmarine,Tautog
+USSubmarine,Thresher
+USSubmarine,Tinosa
+USSubmarine,Trepang
+USSubmarine,Trigger
+USSubmarine,Trout
+USSubmarine,Triton
+USSubmarine,Tulibee
+USSubmarine,Tunny
+USSubmarine,Wahoo
+USSubmarine,Whale
+Constellation,Andromeda
+Constellation,Antlia
+Constellation,Apus
+Constellation,Aquarius
+Constellation,Aquila
+Constellation,Aries
+Constellation,Auriga
+Constellation,Bootes
+Constellation,Ara
+Constellation,Caelum
+Constellation,Camelopardis
+Constellation,Cancer
+Constellation,Canes Venatici
+Constellation,Canis Major
+Constellation,Canis Minor
+Constellation,Capricornus
+Constellation,Carina
+Constellation,Cassiopeia
+Constellation,Centarus
+Constellation,Cepheus
+Constellation,Ceus
+Constellation,Chamaeleon
+Constellation,Circinus
+Constellation,Columba
+Constellation,Coma Berenices
+Constellation,Corona Australis
+Constellation,Corona Borealis
+Constellation,Corvus
+Constellation,Crater
+Constellation,Crux
+Constellation,Cygnus
+Constellation,Delphinus
+Constellation,Dorado
+Constellation,Draco
+Constellation,Equuleus
+Constellation,Eridanus
+Constellation,Fornax
+Constellation,Gemini
+Constellation,Grus
+Constellation,Hercules
+Constellation,Horologium
+Constellation,Hydra
+Constellation,Hydrus
+Constellation,Indus
+Constellation,Lacerta
+Constellation,Leo
+Constellation,Leo Minor
+Constellation,Lepus
+Constellation,Libra
+Constellation,Lupus
+Constellation,Lynx
+Constellation,Lyra
+Constellation,Mensa
+Constellation,Microscopium
+Constellation,Monoceros
+Constellation,Musca
+Constellation,Norma
+Constellation,Octans
+Constellation,Ophiuchus
+Constellation,Orion
+Constellation,Pavo
+Constellation,Pegasus
+Constellation,Perseus
+Constellation,Phoenix
+Constellation,Pictor
+Constellation,Piscis
+Constellation,Puppis
+Constellation,Pyxis
+Constellation,Reticulum
+Constellation,Sagitta
+Constellation,Sagittarius
+Constellation,Scorpius
+Constellation,Sculptor
+Constellation,Scutum
+Constellation,Serpens
+Constellation,Sextans
+Constellation,Taurus
+Constellation,Telescopium
+Constellation,Triangulum
+Constellation,Tucana
+Constellation,Ursa Major
+Constellation,Ursa Minor
+Constellation,Vela
+Constellation,Virgo
+Constellation,Volans
+Constellation,Vulpecula
+EuropeCapitalShip,Ark Royal
+EuropeCapitalShip,Invincible
+EuropeCapitalShip,Illustrious
+EuropeCapitalShip,Clemenceau
+EuropeCapitalShip,Foch
+GreekDeity,Ares
+GreekDeity,Aphrodite
+GreekDeity,Hermes
+GreekDeity,Zeus
+GreekDeity,Cronos
+GreekDeity,Hera
+GreekDeity,Athena
+GreekDeity,Heracles
+GreekDeity,Hephaestus
+GreekDeity,Artemis
+GreekDeity,Apollo
+GreekDeity,Posidon
+GreekDeity,Hades
+GreekDeity,Perseus
+GreekDeity,Theseus
+GreekDeity,Achilles
+GreekDeity,Agammennon
+GreekDeity,Ajax
+GreekDeity,Hector
+GreekDeity,Priam
+GreekDeity,Odysseus
+JapanCapitalShip,Yamato
+JapanCapitalShip,Musashi
+JapanCapitalShip,Shinano
+JapanCapitalShip,Kaga
+JapanCapitalShip,Akagi
+JapanCapitalShip,Hiryu
+JapanCapitalShip,Soryu
+JapanCapitalShip,Shokaku
+JapanCapitalShip,Zuikaku
+JapanCapitalShip,Hiyo
+JapanCapitalShip,Junyo
+JapanCapitalShip,Fuso
+JapanCapitalShip,Yamashiro
+JapanCapitalShip,Nagato
+JapanCapitalShip,Mutsi
+JapanCapitalShip,Kongo
+JapanCapitalShip,Hiei
+JapanCapitalShip,Kirishima
+JapanCapitalShip,Haruna
+JapanCapitalShip,Hosho
+JapanCapitalShip,Ryujo
+JapanCapitalShip,Amagi
+JapanCapitalShip,Atago
+JapanCapitalShip,Takao
+JapanCapitalShip,Tosa
+JapanCapitalShip,Ise
+JapanCapitalShip,Hyuga
+JapanCapitalShip,Zuiho
+JapanCapitalShip,Sosho
+JapanCapitalShip,Taiho
+JapanCapitalShip,Unyo
+JapanCapitalShip,Chuyo
+JapanCapitalShip,Taiyo
+JapanCapitalShip,Kaiyo
+JapanCapitalShip,Chiyoda
+JapanCapitalShip,Chitose
+JapanCapitalShip,Unryu
+JapanCapitalShip,Katsuragi
+JapanCapitalShip,Kasagi
+JapanCapitalShip,Aso
+JapanCapitalShip,Ikoma
+JapanCapitalShip,Shinyo
+JapanCruiserShip,Tatsuta
+JapanCruiserShip,Tenryu
+JapanCruiserShip,Kuma
+JapanCruiserShip,Tama
+JapanCruiserShip,Kitakami
+JapanCruiserShip,Kiso
+JapanCruiserShip,Oi
+JapanCruiserShip,Nagara
+JapanCruiserShip,Natori
+JapanCruiserShip,Kinu
+JapanCruiserShip,Yura
+JapanCruiserShip,Isuzu
+JapanCruiserShip,Abukuma
+JapanCruiserShip,Yubari
+JapanCruiserShip,Sendai
+JapanCruiserShip,Jintsu
+JapanCruiserShip,Naka
+JapanCruiserShip,Furutaka
+JapanCruiserShip,Kako
+JapanCruiserShip,Aoba
+JapanCruiserShip,Kinugusa
+JapanCruiserShip,Myoko
+JapanCruiserShip,Nachi
+JapanCruiserShip,Haguro
+JapanCruiserShip,Ashigara
+JapanCruiserShip,Chokai
+JapanCruiserShip,Maya
+JapanCruiserShip,Mogami
+JapanCruiserShip,Mikuma
+JapanCruiserShip,Suzuya
+JapanCruiserShip,Kumano
+JapanCruiserShip,Tone
+JapanCruiserShip,Chikuma
+JapanCruiserShip,Ibuki
+JapanCruiserShip,Katori
+JapanCruiserShip,Kashima
+JapanCruiserShip,Kashii
+JapanCruiserShip,Kashiwara
+JapanCruiserShip,Agano
+JapanCruiserShip,Noshiro
+JapanCruiserShip,Yahagi
+JapanCruiserShip,Sakawa
+JapanCruiserShip,Oyodo
+JapanCruiserShip,Niyodo
+JapanDestroyerShip,Minekazze
+JapanDestroyerShip,Sawakaze
+JapanDestroyerShip,Okikaze
+JapanDestroyerShip,Shimakaze
+JapanDestroyerShip,Nadakaze
+JapanDestroyerShip,Yakaze
+JapanDestroyerShip,Hakaze
+JapanDestroyerShip,Shiokaze
+JapanDestroyerShip,Akikaze
+JapanDestroyerShip,Yukaze
+JapanDestroyerShip,Tachikaze
+JapanDestroyerShip,Hokaze
+JapanDestroyerShip,Namikaze
+JapanDestroyerShip,Numakaze
+JapanDestroyerShip,Kamikaze
+JapanDestroyerShip,Asakaze
+JapanDestroyerShip,Asanagi
+JapanDestroyerShip,Harutaze
+JapanDestroyerShip,Hayate
+JapanDestroyerShip,Matsukaze
+JapanDestroyerShip,Oite
+JapanDestroyerShip,Yunagi
+JapanDestroyerShip,Mutsuki
+JapanDestroyerShip,Fumizuki
+JapanDestroyerShip,Kikuziki
+JapanDestroyerShip,Mikazuki
+JapanDestroyerShip,Minazuki
+JapanDestroyerShip,Mochizuki
+JapanDestroyerShip,Mutsuki
+JapanDestroyerShip,Nagatsuki
+JapanDestroyerShip,Satsuki
+JapanDestroyerShip,Uzuki
+JapanDestroyerShip,Yayoi
+JapanDestroyerShip,Yuzuki
+JapanDestroyerShip,Fubuki
+JapanDestroyerShip,Akebono
+JapanDestroyerShip,Amagiri
+JapanDestroyerShip,Asagiri
+JapanDestroyerShip,Ayanami
+JapanDestroyerShip,Hatsuyuki
+JapanDestroyerShip,Isonami
+JapanDestroyerShip,Miyuki
+JapanDestroyerShip,Murakumo
+JapanDestroyerShip,Oboro
+JapanDestroyerShip,Sagiri
+JapanDestroyerShip,Sazanami
+JapanDestroyerShip,Shikinami
+JapanDestroyerShip,Shinonome
+JapanDestroyerShip,Shirakumo
+JapanDestroyerShip,Shirayuki
+JapanDestroyerShip,Uranami
+JapanDestroyerShip,Ushio
+JapanDestroyerShip,Usugumo
+JapanDestroyerShip,Yugiri
+JapanDestroyerShip,Akatsuki
+JapanDestroyerShip,Hibiki
+JapanDestroyerShip,Ikazuchi
+JapanDestroyerShip,Inazuma
+JapanDestroyerShip,Hatsuharu
+JapanDestroyerShip,Ariake
+JapanDestroyerShip,Hatsushimo
+JapanDestroyerShip,Nenohi
+JapanDestroyerShip,Wakaba
+JapanDestroyerShip,Yugure
+JapanDestroyerShip,Harusame
+JapanDestroyerShip,Kawakaze
+JapanDestroyerShip,Murasame
+JapanDestroyerShip,Samidare
+JapanDestroyerShip,Shigure
+JapanDestroyerShip,Shiratsuyu
+JapanDestroyerShip,Asashio
+JapanDestroyerShip,Arare
+JapanDestroyerShip,Asagumo
+JapanDestroyerShip,Arashio
+JapanDestroyerShip,Kasumi
+JapanDestroyerShip,Michishio
+JapanDestroyerShip,Minegumo
+JapanDestroyerShip,Natsugumo
+JapanDestroyerShip,Oshio
+JapanDestroyerShip,Yamagumo
+JapanDestroyerShip,Akigumo
+JapanDestroyerShip,Amatsukaze
+JapanDestroyerShip,Arashi
+JapanDestroyerShip,Hagikaze
+JapanDestroyerShip,Hamakaze
+JapanDestroyerShip,Hatsukaze
+JapanDestroyerShip,Hayashio
+JapanDestroyerShip,Isokaze
+JapanDestroyerShip,Kagero
+JapanDestroyerShip,Kuroshio
+JapanDestroyerShip,Maikaze
+JapanDestroyerShip,Nastushio
+JapanDestroyerShip,Nowaki
+JapanDestroyerShip,Oyashio
+JapanDestroyerShip,Shiranui
+JapanDestroyerShip,Tanikaze
+JapanDestroyerShip,Tokitsukaze
+JapanDestroyerShip,Urakazee
+JapanDestroyerShip,Yukikaze
+JapanDestroyerShip,Yugumo
+JapanDestroyerShip,Akishimo
+JapanDestroyerShip,Asashimo
+JapanDestroyerShip,Fujinami
+JapanDestroyerShip,Hamanami
+JapanDestroyerShip,Hayanami
+JapanDestroyerShip,Hayashimo
+JapanDestroyerShip,Kazagumo
+JapanDestroyerShip,Kishinami
+JapanDestroyerShip,Kiyonami
+JapanDestroyerShip,Kiyoshimo
+JapanDestroyerShip,Makigumo
+JapanDestroyerShip,Makinami
+JapanDestroyerShip,Naganami
+JapanDestroyerShip,Okinami
+JapanDestroyerShip,Onami
+JapanDestroyerShip,Suzunami
+JapanDestroyerShip,Takanami
+JapanDestroyerShip,Tamanami
+JapanDestroyerShip,Yugumo
+JapanDestroyerShip,Akizuki
+JapanDestroyerShip,Fuyutsuki
+JapanDestroyerShip,Hanazuki
+JapanDestroyerShip,Harutsuki
+JapanDestroyerShip,Michizuki
+JapanDestroyerShip,Natsuzuki
+JapanDestroyerShip,Niizuki
+JapanDestroyerShip,Shimotsuki
+JapanDestroyerShip,Suzutsuki
+JapanDestroyerShip,Teruzuki
+JapanDestroyerShip,Wakatsuki
+JapanDestroyerShip,Yoizuki
+JapanDestroyerShip,Shimakaze
+XCOMCapitalShip,Avenger
