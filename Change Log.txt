@@ -1,6 +1,8 @@
-Version 0.2.0
+Version 0.2.0a
 * Fixed: old NarrativeEvents removed;
 * Added: ship and hab name lists for some of the new factions;
+* Changed: new faction AI adjustments;
+* Updated: TIProject to latest TI version;
 
 Version 0.1.9
 * Added: XCOM faction, replacing the Secretariat;
