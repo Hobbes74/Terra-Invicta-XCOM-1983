@@ -2011,6 +2011,25 @@
    "resourcesGranted": []
 },
  {
+   "friendlyName": "Forward Russia",
+   "dataName": "Project_ForwardRussia",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 25000,
+   "prereqs": [
+      "UnityMovements"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "RUS",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
+},
+ {
    "friendlyName": "Liberating Mainland China",
    "dataName": "Project_LiberatingMainlandChina",
    "techCategory": "SocialScience",
@@ -15375,9 +15394,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 1000,
+   "researchCost": 25000,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "UnityMovements",
       "",
       "",
       "",
@@ -15431,7 +15450,7 @@
    "AI_projectRole": "ExpandNation",
    "researchCost": 25000,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "UnityMovements",
       "",
       "",
       "",
@@ -15483,7 +15502,7 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 15000,
+   "researchCost": 40000,
    "prereqs": [
       "GreatNations",
       "",
@@ -15537,9 +15556,9 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": null,
    "AI_projectRole": "ExpandNation",
-   "researchCost": 15000,
+   "researchCost": 40000,
    "prereqs": [
-      "ArrivalInternationalRelations",
+      "GreatNations",
       "",
       "",
       "",
@@ -15593,7 +15612,7 @@
    "AI_projectRole": "ExpandNation",
    "researchCost": 25000,
    "prereqs": [
-      "GreatNations",
+      "UnityMovements",
       "",
       "",
       "",

@@ -43,7 +43,7 @@
    "Y": 0,
    "latitude": 40.8,
    "longitude": 9.36,
-   "miningProfileName": "MartianSpecialMine",
+   "miningProfileName": "MartianNorthPolarMine",
    "backgroundPath": "habmodules/surface_mars",
    "fabricatedData": ""
  },

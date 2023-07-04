@@ -5800,13 +5800,15 @@
    "dataName": "ClaimRUSSarajevo",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Sarajevo"
+   "region1": "Sarajevo",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSBelgrade",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Belgrade"
+   "region1": "Belgrade",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSWesternSiberia",
@@ -5838,97 +5840,113 @@
    "dataName": "ClaimRUSFinland",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Finland"
+   "region1": "Finland",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSGermany",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Germany"
+   "region1": "Germany",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSVienna",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Vienna"
+   "region1": "Vienna",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSGreece",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Greece"
+   "region1": "Greece",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSSweden",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Sweden"
+   "region1": "Sweden",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSNorway",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Norway"
+   "region1": "Norway",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSDenmark",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Denmark"
+   "region1": "Denmark",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSBenelux",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Benelux"
+   "region1": "Benelux",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSItaly",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Italy"
+   "region1": "Italy",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSNaples",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Naples"
+   "region1": "Naples",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSLyon",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Lyon"
+   "region1": "Lyon",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSFrance",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "France"
+   "region1": "France",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSSpain",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Spain"
+   "region1": "Spain",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSBarcelona",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Barcelona"
+   "region1": "Barcelona",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSCanaryIslands",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "CanaryIslands"
+   "region1": "CanaryIslands",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRUSPortugal",
    "relationType": "Claim",
    "nation1": "RUS",
-   "region1": "Portugal"
+   "region1": "Portugal",
+   "projectUnlockName": "Project_ForwardRussia"
  },
  {
    "dataName": "ClaimRWPNewGuinea",

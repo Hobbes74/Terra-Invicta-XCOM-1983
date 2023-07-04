@@ -9,8 +9,8 @@
    "initialReactionGroup": 2,
    "ideology": "Resist",
    "ideologyCoordinates": {
-      "x": 2,
-      "y": 1,
+      "x": 1.5,
+      "y": -1,
       "z": 0
    }
 },
@@ -39,7 +39,7 @@
    "initialReactionGroup": 0,
    "ideology": "Exploit",
    "ideologyCoordinates": {
-      "x": -2,
+      "x": -1.5,
       "y": 1,
       "z": 0
    }
@@ -85,7 +85,7 @@
    "ideology": "Cooperate",
    "ideologyCoordinates": {
       "x": 2,
-      "y": -1,
+      "y": 1,
       "z": 0
    }
 },

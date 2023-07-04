@@ -1,3 +1,9 @@
+Version 0.2.1
+* Added: more Eastern Bloc orgs;
+* Changed: adjustments to faction ideology;
+* Changed: reverted back to factions not controlling any countries at start since giving factions starting countries seems to break the AI;
+* Changed: Russia expansion projects requirements changed;
+
 Version 0.2.0a
 * Fixed: old NarrativeEvents removed;
 * Added: ship and hab name lists for some of the new factions;

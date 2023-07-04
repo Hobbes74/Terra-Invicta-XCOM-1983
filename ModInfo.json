@@ -1,0 +1,13 @@
+{
+	"title": "XCOM 1983",
+	"author": "Hobbes",
+	"description": "A 1983 scenario where the aliens arrive at Earth to find the world with the two superpowers on the brink of nuclear armageddon.",
+	"Version": "0.2.1",
+	"GameVersion": "0.3.96",
+	"mod url": "https://github.com/Hobbes74/Terra-Invicta-XCOM-1983",
+	"TemplatesToReplace": [ 
+		"TIBilateralTemplate.json",
+		"TIProjectTemplate.json",
+		"TICouncilorTypeTemplate.json"
+	]
+}
