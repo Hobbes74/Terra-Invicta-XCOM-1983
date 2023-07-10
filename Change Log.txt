@@ -1,3 +1,8 @@
+Version 0.2.2
+* Added: 40 XCOM organizations, divided into regional commands, research divisions and combat teams;
+* Changed: replaced the Resistance Special orgs with new XCOM ones;
+* Added: more quotes;
+
 Version 0.2.1
 * Added: more Eastern Bloc orgs;
 * Changed: adjustments to faction ideology;

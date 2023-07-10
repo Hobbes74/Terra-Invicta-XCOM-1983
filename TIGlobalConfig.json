@@ -1,7 +1,7 @@
 [
     {
         "dataName": "globalConfig",		
-		"quotes": 56,
+		"quotes": 58,
 		"strategyLayerSpeedSettings": [
 			0, 1, 60, 3600, 21600, 43200			// 1 sec, 1 minute, 1 hour, 6 hours, 12 hours
 			],

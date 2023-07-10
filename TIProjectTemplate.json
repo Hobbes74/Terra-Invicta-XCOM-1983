@@ -112,6 +112,7 @@
    "initialUnlockChance": 100,
    "deltaUnlockChance": 0,
    "maxUnlockChance": 100,
+   "orgGranted": "XCOMAntarcticaCommand",
    "resourcesGranted": []
 },
  {
@@ -171,6 +172,7 @@
    "initialUnlockChance": 50,
    "deltaUnlockChance": 50,
    "maxUnlockChance": 100,
+   "orgGranted": "XCOMContainmentDivision",
    "resourcesGranted": []
 },
  {
@@ -722,7 +724,7 @@
    "initialUnlockChance": 100,
    "deltaUnlockChance": 0,
    "maxUnlockChance": 100,
-   "orgGranted": "ResistSpecial",
+   "orgGranted": "XCOMTacticalCommand",
    "resourcesGranted": [
       {
          "resource": "Influence",
@@ -914,7 +916,7 @@
    "initialUnlockChance": 50,
    "deltaUnlockChance": 50,
    "maxUnlockChance": 100,
-   "orgGranted": "ResistWinner",
+   "orgGranted": "XCOMAerospaceCommand",
    "resourcesGranted": []
 },
  {
@@ -11206,6 +11208,14 @@
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
+   "factionPrereq": [
+      "CooperateCouncil",
+      "DestroyCouncil",
+      "ExploitCouncil",
+      "SubmitCouncil",
+	  "AppeaseCouncil",
+	  "EscapeCouncil"
+   ],
    "factionAvailableChance": 100,
    "initialUnlockChance": 60,
    "deltaUnlockChance": 20,
@@ -11221,8 +11231,7 @@
    "AI_projectRole": "Councilors",
    "researchCost": 1200,
    "prereqs": [
-      "QuantumEncryption",
-      "Project_ClandestineCells"
+      "QuantumEncryption"
    ],
    "effects": [
       "Effect_IncreaseCouncilSize",
@@ -15656,5 +15665,32 @@
    ],
    "iconResource": "",
    "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "XCOM Headquarters",
+   "dataName": "Project_XCOMHeadquarters",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": true,
+   "AI_projectRole": "Councilors",
+   "researchCost": 750,
+   "prereqs": [
+      "WeAreNotAlone"
+   ],
+   "effects": [
+      "Effect_IncreaseCouncilSize",
+      "Effect_ControlPointMaintenanceBonus10"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionPrereq": [
+      "ResistCouncil"
+   ],
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 60,
+   "deltaUnlockChance": 20,
+   "maxUnlockChance": 100,
+   "orgGranted": "XCOMHeadquarters",
+   "resourcesGranted": []
 }
 ]
