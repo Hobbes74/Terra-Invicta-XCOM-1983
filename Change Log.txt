@@ -1,6 +1,16 @@
+Version 0.2.3
+* Changed: more XCOM orgs added and balance adjustments;
+* Added: XCOM small and medium ship names;
+* Replaced: Codex references with UFOPaedia;
+* Fixed: typos and grammar;
+* Reverted: restored Clandestine Cells, XCOM Headquarters is now a starting project;
+
 Version 0.2.2
 * Added: 40 XCOM organizations, divided into regional commands, research divisions and combat teams;
+* Added: XCOM Headquarters project, XCOM only project, gives the XCOM HQ org;
 * Changed: replaced the Resistance Special orgs with new XCOM ones;
+* Changed: replaced Authority faction with Secretariat, with same ideology;
+* Added: lists of Japanese and Chinese names for Secretariat ships and habs;
 * Added: more quotes;
 
 Version 0.2.1

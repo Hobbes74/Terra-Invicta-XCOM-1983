@@ -11209,6 +11209,7 @@
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionPrereq": [
+      "ResistCouncil",
       "CooperateCouncil",
       "DestroyCouncil",
       "ExploitCouncil",
@@ -15673,13 +15674,13 @@
    "AI_techRole": "EarthPolitics",
    "AI_criticalTech": true,
    "AI_projectRole": "Councilors",
-   "researchCost": 750,
+   "researchCost": 500,
    "prereqs": [
-      "WeAreNotAlone"
+      ""
    ],
    "effects": [
-      "Effect_IncreaseCouncilSize",
-      "Effect_ControlPointMaintenanceBonus10"
+      "",
+      ""
    ],
    "oneTimeGlobally": false,
    "repeatable": false,

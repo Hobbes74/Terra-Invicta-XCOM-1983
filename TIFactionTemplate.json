@@ -45,8 +45,8 @@
    "cinematicsPath": "cinematics/_cooperate",
    "winMissionPath": "councilor_missions/ICO_mission_resist",
    "smallShipNameListIdx": "Heroes",
-   "mediumShipNameListIdx": "Qualities",
-   "largeShipNameListIdx": "Battles",
+   "mediumShipNameListIdx": "XCOMFrigate",
+   "largeShipNameListIdx": "XCOMCapitalShip",
    "habNameListIdx": "Commanders",
    "guaranteedMissions": [
       [
