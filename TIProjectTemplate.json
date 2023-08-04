@@ -112,7 +112,6 @@
    "initialUnlockChance": 100,
    "deltaUnlockChance": 0,
    "maxUnlockChance": 100,
-   "orgGranted": "XCOMAntarcticaCommand",
    "resourcesGranted": []
 },
  {
@@ -172,7 +171,6 @@
    "initialUnlockChance": 50,
    "deltaUnlockChance": 50,
    "maxUnlockChance": 100,
-   "orgGranted": "XCOMContainmentDivision",
    "resourcesGranted": []
 },
  {

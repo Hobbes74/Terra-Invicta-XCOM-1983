@@ -1,10 +1,10 @@
 TIPriorityPresetTemplate.displayName.Resist=XCOM
-TIPriorityPresetTemplate.displayName.Destroy=RYaN
+TIPriorityPresetTemplate.displayName.Destroy=Gladio
 TIPriorityPresetTemplate.displayName.Escape=SETI
-TIPriorityPresetTemplate.displayName.Cooperate=Gladio
-TIPriorityPresetTemplate.displayName.Appease=SDI
+TIPriorityPresetTemplate.displayName.Appease=Secretariat
+TIPriorityPresetTemplate.displayName.Cooperate=SDI
 TIPriorityPresetTemplate.displayName.Submit=New World Order
-TIPriorityPresetTemplate.displayName.Exploit=Secretariat
+TIPriorityPresetTemplate.displayName.Exploit=RYaN
 TIPriorityPresetTemplate.displayName.Kleptocratic=Kleptocratic
 TIPriorityPresetTemplate.displayName.Subsistence=Subsistence
 TIPriorityPresetTemplate.displayName.Stability=Stability

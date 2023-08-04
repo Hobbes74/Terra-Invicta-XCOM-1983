@@ -23,7 +23,7 @@
 	  "Cynic"
    ],
    "allowedIdeologies": [
-      "Destroy",
+      "Exploit",
       "",
       "",
       "",
@@ -40,7 +40,7 @@
    "security": "",
    "loyalty": null,
    "debugOnly": false,
-   "debugStartingCouncil": "DestroyCouncil",
+   "debugStartingCouncil": "ExploitCouncil",
    "debugStartingNation": ""
 },
 ]

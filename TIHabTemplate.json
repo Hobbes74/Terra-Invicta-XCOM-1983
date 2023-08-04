@@ -11,7 +11,7 @@
    "epoch_floatJYears": 2021.4767,
    "sectors": [
       {
-         "faction": "AppeaseCouncil",
+         "faction": "CooperateCouncil",
          "habModuleNames": [
             "PlatformCore",
             "",
@@ -69,7 +69,7 @@
    "epoch_floatJYears": 2021.4767,
    "sectors": [
       {
-         "faction": "DestroyCouncil",
+         "faction": "ExploitCouncil",
          "habModuleNames": [
             "PlatformCore",
             "",

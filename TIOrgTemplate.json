@@ -9536,8 +9536,8 @@
    "randCostOps": null,
    "costBoost": null,
    "randCostBoost": null,
-   "chanceIncomeMoney": 100,
-   "incomeMoney": -50,
+   "chanceIncomeMoney": null,
+   "incomeMoney": null,
    "randIncomeMoney": null,
    "chanceIncomeInfluence": 100,
    "incomeInfluence": 1,
@@ -10252,7 +10252,7 @@
    "tier": 3,
    "allowedOnMarket": true,
    "homeRegionNames": [
-      "Abuja",
+      "Capetown",
       ""
    ],
    "requiresNationality": true,
@@ -10262,7 +10262,7 @@
    "prohibitedOwnerTraits": [
       ""
    ],
-   "requiredNationName": "NGA",
+   "requiredNationName": "ZAF",
    "requiredTechName": "WeAreNotAlone",
    "affinities": [
       "Resist",
@@ -10495,14 +10495,14 @@
    "iconResource": "1983/xcom_southeastasia"
 },
  {
-   "dataName": "XCOMArcticCommand",
-   "friendlyName": "XCOM Arctic Command",
+   "dataName": "XCOMSiberiaCommand",
+   "friendlyName": "XCOM Siberia Command",
    "randomized": false,
    "orgType": "BusinessManagement",
    "tier": 3,
    "allowedOnMarket": true,
    "homeRegionNames": [
-      "Novgorod",
+      "Urals",
       ""
    ],
    "requiresNationality": true,
@@ -10617,7 +10617,7 @@
    ],
    "grantsMarked": false,
    "projectGrantedName": "",
-   "iconResource": "1983/xcom_arctic"
+   "iconResource": "1983/xcom_siberia"
 },
  {
    "dataName": "XCOMCentralAsiaCommand",
@@ -11000,19 +11000,19 @@
    "randomized": false,
    "orgType": "Faction",
    "tier": 2,
-   "allowedOnMarket": false,
+   "allowedOnMarket": true,
    "homeRegionNames": [
-      "",
+      "Patagonia",
       ""
    ],
-   "requiresNationality": false,
+   "requiresNationality": true,
    "requiredOwnerTraits": [
       ""
    ],
    "prohibitedOwnerTraits": [
       ""
    ],
-   "requiredNationName": "",
+   "requiredNationName": "ARG",
    "requiredTechName": "",
    "affinities": [
       "Resist",
@@ -11037,7 +11037,7 @@
    "costBoost": null,
    "randCostBoost": null,
    "chanceIncomeMoney": 100,
-   "incomeMoney": -50,
+   "incomeMoney": -35,
    "randIncomeMoney": null,
    "chanceIncomeInfluence": null,
    "incomeInfluence": null,
@@ -11120,14 +11120,14 @@
    "iconResource": "1983/xcom_antarctica"
 },
  {
-   "dataName": "XCOMLaunchDivision",
-   "friendlyName": "XCOM Launch Facility",
+   "dataName": "XCOMArcticCommand",
+   "friendlyName": "XCOM Arctic Control",
    "randomized": false,
-   "orgType": "Aerospace",
+   "orgType": "Faction",
    "tier": 2,
    "allowedOnMarket": true,
    "homeRegionNames": [
-      "BritishWestIndies",
+      "CanadianArctic",
       ""
    ],
    "requiresNationality": true,
@@ -11137,8 +11137,133 @@
    "prohibitedOwnerTraits": [
       ""
    ],
-   "requiredNationName": "GBR",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredNationName": "CAN",
+   "requiredTechName": "",
+   "affinities": [
+      "Resist",
+      "",
+      ""
+   ],
+   "restricted": [
+      "Destroy",
+      "Cooperate",
+      "Escape",
+      "Appease",
+      "Submit",
+      "Exploit",
+      ""
+   ],
+   "costMoney": null,
+   "randCostMoney": null,
+   "costInfluence": null,
+   "randCostInfluence": null,
+   "costOps": null,
+   "randCostOps": null,
+   "costBoost": null,
+   "randCostBoost": null,
+   "chanceIncomeMoney": 100,
+   "incomeMoney": -35,
+   "randIncomeMoney": null,
+   "chanceIncomeInfluence": null,
+   "incomeInfluence": null,
+   "randIncomeInfluence": null,
+   "chanceIncomeOps": null,
+   "incomeOps": null,
+   "randIncomeOps": null,
+   "chanceIncomeBoost": null,
+   "incomeBoost": null,
+   "randIncomeBoost": null,
+   "chanceIncomeMissionControl": 100,
+   "incomeMissionControl": 2,
+   "randIncomeMissionControl": null,
+   "chanceIncomeResearch": 100,
+   "incomeResearch": 10,
+   "randIncomeResearch": null,
+   "projectsGranted": null,
+   "chancePersuasion": null,
+   "persuasion": null,
+   "randPersuasion": null,
+   "chanceCommand": null,
+   "command": null,
+   "randCommand": null,
+   "chanceInvestigation": null,
+   "investigation": null,
+   "randInvestigation": null,
+   "chanceEspionage": null,
+   "espionage": null,
+   "randEspionage": null,
+   "chanceAdministration": 100,
+   "administration": 5,
+   "randAdministration": null,
+   "chanceScience": null,
+   "science": null,
+   "randScience": null,
+   "chanceSecurity": 100,
+   "security": 2,
+   "randSecurity": null,
+   "chanceEconomyBonus": null,
+   "economyBonus": null,
+   "randEconomyBonus": null,
+   "chanceWelfareBonus": null,
+   "welfareBonus": null,
+   "randWelfareBonus": null,
+   "chanceKnowledgeBonus": null,
+   "knowledgeBonus": null,
+   "randKnowledgeBonus": null,
+   "chanceUnityBonus": null,
+   "unityBonus": null,
+   "randUnityBonus": null,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
+   "randMilitaryBonus": null,
+   "chanceSpoilsBonus": null,
+   "spoilsBonus": null,
+   "randSpoilsBonus": null,
+   "chanceSpaceDevBonus": null,
+   "spaceDevBonus": null,
+   "randSpaceDevBonus": null,
+   "chanceSpaceflightBonus": null,
+   "spaceflightBonus": null,
+   "randSpaceflightBonus": null,
+   "miningBonus": null,
+   "randMiningBonus": null,
+   "XPModifier": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "missionsGrantedNames": [
+      "Advise",
+      "",
+      "",
+      ""
+   ],
+   "grantsMarked": false,
+   "projectGrantedName": "",
+   "iconResource": "1983/xcom_control"
+},
+ {
+   "dataName": "XCOMLaunchDivision",
+   "friendlyName": "XCOM Launch Division",
+   "randomized": false,
+   "orgType": "Aerospace",
+   "tier": 2,
+   "allowedOnMarket": true,
+   "homeRegionNames": [
+      "Abuja",
+      ""
+   ],
+   "requiresNationality": true,
+   "requiredOwnerTraits": [
+      ""
+   ],
+   "prohibitedOwnerTraits": [
+      ""
+   ],
+   "requiredNationName": "NGA",
+   "requiredTechName": "NextGenerationAerospace",
    "affinities": [
       "Resist",
       "",
@@ -11162,7 +11287,7 @@
    "costBoost": null,
    "randCostBoost": null,
    "chanceIncomeMoney": 100,
-   "incomeMoney": -150,
+   "incomeMoney": -40,
    "randIncomeMoney": null,
    "chanceIncomeInfluence": null,
    "incomeInfluence": null,
@@ -11245,14 +11370,139 @@
    "iconResource": "1983/xcom_launch"
 },
  {
+   "dataName": "XCOMPacificCommand",
+   "friendlyName": "XCOM Pacific Control",
+   "randomized": false,
+   "orgType": "Aerospace",
+   "tier": 2,
+   "allowedOnMarket": true,
+   "homeRegionNames": [
+      "EuropeanPacific",
+      ""
+   ],
+   "requiresNationality": true,
+   "requiredOwnerTraits": [
+      ""
+   ],
+   "prohibitedOwnerTraits": [
+      ""
+   ],
+   "requiredNationName": "EUA",
+   "requiredTechName": "NextGenerationAerospace",
+   "affinities": [
+      "Resist",
+      "",
+      ""
+   ],
+   "restricted": [
+      "Destroy",
+      "Cooperate",
+      "Escape",
+      "Appease",
+      "Submit",
+      "Exploit",
+      ""
+   ],
+   "costMoney": null,
+   "randCostMoney": null,
+   "costInfluence": 150,
+   "randCostInfluence": null,
+   "costOps": null,
+   "randCostOps": null,
+   "costBoost": null,
+   "randCostBoost": null,
+   "chanceIncomeMoney": 100,
+   "incomeMoney": -35,
+   "randIncomeMoney": null,
+   "chanceIncomeInfluence": null,
+   "incomeInfluence": null,
+   "randIncomeInfluence": null,
+   "chanceIncomeOps": null,
+   "incomeOps": null,
+   "randIncomeOps": null,
+   "chanceIncomeBoost": null,
+   "incomeBoost": null,
+   "randIncomeBoost": null,
+   "chanceIncomeMissionControl": 100,
+   "incomeMissionControl": 2,
+   "randIncomeMissionControl": null,
+   "chanceIncomeResearch": 100,
+   "incomeResearch": 10,
+   "randIncomeResearch": null,
+   "projectsGranted": null,
+   "chancePersuasion": null,
+   "persuasion": null,
+   "randPersuasion": null,
+   "chanceCommand": null,
+   "command": null,
+   "randCommand": null,
+   "chanceInvestigation": null,
+   "investigation": null,
+   "randInvestigation": null,
+   "chanceEspionage": null,
+   "espionage": null,
+   "randEspionage": null,
+   "chanceAdministration": 100,
+   "administration": 5,
+   "randAdministration": null,
+   "chanceScience": null,
+   "science": null,
+   "randScience": null,
+   "chanceSecurity": 100,
+   "security": 2,
+   "randSecurity": null,
+   "chanceEconomyBonus": null,
+   "economyBonus": null,
+   "randEconomyBonus": null,
+   "chanceWelfareBonus": null,
+   "welfareBonus": null,
+   "randWelfareBonus": null,
+   "chanceKnowledgeBonus": null,
+   "knowledgeBonus": null,
+   "randKnowledgeBonus": null,
+   "chanceUnityBonus": null,
+   "unityBonus": null,
+   "randUnityBonus": null,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
+   "randMilitaryBonus": null,
+   "chanceSpoilsBonus": null,
+   "spoilsBonus": null,
+   "randSpoilsBonus": null,
+   "chanceSpaceDevBonus": null,
+   "spaceDevBonus": null,
+   "randSpaceDevBonus": null,
+   "chanceSpaceflightBonus": null,
+   "spaceflightBonus": null,
+   "randSpaceflightBonus": null,
+   "miningBonus": null,
+   "randMiningBonus": null,
+   "XPModifier": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "missionsGrantedNames": [
+      "Advise",
+      "",
+      "",
+      ""
+   ],
+   "grantsMarked": false,
+   "projectGrantedName": "",
+   "iconResource": "1983/xcom_triskelion"
+},
+ {
    "dataName": "XCOMArea51",
-   "friendlyName": "Area 51",
+   "friendlyName": "XCOM Area 51",
    "randomized": false,
    "orgType": "Research",
    "tier": 2,
    "allowedOnMarket": true,
    "homeRegionNames": [
-      "Cascadia",
+      "California",
       ""
    ],
    "requiresNationality": true,
@@ -11263,7 +11513,7 @@
       ""
    ],
    "requiredNationName": "USA",
-   "requiredTechName": "",
+   "requiredTechName": "WeAreNotAlone",
    "affinities": [
       "Resist",
       "",
@@ -11287,7 +11537,7 @@
    "costBoost": null,
    "randCostBoost": null,
    "chanceIncomeMoney": 100,
-   "incomeMoney": -45,
+   "incomeMoney": -35,
    "randIncomeMoney": null,
    "chanceIncomeInfluence": null,
    "incomeInfluence": null,
@@ -11338,8 +11588,8 @@
    "chanceUnityBonus": null,
    "unityBonus": null,
    "randUnityBonus": null,
-   "chanceMilitaryBonus": 100,
-   "militaryBonus": 0.05,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
    "randMilitaryBonus": null,
    "chanceSpoilsBonus": null,
    "spoilsBonus": null,
@@ -11398,25 +11648,275 @@
    "iconResource": "1983/xcom_research"
 },
  {
-   "dataName": "XCOMContainmentDivision",
-   "friendlyName": "XCOM Alien Containment",
+   "dataName": "XCOMComplexYY18",
+   "friendlyName": "XCOM Complex YY-18",
    "randomized": false,
-   "orgType": "Faction",
+   "orgType": "BusinessManagement",
    "tier": 2,
-   "allowedOnMarket": false,
+   "allowedOnMarket": true,
    "homeRegionNames": [
-      "",
+      "Hokkaido",
       ""
    ],
-   "requiresNationality": false,
+   "requiresNationality": true,
    "requiredOwnerTraits": [
       ""
    ],
    "prohibitedOwnerTraits": [
       ""
    ],
-   "requiredNationName": "",
-   "requiredTechName": "",
+   "requiredNationName": "JPN",
+   "requiredTechName": "WeAreNotAlone",
+   "affinities": [
+      "Resist",
+      "",
+      ""
+   ],
+   "restricted": [
+      "Destroy",
+      "Cooperate",
+      "Escape",
+      "Appease",
+      "Submit",
+      "Exploit",
+      ""
+   ],
+   "costMoney": null,
+   "randCostMoney": null,
+   "costInfluence": 100,
+   "randCostInfluence": null,
+   "costOps": null,
+   "randCostOps": null,
+   "costBoost": null,
+   "randCostBoost": null,
+   "chanceIncomeMoney": 100,
+   "incomeMoney": 250,
+   "randIncomeMoney": null,
+   "chanceIncomeInfluence": null,
+   "incomeInfluence": null,
+   "randIncomeInfluence": null,
+   "chanceIncomeOps": null,
+   "incomeOps": null,
+   "randIncomeOps": null,
+   "chanceIncomeBoost": null,
+   "incomeBoost": null,
+   "randIncomeBoost": null,
+   "chanceIncomeMissionControl": null,
+   "incomeMissionControl": null,
+   "randIncomeMissionControl": null,
+   "chanceIncomeResearch": null,
+   "incomeResearch": null,
+   "randIncomeResearch": null,
+   "projectsGranted": null,
+   "chancePersuasion": 100,
+   "persuasion": 1,
+   "randPersuasion": null,
+   "chanceCommand": null,
+   "command": null,
+   "randCommand": null,
+   "chanceInvestigation": null,
+   "investigation": null,
+   "randInvestigation": null,
+   "chanceEspionage": null,
+   "espionage": null,
+   "randEspionage": null,
+   "chanceAdministration": null,
+   "administration": null,
+   "randAdministration": null,
+   "chanceScience": null,
+   "science": null,
+   "randScience": null,
+   "chanceSecurity": 100,
+   "security": 2,
+   "randSecurity": null,
+   "chanceEconomyBonus": null,
+   "economyBonus": null,
+   "randEconomyBonus": null,
+   "chanceWelfareBonus": null,
+   "welfareBonus": null,
+   "randWelfareBonus": null,
+   "chanceKnowledgeBonus": null,
+   "knowledgeBonus": null,
+   "randKnowledgeBonus": null,
+   "chanceUnityBonus": null,
+   "unityBonus": null,
+   "randUnityBonus": null,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
+   "randMilitaryBonus": null,
+   "chanceSpoilsBonus": null,
+   "spoilsBonus": null,
+   "randSpoilsBonus": null,
+   "chanceSpaceDevBonus": null,
+   "spaceDevBonus": null,
+   "randSpaceDevBonus": null,
+   "chanceSpaceflightBonus": null,
+   "spaceflightBonus": null,
+   "randSpaceflightBonus": null,
+   "miningBonus": null,
+   "randMiningBonus": null,
+   "XPModifier": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "missionsGrantedNames": [
+      "Advise",
+      "",
+      "",
+      ""
+   ],
+   "grantsMarked": null,
+   "projectGrantedName": "",
+   "iconResource": "1983/xcom_electronics"
+},
+ {
+   "dataName": "XCOMDepotS4",
+   "friendlyName": "XCOM Depot S-4",
+   "randomized": false,
+   "orgType": "BusinessManagement",
+   "tier": 2,
+   "allowedOnMarket": true,
+   "homeRegionNames": [
+      "Lagos",
+      ""
+   ],
+   "requiresNationality": true,
+   "requiredOwnerTraits": [
+      ""
+   ],
+   "prohibitedOwnerTraits": [
+      ""
+   ],
+   "requiredNationName": "NGA",
+   "requiredTechName": "WeAreNotAlone",
+   "affinities": [
+      "Resist",
+      "",
+      ""
+   ],
+   "restricted": [
+      "Destroy",
+      "Cooperate",
+      "Escape",
+      "Appease",
+      "Submit",
+      "Exploit",
+      ""
+   ],
+   "costMoney": null,
+   "randCostMoney": null,
+   "costInfluence": 100,
+   "randCostInfluence": null,
+   "costOps": null,
+   "randCostOps": null,
+   "costBoost": null,
+   "randCostBoost": null,
+   "chanceIncomeMoney": 100,
+   "incomeMoney": 250,
+   "randIncomeMoney": null,
+   "chanceIncomeInfluence": null,
+   "incomeInfluence": null,
+   "randIncomeInfluence": null,
+   "chanceIncomeOps": null,
+   "incomeOps": null,
+   "randIncomeOps": null,
+   "chanceIncomeBoost": null,
+   "incomeBoost": null,
+   "randIncomeBoost": null,
+   "chanceIncomeMissionControl": null,
+   "incomeMissionControl": null,
+   "randIncomeMissionControl": null,
+   "chanceIncomeResearch": null,
+   "incomeResearch": null,
+   "randIncomeResearch": null,
+   "projectsGranted": null,
+   "chancePersuasion": 100,
+   "persuasion": 1,
+   "randPersuasion": null,
+   "chanceCommand": null,
+   "command": null,
+   "randCommand": null,
+   "chanceInvestigation": null,
+   "investigation": null,
+   "randInvestigation": null,
+   "chanceEspionage": null,
+   "espionage": null,
+   "randEspionage": null,
+   "chanceAdministration": null,
+   "administration": null,
+   "randAdministration": null,
+   "chanceScience": null,
+   "science": null,
+   "randScience": null,
+   "chanceSecurity": 100,
+   "security": 2,
+   "randSecurity": null,
+   "chanceEconomyBonus": null,
+   "economyBonus": null,
+   "randEconomyBonus": null,
+   "chanceWelfareBonus": null,
+   "welfareBonus": null,
+   "randWelfareBonus": null,
+   "chanceKnowledgeBonus": null,
+   "knowledgeBonus": null,
+   "randKnowledgeBonus": null,
+   "chanceUnityBonus": null,
+   "unityBonus": null,
+   "randUnityBonus": null,
+   "chanceMilitaryBonus": null,
+   "militaryBonus": null,
+   "randMilitaryBonus": null,
+   "chanceSpoilsBonus": null,
+   "spoilsBonus": null,
+   "randSpoilsBonus": null,
+   "chanceSpaceDevBonus": null,
+   "spaceDevBonus": null,
+   "randSpaceDevBonus": null,
+   "chanceSpaceflightBonus": null,
+   "spaceflightBonus": null,
+   "randSpaceflightBonus": null,
+   "miningBonus": null,
+   "randMiningBonus": null,
+   "XPModifier": "",
+   "techBonuses": [
+      {
+         "category": "",
+         "bonus": null
+      }
+   ],
+   "missionsGrantedNames": [
+      "Advise",
+      "",
+      "",
+      ""
+   ],
+   "grantsMarked": null,
+   "projectGrantedName": "",
+   "iconResource": "1983/xcom_physics"
+},
+ {
+   "dataName": "XCOMContainmentDivision",
+   "friendlyName": "XCOM Containment Division",
+   "randomized": false,
+   "orgType": "Faction",
+   "tier": 2,
+   "allowedOnMarket": true,
+   "homeRegionNames": [
+      "Scotland",
+      ""
+   ],
+   "requiresNationality": true,
+   "requiredOwnerTraits": [
+      ""
+   ],
+   "prohibitedOwnerTraits": [
+      ""
+   ],
+   "requiredNationName": "GBR",
+   "requiredTechName": "WeAreNotAlone",
    "affinities": [
       "Resist",
       "",
@@ -11440,7 +11940,7 @@
    "costBoost": null,
    "randCostBoost": null,
    "chanceIncomeMoney": 100,
-   "incomeMoney": -50,
+   "incomeMoney": -30,
    "randIncomeMoney": null,
    "chanceIncomeInfluence": null,
    "incomeInfluence": null,
@@ -11634,7 +12134,7 @@
    "techBonuses": [
       {
          "category": "Energy",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -11759,7 +12259,7 @@
    "techBonuses": [
       {
          "category": "InformationScience",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -11884,7 +12384,7 @@
    "techBonuses": [
       {
          "category": "LifeScience",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -12009,7 +12509,7 @@
    "techBonuses": [
       {
          "category": "Materials",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -12134,7 +12634,7 @@
    "techBonuses": [
       {
          "category": "MilitaryScience",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -12259,7 +12759,7 @@
    "techBonuses": [
       {
          "category": "SocialScience",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -12384,7 +12884,7 @@
    "techBonuses": [
       {
          "category": "SpaceScience",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -12509,7 +13009,7 @@
    "techBonuses": [
       {
          "category": "Xenology",
-         "bonus": 0.1
+         "bonus": 0.2
       }
    ],
    "missionsGrantedNames": [
@@ -13774,7 +14274,7 @@
       "Stabilize",
       ""
    ],
-   "grantsMarked": true,
+   "grantsMarked": false,
    "projectGrantedName": "",
    "iconResource": "1983/xcom_kappa"
 },
@@ -15031,7 +15531,7 @@
       "Coup",
       "Purge"
    ],
-   "grantsMarked": true,
+   "grantsMarked": false,
    "projectGrantedName": "",
    "iconResource": "1983/xcom_upsilon"
 },
@@ -15114,8 +15614,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": 100,
-   "security": 2,
+   "chanceSecurity": null,
+   "security": null,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -15283,7 +15783,7 @@
       "Coup",
       "Purge"
    ],
-   "grantsMarked": true,
+   "grantsMarked": false,
    "projectGrantedName": "",
    "iconResource": "1983/xcom_chi"
 },
@@ -15556,7 +16056,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -15602,7 +16102,7 @@
    "persuasion": null,
    "randPersuasion": null,
    "chanceCommand": 100,
-   "command": 3,
+   "command": 2,
    "randCommand": null,
    "chanceInvestigation": null,
    "investigation": null,
@@ -15616,8 +16116,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": null,
-   "security": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -15680,7 +16180,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -15729,7 +16229,7 @@
    "command": null,
    "randCommand": null,
    "chanceInvestigation": 100,
-   "investigation": 3,
+   "investigation": 2,
    "randInvestigation": null,
    "chanceEspionage": null,
    "espionage": null,
@@ -15740,8 +16240,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": null,
-   "security": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -15804,7 +16304,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -15850,7 +16350,7 @@
    "persuasion": null,
    "randPersuasion": null,
    "chanceCommand": 100,
-   "command": 3,
+   "command": 2,
    "randCommand": null,
    "chanceInvestigation": null,
    "investigation": null,
@@ -15864,8 +16364,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": null,
-   "security": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -15928,7 +16428,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -15980,7 +16480,7 @@
    "investigation": null,
    "randInvestigation": null,
    "chanceEspionage": 100,
-   "espionage": 3,
+   "espionage": 2,
    "randEspionage": null,
    "chanceAdministration": null,
    "administration": null,
@@ -15988,8 +16488,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": null,
-   "security": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -16052,7 +16552,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -16101,7 +16601,7 @@
    "command": null,
    "randCommand": null,
    "chanceInvestigation": 100,
-   "investigation": 3,
+   "investigation": 2,
    "randInvestigation": null,
    "chanceEspionage": null,
    "espionage": null,
@@ -16113,8 +16613,8 @@
    "science": null,
    "randScience": null,
    "chanceSecurity": null,
-   "security": null,
-   "randSecurity": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "chanceEconomyBonus": null,
    "economyBonus": null,
    "randEconomyBonus": null,
@@ -16176,7 +16676,7 @@
       ""
    ],
    "requiredNationName": "",
-   "requiredTechName": "WeAreNotAlone",
+   "requiredTechName": "TerrestrialMilitaryScience",
    "affinities": [
       "Resist",
       "",
@@ -16228,7 +16728,7 @@
    "investigation": null,
    "randInvestigation": null,
    "chanceEspionage": 100,
-   "espionage": 3,
+   "espionage": 2,
    "randEspionage": null,
    "chanceAdministration": null,
    "administration": null,
@@ -16236,8 +16736,8 @@
    "chanceScience": null,
    "science": null,
    "randScience": null,
-   "chanceSecurity": null,
-   "security": null,
+   "chanceSecurity": 100,
+   "security": 1,
    "randSecurity": null,
    "chanceEconomyBonus": null,
    "economyBonus": null,
@@ -16281,7 +16781,7 @@
    ],
    "grantsMarked": null,
    "projectGrantedName": "",
-   "iconResource": "1983/xcom_ghost"
+   "iconResource": "1983/xcom_spectre"
 },
  {
    "dataName": "FEMA",
@@ -21922,10 +22422,10 @@
    "spoilsBonus": null,
    "randSpoilsBonus": null,
    "chanceSpaceDevBonus": 100,
-   "spaceDevBonus": 2,
+   "spaceDevBonus": 0.02,
    "randSpaceDevBonus": null,
    "chanceSpaceflightBonus": 100,
-   "spaceflightBonus": 2,
+   "spaceflightBonus": 0.02,
    "randSpaceflightBonus": null,
    "miningBonus": null,
    "randMiningBonus": null,
@@ -22692,7 +23192,7 @@
       "",
       ""
    ],
-   "grantsMarked": true,
+   "grantsMarked": false,
    "projectGrantedName": "",
    "iconResource": "1983/wftu"
 },

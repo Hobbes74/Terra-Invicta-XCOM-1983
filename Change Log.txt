@@ -1,9 +1,26 @@
-Version 0.2.3
+Version 0.3.1a
+* Fixed: XCOM Antarctica and XCOM Containment Division won't be given anymore by project completion but became available to XCOM only;
+* Changed: XCOM South Africa moved to Capetown region (ZAF), XCOM Launch moved to Nigeria (NGA), Containment moved to Scotland (GBR), Antarctica moved to Pampas (ARG);
+* Added: XCOM Pacific Control org, requires EUA control/councilor;
+* Added: more quotes;
+* Fixed: a couple bugs with orgs;
+
+Version 0.3.0
+* Changed: several 1983 factions internally reassigned, RYaN is now Exploit, Gladio is Destroy and Secretariat is Cooperate, to align them with the vanilla factions;
+* Added: more starting quotes;
+* Changed: Earth View renamed Geoscape;
+* Changed: the non-national XCOM combat teams now require Terrestrial Military Science to be unlocked;
+* Fixed: NPO Pivdenne bonuses;
+* Removed: unneeded template files;
+
+Version 0.2.3a
 * Changed: more XCOM orgs added and balance adjustments;
 * Added: XCOM small and medium ship names;
 * Replaced: Codex references with UFOPaedia;
 * Fixed: typos and grammar;
 * Reverted: restored Clandestine Cells, XCOM Headquarters is now a starting project;
+* Fixed: Area 51 appearing on the market for other factions than XCOM;
+* Removed: redundant 1983 scenario on start menu;
 
 Version 0.2.2
 * Added: 40 XCOM organizations, divided into regional commands, research divisions and combat teams;

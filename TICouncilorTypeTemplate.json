@@ -22,8 +22,8 @@
    "baseLoyalty": 3,
    "randLoyalty": 14,
    "affinities": [
+      "Exploit",
       "Destroy",
-      "Cooperate",
       "Submit"
    ],
    "missionNames": [
@@ -90,8 +90,8 @@
    "baseLoyalty": 4,
    "randLoyalty": 12,
    "affinities": [
-      "Cooperate",
       "Destroy",
+      "Exploit",
       "Submit"
    ],
    "missionNames": [
@@ -158,9 +158,9 @@
    "baseLoyalty": 4,
    "randLoyalty": 12,
    "affinities": [
-      "Destroy",
+      "Exploit",
       "Submit",
-      "Exploit"
+      "Appease"
    ],
    "missionNames": [
       "",
@@ -228,7 +228,7 @@
    "affinities": [
       "Appease",
       "Escape",
-      ""
+      "Cooperate"
    ],
    "missionNames": [
       "GainInfluence",
@@ -295,8 +295,8 @@
    "randLoyalty": 12,
    "affinities": [
       "Resist",
-      "Exploit",
-      "Cooperate"
+      "Appease",
+      "Destroy"
    ],
    "missionNames": [
       "GainInfluence",
@@ -362,8 +362,8 @@
    "baseLoyalty": 6,
    "randLoyalty": 12,
    "affinities": [
+      "Exploit",
       "Destroy",
-      "Cooperate",
       "Submit"
    ],
    "missionNames": [
@@ -430,9 +430,9 @@
    "baseLoyalty": 6,
    "randLoyalty": 10,
    "affinities": [
-      "Destroy",
-      "Submit",
-      "Cooperate"
+      "Exploit",
+      "Resist",
+      "Destroy"
    ],
    "missionNames": [
       "",
@@ -500,7 +500,7 @@
    "affinities": [
       "Escape",
       "Resist",
-      "Cooperate"
+      "Destroy"
    ],
    "missionNames": [
       "GainInfluence",
@@ -567,8 +567,8 @@
    "randLoyalty": 12,
    "affinities": [
       "Submit",
-      "Cooperate",
-      "Exploit"
+      "Destroy",
+      "Appease"
    ],
    "missionNames": [
       "",
