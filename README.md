@@ -3,7 +3,9 @@ The XCOM Project is activated during one of the heights of the Cold War, with Ea
 Public Repository: https://github.com/Hobbes74/Terra-Invicta-XCOM-1983
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2977414079
 
-Work in progress. Requires the latest beta version of Terra Invicta.
+Work in progress - the game is still on development, so expect bugs, crashes, broken saves, etc. And please report any bugs to the specific Steam or Discord threads.
+
+To keep things simple and easier for players, the mod will always require the Terra Invicta release version - development changes will only be added to the mod once they move from betas/validation to the release version.
 
 Includes:
 * Seven new player factions to replace the vanilla ones: XCOM Project, Operation RYaN, UN Secretariat, New World Order, Strategic Defense Initiative, Gladio and SETI Initiative;

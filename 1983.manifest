@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 213347291
+CRC: 3903058356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c9680f77f466d17426aadbc5ecabb07
+    Hash: 68c4354e13639d0417b23ff9816557b4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -23,6 +23,7 @@ Assets:
 - Assets/jemaahislamiyah.png
 - Assets/plo.png
 - Assets/xcom_theta.png
+- Assets/thirteenrdp.png
 - Assets/usla.png
 - Assets/xcom_gamma.png
 - Assets/commandosmarine.png
@@ -49,17 +50,15 @@ Assets:
 - Assets/xcom_launch.png
 - Assets/romania1983.png
 - Assets/afghanistan1983.png
-- Assets/sovietairdefense.png
 - Assets/gladio64.png
-- Assets/xcom_physics.png
 - Assets/xcom_phi.png
 - Assets/japaneseredarmy.png
 - Assets/tamiltigers.png
-- Assets/xcom_chemistry.png
 - Assets/eln.png
 - Assets/xcom_delta.png
 - Assets/xcom256.png
 - Assets/dgi.png
+- Assets/sovietairdefenses.png
 - Assets/mongolia1983.png
 - Assets/seti256.png
 - Assets/npotekhnomash.png
@@ -73,6 +72,7 @@ Assets:
 - Assets/xcom_aerospace.png
 - Assets/xcom_omega.png
 - Assets/sb.png
+- Assets/xcom_graymarket.png
 - Assets/sdi.png
 - Assets/gladio128.png
 - Assets/nato.png
@@ -119,14 +119,14 @@ Assets:
 - Assets/wftu.png
 - Assets/nato64.png
 - Assets/nato256.png
-- Assets/xcom_control.png
+- Assets/pkk.png
 - Assets/un64.png
 - Assets/xcom_siberia.png
-- Assets/pkk.png
 - Assets/xcom_mu.png
 - Assets/npoantey.png
 - Assets/nwo64.png
 - Assets/kgb.png
+- Assets/xcom_pacific.png
 - Assets/norad.png
 - Assets/xcom_europe.png
 - Assets/tupolev.png
@@ -142,6 +142,7 @@ Assets:
 - Assets/xcom_rogue.png
 - Assets/exalt256.png
 - Assets/xcom_chi.png
+- Assets/xcom_area51.png
 - Assets/npomashinostroyeniya.png
 - Assets/xcom_nu.png
 - Assets/xcom_lambda.png
@@ -165,10 +166,10 @@ Assets:
 - Assets/sovietunion1983.png
 - Assets/alpha.png
 - Assets/xcom_kappa.png
-- Assets/xcom_electronics.png
 - Assets/mek.png
 - Assets/comecon.png
 - Assets/nwo256.png
+- Assets/xcom_arctic.png
 - Assets/kgb128.png
 - Assets/vigilio128.png
 - Assets/ministryofinternalaffairs.png
@@ -185,6 +186,5 @@ Assets:
 - Assets/npolavochkin.png
 - Assets/ministryofpublicsafety.png
 - Assets/italiannavy.png
-- Assets/xcom_research.png
 - Assets/xcom_life_TI.png
 Dependencies: []

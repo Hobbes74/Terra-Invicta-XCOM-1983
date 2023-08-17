@@ -856,7 +856,12 @@ TINationTemplate.unionDisplayNameWithArticlePrep.ETH=in the African Union
 TINationTemplate.unionDisplayName.EUA=EEC
 TINationTemplate.unionDisplayNameWithArticle.EUA=the European Economic Community
 TINationTemplate.unionAdjective.EUA=European
-TINationTemplate.unionDisplayNameWithArticlePrep.EUA=in the EEC
+TINationTemplate.unionDisplayNameWithArticlePrep.EUA=in the European Economic Community
+
+TINationTemplate.unionDisplayName.BEN=Western Alliance
+TINationTemplate.unionDisplayNameWithArticle.BEN=the Western Alliance
+TINationTemplate.unionAdjective.BEN=European
+TINationTemplate.unionDisplayNameWithArticlePrep.BEN=in the Western Alliance
 
 TINationTemplate.unionDisplayName.MYS=United Malay Nation
 TINationTemplate.unionDisplayNameWithArticle.MYS=the United Malay Nation

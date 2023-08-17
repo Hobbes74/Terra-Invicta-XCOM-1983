@@ -1,9 +1,23 @@
-Version 0.3.1a
+Version 0.3.3
+* Added: 13th RDP org;
+* Fixed: KGB orgs correctly assigned to Exploit faction;
+* Changed: removed national adjectives from nearly all army names to avoid repetitions in text;
+* Fixed: SETI will now suffer the crackdown effect during the 'They Have Not Came In Peace' event;
+* Added: more XCOM names for Habs and Ships;
+
+
+Version 0.3.2
+* Added: XCOM names for Habs and small vessels;
+* Added: generic UFO and Alien Base designations for all alien vessels and bases;
+* Added: DIA, NORAD, Soviet Air Defenses, NPO Lavochkin, 75h Ranger Regiment, DGI, 1eRPIM, Commandos Marine, XCOM Grey Market and XCOM Council Support orgs;
+* Fixed: a couple bugs with orgs;
+* Fixed: missing strings for Western Alliance;
+
+Version 0.3.1
 * Fixed: XCOM Antarctica and XCOM Containment Division won't be given anymore by project completion but became available to XCOM only;
 * Changed: XCOM South Africa moved to Capetown region (ZAF), XCOM Launch moved to Nigeria (NGA), Containment moved to Scotland (GBR), Antarctica moved to Pampas (ARG);
-* Added: XCOM Pacific Control org, requires EUA control/councilor;
+* Added: XCOM Pacific Control org, requires EUA control/councillor;
 * Added: more quotes;
-* Fixed: a couple bugs with orgs;
 
 Version 0.3.0
 * Changed: several 1983 factions internally reassigned, RYaN is now Exploit, Gladio is Destroy and Secretariat is Cooperate, to align them with the vanilla factions;

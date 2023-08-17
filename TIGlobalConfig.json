@@ -79,7 +79,7 @@
 			"SpaceCombatCanvas",
 			"CodexCanvas"
 		],
-		"debug_ConsoleActive": true,
+		"debug_ConsoleActive": false,
 		"debug_fullAIDump": false,
 		"debug_advancedFactionStart": false,
     	"debug_fullAIKnowledge" : false,

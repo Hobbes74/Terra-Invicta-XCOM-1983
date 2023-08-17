@@ -44,10 +44,10 @@
    "cursorPath": "cursors/Cursor_ResistCouncil",
    "cinematicsPath": "cinematics/_resist",
    "winMissionPath": "councilor_missions/ICO_mission_resist",
-   "smallShipNameListIdx": "Heroes",
+   "smallShipNameListIdx": "XCOMFighter",
    "mediumShipNameListIdx": "XCOMFrigate",
    "largeShipNameListIdx": "XCOMCapitalShip",
-   "habNameListIdx": "Commanders",
+   "habNameListIdx": "XCOMHabs",
    "guaranteedMissions": [
       [
          "InvestigateAlienActivity",
@@ -1452,6 +1452,214 @@
       "MissionControl": 1.75,
       "SpaceResources": 1.5,
       "Shipbuilding": 1.25,
+      "Defense": 1
+   }
+},
+ {
+   "dataName": "AlienCouncil",
+   "friendlyName": "Aliens",
+   "color": {
+      "r": 0.5,
+      "g": 0,
+      "b": 1,
+      "a": 1
+   },
+   "colorIntensity": 1,
+   "playerMood": 7,
+   "encMood": 16,
+   "ideologyName": "alien",
+   "victoryTemplateName": "",
+   "winningOrg": "",
+   "spaceOrg": "",
+   "isAlien": true,
+   "activePlayerAllowed": false,
+   "difficulty": 0,
+   "tutorialAllowed": false,
+   "councilorIconBase": "_alien",
+   "leaderDataname": "HydraImage01",
+   "defaultPresetName": "Alien",
+   "hullIndex_default": 0,
+   "hullIndex_chem": 0,
+   "hullIndex_electric": 0,
+   "hullIndex_fission": 0,
+   "hullIndex_fusion": 0,
+   "hullIndex_amat": 0,
+   "councilIcon64": "faction_logos/FAC_AlienCouncil_64",
+   "councilIcon64_ui": "faction_logos/FAC_AlienCouncil_64_ui",
+   "councilIcon128": "faction_logos/FAC_AlienCouncil_128",
+   "councilIcon128_ui": "faction_logos/FAC_AlienCouncil_128_ui",
+   "councilIcon256": "faction_logos/FAC_AlienCouncil_256",
+   "councilIcon256_ui": "faction_logos/FAC_AlienCouncil_256_ui",
+   "armyIcon": "mapicons/ICO_geoscape_AlienCouncil_army",
+   "fleetIcon": "faction_logos/FAC_AlienCouncil_fleet",
+   "stationIcon": "faction_logos/FAC_AlienCouncil_station",
+   "baseIcon": "faction_logos/FAC_AlienCouncil_base",
+   "habSectorIcon": "faction_logos/FAC_AlienCouncil_peripheral",
+   "genericCouncilorIcon": "mapIcons/ICO_geoscape_councilor_alien_generic",
+   "shipMaterialBundlePath": "shipmaterials_submitfaction",
+   "cursorPath": "cursors/Cursor_AlienCouncil",
+   "cinematicsPath": "cinematics/_submit",
+   "winMissionPath": "councilor_missions/ICO_mission_submit",
+   "smallShipNameListIdx": "AlienSmallShip",
+   "mediumShipNameListIdx": "AlienMediumShip",
+   "largeShipNameListIdx": "AlienLargeShip",
+   "habNameListIdx": "AlienHabs",
+   "guaranteedMissions": [
+      [
+         "",
+         ""
+      ],
+      [
+         "",
+         ""
+      ]
+   ],
+   "AIValues": [
+      {
+         "proAlien": 1,
+         "antiAlien": 0,
+         "protectHumanLife": 0.25,
+         "protectAlienLife": 1,
+         "dirtyTricks": 1,
+         "riskAversion": 1,
+         "protectCouncilors": 2,
+         "wantEarthWarCapability": 1,
+         "wantSpaceWarCapability": 1,
+         "wantSpaceFacilities": 1,
+         "wantPopularity": 1,
+         "gatherMoney": 0.75,
+         "gatherInfluence": 1.25,
+         "gatherOps": 1,
+         "gatherScience": 1,
+         "energyTechs": 1,
+         "materialsTechs": 1,
+         "informationTechs": 1,
+         "lifeTechs": 1,
+         "militaryTechs": 1,
+         "socialTechs": 1,
+         "spaceTechs": 1,
+         "preserveLife": 1,
+         "fleetSmalls": 3,
+         "fleetMediums": 3
+      },
+      {
+         "proAlien": 1,
+         "antiAlien": 0,
+         "protectHumanLife": 0.25,
+         "protectAlienLife": 1,
+         "dirtyTricks": 1,
+         "riskAversion": 1,
+         "protectCouncilors": 2,
+         "wantEarthWarCapability": 1,
+         "wantSpaceWarCapability": 1,
+         "wantSpaceFacilities": 1,
+         "wantPopularity": 1,
+         "gatherMoney": 0.75,
+         "gatherInfluence": 1.25,
+         "gatherOps": 1,
+         "gatherScience": 1,
+         "energyTechs": 1,
+         "materialsTechs": 1,
+         "informationTechs": 1,
+         "lifeTechs": 1,
+         "militaryTechs": 1,
+         "socialTechs": 1,
+         "spaceTechs": 1,
+         "preserveLife": 1,
+         "fleetSmalls": 3,
+         "fleetMediums": 3
+      },
+      {
+         "proAlien": 1,
+         "antiAlien": 0,
+         "protectHumanLife": 0.25,
+         "protectAlienLife": 1,
+         "dirtyTricks": 1,
+         "riskAversion": 1,
+         "protectCouncilors": 2,
+         "wantEarthWarCapability": 1,
+         "wantSpaceWarCapability": 1,
+         "wantSpaceFacilities": 1,
+         "wantPopularity": 1,
+         "gatherMoney": 0.75,
+         "gatherInfluence": 1.25,
+         "gatherOps": 1,
+         "gatherScience": 1,
+         "energyTechs": 1,
+         "materialsTechs": 1,
+         "informationTechs": 1,
+         "lifeTechs": 1,
+         "militaryTechs": 1,
+         "socialTechs": 1,
+         "spaceTechs": 1,
+         "preserveLife": 1,
+         "fleetSmalls": 3,
+         "fleetMediums": 3
+      }
+   ],
+   "baseAnnualIncomes": [
+      {
+         "resource": "MissionControl",
+         "value": 50
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "startingResources": [
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      },
+      {
+         "resource": "",
+         "value": null
+      }
+   ],
+   "firstTechNames": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "winnerTechNames": [
+      "",
+      "",
+      "",
+      ""
+   ],
+   "habPreferences": {
+      "Money": 1,
+      "Influence": 1,
+      "Operations": 1,
+      "Research": 1,
+      "Boost": 1,
+      "MissionControl": 1,
+      "SpaceResources": 1,
+      "Shipbuilding": 1,
       "Defense": 1
    }
 }
