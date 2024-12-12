@@ -1,9 +1,9 @@
 [
  {
-   "dataName": "ModernStart",
+   "dataName": "ModernDayStart",
    "year": 1983,
-   "month": 2,
-   "day": 28,
+   "month": 9,
+   "day": 30,
    "hour": 23,
    "minute": 59,
    "second": 59,
@@ -25,6 +25,7 @@
    "initialAtmosphericN2O_ppm": 0.303,
    "initialStratosphericAerosols_ppm": 0,
    "initialGlobalSeaLevelAnomaly_cm": 12,
+   "initialLooseNukes": 0,
    "startingTechs": [
       "WeAreNotAlone",
       "Skywatch",

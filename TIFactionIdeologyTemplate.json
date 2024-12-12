@@ -4,13 +4,13 @@
    "alien": false,
    "undecided": false,
    "sortOrder": 7,
-   "willProxy": -1,
-   "willAppease": -1,
-   "initialReactionGroup": 2,
+   "willProxy": 4,
+   "willAppease": 5,
+   "initialReactionGroup": 1,
    "ideology": "Resist",
    "ideologyCoordinates": {
-      "x": 1.5,
-      "y": -1,
+      "x": 0,
+      "y": 1,
       "z": 0
    }
 },
@@ -79,13 +79,13 @@
    "alien": false,
    "undecided": false,
    "sortOrder": 2,
-   "willProxy": 3,
-   "willAppease": 4,
-   "initialReactionGroup": 1,
+   "willProxy": -1,
+   "willAppease": -1,
+   "initialReactionGroup": 0,
    "ideology": "Cooperate",
    "ideologyCoordinates": {
-      "x": 0,
-      "y": 1,
+      "x": 2,
+      "y": -1,
       "z": 0
    }
 },

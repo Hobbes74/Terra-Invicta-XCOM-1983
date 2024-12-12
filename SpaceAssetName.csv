@@ -269,6 +269,94 @@ USCapitalShip,Freedom
 USCapitalShip,Hope
 USCapitalShip,Democracy 
 USCapitalShip,Republic
+USCapitalShip,Essex
+USCapitalShip,Franklin
+USCapitalShip,Ticonderoga
+USCapitalShip,Randolph
+USCapitalShip,Bunker Hill
+USCapitalShip,Hancock
+USCapitalShip,Bennington
+USCapitalShip,Boxer
+USCapitalShip,Leyte
+USCapitalShip,Kearsarge
+USCapitalShip,Oriskany
+USCapitalShip,Reprisaal
+USCapitalShip,Antietam
+USCapitalShip,Princeton
+USCapitalShip,Shangri-La
+USCapitalShip,Tarawa
+USCapitalShip,Valley Forge
+USCapitalShip,Iwo Jima
+USCapitalShip,Phillipine Sea
+USCapitalShip,Guadalcanal
+USCapitalShip,Guam
+USCapitalShip,Tripoli
+USCapitalShip,New Orleans
+USCapitalShip,Inchon
+USCapitalShip,Block Island
+USCapitalShip,Thetis Bay
+USCapitalShip,Belleau Wood
+USCapitalShip,Peleliu
+USCapitalShip,Saipan
+USCorporation,Exxon Mobil
+USCorporation,General Motors
+USCorporation,Mobil
+USCorporation,Ford
+USCorporation,Texaco
+USCorporation,Gulf Oil
+USCorporation,International Business Machines
+USCorporation,General Electric
+USCorporation,Amoco
+USCorporation,Shell Oil
+USCorporation,U.S. Steel
+USCorporation,DuPont
+USCorporation,Chrysler
+USCorporation,AT&T
+USCorporation,Goodyear
+USCorporation,Boeing
+USCorporation,Eastman Kodak
+USCorporation,Nabisco
+USCorporation,Xerox
+USCorporation,Kraft
+USCorporation,Monsanto
+USCorporation,3M
+USCorporation,McDonnell Douglas
+USCorporation,PepsiCo
+USCorporation,Coca-Cola
+USCorporation,Deere
+USCorporation,Colgate
+USCorporation,Chiquita
+USCorporation,General Dynamics
+USCorporation,Bendix
+USCorporation,Fortune Brands
+USCorporation,McDonald's
+USCorporation,Apple
+USCorporation,MTV
+USCorporation,Nintendo
+USCorporation,Sony
+USCorporation,Oldsmobile
+USCorporation,Buick
+USCorporation,Jeep
+USCorporation,DeLorean
+USCorporation,Cyberdine
+USCorporation,Wutani-Weyland
+USCorporation,Studebaker
+USCorporation,Pontiac
+USCorporation,Plymouth
+USCorporation,TWA
+USCorporation,Pan Am
+USCorporation,Delta
+USCorporation,United
+USCorporation,Disney
+USCorporation,Goodyear
+USCorporation,Procter & Gamble
+USCorporation,Westinghouse Electric
+USCorporation,Universal
+USCorporation,MGM
+USCorporation,Warner Bros
+USCorporation,Taco Bell
+USCorporation,Burger King
+USCorporation,Kentucky Fried Chicken
 USState,Alaska
 USState,Alabama
 USState,Arizona
@@ -322,6 +410,7 @@ USState,Vermont
 USState,Guam
 USState,Puerto Rico
 USState,Samoa
+USState,District of Columbia
 USSubmarine,Albacore
 USSubmarine,Archerfish
 USSubmarine,Barb
@@ -493,6 +582,71 @@ EuropeCapitalShip,Invincible
 EuropeCapitalShip,Illustrious
 EuropeCapitalShip,Clemenceau
 EuropeCapitalShip,Foch
+RomanLegion,Germanica
+RomanLegion,Sabina
+RomanLegion,Cyrenaica
+RomanLegion,Gallica
+RomanLegion,Scythica
+RomanLegion,Alaudae
+RomanLegion,Ferrata
+RomanLegion,Victrix
+RomanLegion,Pia Fidelis
+RomanLegion,Augusta
+RomanLegion,Fretensis
+RomanLegion,Equestris
+RomanLegion,Claudia
+RomanLegion,Fulminata
+RomanLegion,Gemina
+RomanLegion,Libyca
+RomanLegion,Siciliana
+RomanLegion,Martia
+RomanLegion,Classica
+RomanLegion,Adiutrix
+RomanLegion,Italica
+RomanLegion,Macriana
+RomanLegion,Minervia
+RomanLegion,Parthica
+RomanLegion,Traiana
+RomanLegion,Flavia Felix
+RomanLegion,Macedonica
+RomanLegion,Hispana
+RomanLegion,Apollinaris
+RomanLegion,Primigenia
+RomanLegion,Flavia Firma
+RomanLegion,Valeria
+RomanLegion,Rapax
+RomanLegion,Deiotariana
+RomanLegion,Uppia Victrix
+GreekCity,Argos
+GreekCity,Athens
+GreekCity,Sparta
+GreekCity,Thebes
+GreekCity,Corinth
+GreekCity,Thespiae
+GreekCity,Plataea
+GreekCity,Olympia
+GreekCity,Potidaea
+GreekCity,Delphi
+GreekCity,Amfissa
+GreekCity,Megara
+GreekCity,Miletus
+GreekCity,Pergamon
+GreekCity,Ephesus
+GreekCity,Delos
+GreekCity,Eretria
+GreekCity,Elis
+GreekCity,Marathon
+GreekCity,Orchomenus
+GreekCity,Messene
+GreekCity,Pherae
+GreekCity,Patras
+GreekCity,Mantineia
+GreekCity,Megalopolis
+GreekCity,Mycenae
+GreekCity,Tegea
+GreekCity,Eleusis
+GreekCity,Chalcis
+GreekCity,Phlius
 GreekDeity,Ares
 GreekDeity,Aphrodite
 GreekDeity,Hermes
@@ -937,199 +1091,55 @@ AsianHabs,Xueshen
 AsianHabs,Yushen
 AsianHabs,Xihe
 AsianHabs,Yueshen
-XCOMCapitalShip,Avenger
-XCOMCapitalShip,Biter
-XCOMCapitalShip,Charger
-XCOMCapitalShip,Dasher
-XCOMCapitalShip,Attacker
-XCOMCapitalShip,Battler
-XCOMCapitalShip,Chaser
-XCOMCapitalShip,Fencer
-XCOMCapitalShip,Hunter
-XCOMCapitalShip,Pursuer
-XCOMCapitalShip,Ravager
-XCOMCapitalShip,Searcher
-XCOMCapitalShip,Stalker
-XCOMCapitalShip,Striker
-XCOMCapitalShip,Tracker
-XCOMCapitalShip,Patroller
-XCOMCapitalShip,Puncher
-XCOMCapitalShip,Reaper
-XCOMCapitalShip,Slinger
-XCOMCapitalShip,Smiter
-XCOMCapitalShip,Speaker
-XCOMCapitalShip,Trouncer
-XCOMCapitalShip,Trumpeter
-XCOMCapitalShip,Arbiter
-XCOMCapitalShip,Ameer
-XCOMCapitalShip,Colossus
-XCOMCapitalShip,Glory
-XCOMCapitalShip,Ocean
-XCOMCapitalShip,Venerable
-XCOMCapitalShip,Vengeance
-XCOMCapitalShip,Pioneer
-XCOMCapitalShip,Warrior
-XCOMCapitalShip,Triumph
-XCOMCapitalShip,Majestic
-XCOMCapitalShip,Terrible
-XCOMCapitalShip,Magnificent
-XCOMCapitalShip,Leviathan
-XCOMCapitalShip,Powerful
-XCOMCapitalShip,Glorious
-XCOMCapitalShip,Furious
-XCOMCapitalShip,Courageous
-XCOMCapitalShip,Illustrious
-XCOMCapitalShip,Invincible
-XCOMCapitalShip,Indomitable
-XCOMCapitalShip,Formidable
-XCOMCapitalShip,Implacable
-XCOMCapitalShip,Indefatigable
-XCOMCapitalShip,Audacious
-XCOMCapitalShip,Irresistible
-XCOMCapitalShip,Firestorm
-XCOMCapitalShip,Lightning
-XCOMCapitalShip,Starranger
-XCOMFrigate,Washington
-XCOMFrigate,Moscow
-XCOMFrigate,London
-XCOMFrigate,Paris
-XCOMFrigate,Beijing
-XCOMFrigate,Berlin
-XCOMFrigate,Tokyo
-XCOMFrigate,Johannesburg
-XCOMFrigate,Brasilia
-XCOMFrigate,New Delhi
-XCOMFrigate,Canberra
-XCOMFrigate,Abuja
-XCOMFrigate,Lagos
-XCOMFrigate,Sydney
-XCOMFrigate,New York City
-XCOMFrigate,Leningrad
-XCOMFrigate,Bonn
-XCOMFrigate,Lyon
-XCOMFrigate,Edinburgh
-XCOMFrigate,Kolkotta
-XCOMFrigate,Shanghai
-XCOMFrigate,Yokohama
-XCOMFrigate,Toronto
-XCOMFrigate,Quebec City
-XCOMFrigate,Mexico City
-XCOMFrigate,Monterey
-XCOMFrigate,Capetown
-XCOMFrigate,Cairo
-XCOMFrigate,Alexandria
-XCOMFrigate,Buenos Aires
-XCOMFrigate,Cordoba
-XCOMFrigate,Rio de Janeiro
-XCOMFrigate,Los Angeles
-XCOMFrigate,Kiev
-XCOMFrigate,Belfast
-XCOMFrigate,Bordeaux
-XCOMFrigate,Goa
-XCOMFrigate,Guangzhou
-XCOMFrigate,Edo
-XCOMFrigate,Montreal
-XCOMFrigate,Guadalajara
-XCOMFrigate,Pretoria
-XCOMFrigate,Port Said
-XCOMFrigate,Rosario
-XCOMFrigate,Hamburg
-XCOMFrigate,São Paulo
-XCOMFrigate,Ibadan
-XCOMFrigate,Kano
-XCOMFrigate,Melbourne
-XCOMFrigate,Brisbane
-XCOMFrigate,Dallas
-XCOMFrigate,Minsk
-XCOMFrigate,Cardiff
-XCOMFrigate,Port Harcourt
-XCOMFrigate,Ciudad Juárez
-XCOMFrigate,Frankfurt
-XCOMFrigate,Nanjing
-XCOMFighter,Phantom
-XCOMFighter,Tiger
-XCOMFighter,Crusader
-XCOMFighter,Skyhawk
-XCOMFighter,Intruder
-XCOMFighter,Corsair
-XCOMFighter,Harrier
-XCOMFighter,Thunderbolt
-XCOMFighter,Black Bird
-XCOMFighter,Starfighter
-XCOMFighter,Aardvark
-XCOMFighter,Tomcat
-XCOMFighter,Eagle
-XCOMFighter,Falcon
-XCOMFighter,Hornet
-XCOMFighter,Fishbed
-XCOMFighter,Flogger
-XCOMFighter,Foxbat
-XCOMFighter,Fulcrum
-XCOMFighter,Foxhound
-XCOMFighter,Fitter
-XCOMFighter,Flagon
-XCOMFighter,Fencer
-XCOMFighter,Fiddler
-XCOMFighter,Finback
-XCOMFighter,Flanker
-XCOMFighter,Forger
-XCOMFighter,Frogfoot
-XCOMFighter,Tornado
-XCOMFighter,Mirage
-XCOMFighter,Jaguar
-XCOMFighter,Lightning
-XCOMFighter,Buccaneer
-XCOMHabs,Acropolis
-XCOMHabs,Atlantis 
-XCOMHabs,Ecozone
-XCOMHabs,Habizone
-XCOMHabs,Ptolemy
-XCOMHabs,Angel Heart
-XCOMHabs,Bakunin
-XCOMHabs,Borstal
-XCOMHabs,Campesino
-XCOMHabs,Chronos
-XCOMHabs,Civic
-XCOMHabs,Dickens
-XCOMHabs,George Orwell
-XCOMHabs,Grey Visitor
-XCOMHabs,Grimoire
-XCOMHabs,Hades
-XCOMHabs,Heavenly
-XCOMHabs,Lovecraft
-XCOMHabs,Maze
-XCOMHabs,Necronomicon
-XCOMHabs,Neptune
-XCOMHabs,Oliver Twist
-XCOMHabs,Saturn
-XCOMHabs,Scrooge
-XCOMHabs,Thomas More
-XCOMHabs,Eden
-XCOMHabs,Nirvana
-XCOMHabs,Utopia
-XCOMHabs,Edifice
-XCOMHabs,Foucault
-XCOMHabs,Nietzche
-XCOMHabs,Karpov
-XCOMHabs,Ozone
-XCOMHabs,New Empire
-XCOMHabs,Uhuru
-XCOMHabs,Gygax Memorial
-XCOMHabs,Parallax
-XCOMHabs,Quadrax
-XCOMHabs,Tsunami
-XCOMHabs,Venus
-XCOMHabs,Illiad
-XCOMHabs,Bosch
-XCOMHabs,Marge Pierce
-XCOMHabs,Garden of Delights
-XCOMHabs,The Lineage
-XCOMHabs,Phoenix
-XCOMHabs,Nightingale
-XCOMHabs,Judgment
-XCOMHabs,Enforcer
-XCOMHabs,Aldous
-XCOMHabs,Hypermart
+UKCapitalShip,Avenger
+UKCapitalShip,Biter
+UKCapitalShip,Charger
+UKCapitalShip,Dasher
+UKCapitalShip,Attacker
+UKCapitalShip,Battler
+UKCapitalShip,Chaser
+UKCapitalShip,Fencer
+UKCapitalShip,Hunter
+UKCapitalShip,Pursuer
+UKCapitalShip,Ravager
+UKCapitalShip,Searcher
+UKCapitalShip,Stalker
+UKCapitalShip,Striker
+UKCapitalShip,Tracker
+UKCapitalShip,Patroller
+UKCapitalShip,Puncher
+UKCapitalShip,Reaper
+UKCapitalShip,Slinger
+UKCapitalShip,Smiter
+UKCapitalShip,Speaker
+UKCapitalShip,Trouncer
+UKCapitalShip,Trumpeter
+UKCapitalShip,Arbiter
+UKCapitalShip,Ameer
+UKCapitalShip,Colossus
+UKCapitalShip,Glory
+UKCapitalShip,Ocean
+UKCapitalShip,Venerable
+UKCapitalShip,Vengeance
+UKCapitalShip,Pioneer
+UKCapitalShip,Warrior
+UKCapitalShip,Triumph
+UKCapitalShip,Majestic
+UKCapitalShip,Terrible
+UKCapitalShip,Magnificent
+UKCapitalShip,Leviathan
+UKCapitalShip,Powerful
+UKCapitalShip,Glorious
+UKCapitalShip,Furious
+UKCapitalShip,Courageous
+UKCapitalShip,Illustrious
+UKCapitalShip,Invincible
+UKCapitalShip,Indomitable
+UKCapitalShip,Formidable
+UKCapitalShip,Implacable
+UKCapitalShip,Indefatigable
+UKCapitalShip,Audacious
+UKCapitalShip,Irresistible
 AlienHabs,Alien
 AlienLargeShip,Large UFO
 AlienMediumShip,Medium UFO

@@ -79,7 +79,7 @@
 			"SpaceCombatCanvas",
 			"CodexCanvas"
 		],
-		"debug_ConsoleActive": false,
+		"debug_ConsoleActive": true,
 		"debug_fullAIDump": false,
 		"debug_advancedFactionStart": false,
     	"debug_fullAIKnowledge" : false,
@@ -99,7 +99,7 @@
 		"smoothAIMissionPlanning": true,
 		"smoothingMSPerFrame": 18,
 		"targetFrameRate": 90,
-		"gameplay_alertActivePlayeronAISpaceCombat": false,
+		"dontPlayCinematicVideos": false,
 		"combatCamera_maxZoom": 8000,
 		"combatCamera_minZoom": 10,
 		"combatCamera_maxPan": 8000,
@@ -119,6 +119,8 @@
 		"strategyCamera_ZoomLimitEarth": 0.1,
 		"strategyCamera_MaxZoomStep": 0.9,
 		"strategyCamera_MinDistanceFromCamera": 20,
-		"strategyCamera_LogScaleDistanceFromCamera": 100		
+		"strategyCamera_LogScaleDistanceFromCamera": 100,
+		"homeCountryThreeLetterISOCodeOverride": "",
+		"savePath": ""
     }
 ]

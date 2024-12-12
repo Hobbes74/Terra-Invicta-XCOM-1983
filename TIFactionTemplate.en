@@ -1,16 +1,16 @@
-TIFactionTemplate.displayName.ResistCouncil=XCOM
+TIFactionTemplate.displayName.ResistCouncil=SDI
 TIFactionTemplate.displayName.DestroyCouncil=Gladio
 TIFactionTemplate.displayName.ExploitCouncil=Operation RYaN
 TIFactionTemplate.displayName.SubmitCouncil=New World Order
 TIFactionTemplate.displayName.AppeaseCouncil=Secretariat
-TIFactionTemplate.displayName.CooperateCouncil=SDI
+TIFactionTemplate.displayName.CooperateCouncil=Third Front
 TIFactionTemplate.displayName.EscapeCouncil=SETI Initiative
-TIFactionTemplate.adjective.ResistCouncil=XCOM
+TIFactionTemplate.adjective.ResistCouncil=SDI
 TIFactionTemplate.adjective.DestroyCouncil=Gladio
 TIFactionTemplate.adjective.ExploitCouncil=Operation RYaN
 TIFactionTemplate.adjective.SubmitCouncil=the New World Order
 TIFactionTemplate.adjective.AppeaseCouncil=the Secretariat
-TIFactionTemplate.adjective.CooperateCouncil=SDI
+TIFactionTemplate.adjective.CooperateCouncil=the Third Front
 TIFactionTemplate.adjective.EscapeCouncil=the SETI Initiative
 TIFactionTemplate.leaderAddress.ResistCouncil=Commander
 TIFactionTemplate.leaderAddress.DestroyCouncil=Colonel
@@ -26,12 +26,12 @@ TIFactionTemplate.leader.SubmitCouncil=Talia Eckhard
 TIFactionTemplate.leader.AppeaseCouncil=Eldrich Mann
 TIFactionTemplate.leader.CooperateCouncil=Sandra Chen
 TIFactionTemplate.leader.EscapeCouncil=Omar Al-Shamry
-TIFactionTemplate.fullLeader.ResistCouncil=Commander Sadie Brekke, XCOM
+TIFactionTemplate.fullLeader.ResistCouncil=Commander Sadie Brekke, SDI
 TIFactionTemplate.fullLeader.DestroyCouncil=Colonel Silvio Domingo, Gladio
 TIFactionTemplate.fullLeader.ExploitCouncil=Comrade Dmitri Illyuschenko, Operation RYaN
 TIFactionTemplate.fullLeader.SubmitCouncil=Commmissar Talia Eckhard, New World Order
 TIFactionTemplate.fullLeader.AppeaseCouncil=Coordinator Eldrich Mann, Secretariat
-TIFactionTemplate.fullLeader.CooperateCouncil=Director Sandra Chen, SDI
+TIFactionTemplate.fullLeader.CooperateCouncil=Director Sandra Chen, Third Front
 TIFactionTemplate.fullLeader.EscapeCouncil=Doctor Omar Al Shamry, the SETI Initiative
 TIFactionTemplate.leader.born.ResistCouncil=Lagos, Nigeria
 TIFactionTemplate.leader.born.DestroyCouncil=Caracas, Venezuela
@@ -48,48 +48,48 @@ TIFactionTemplate.leader.background.AppeaseCouncil=Party Secretary
 TIFactionTemplate.leader.background.CooperateCouncil=Analyst
 TIFactionTemplate.leader.background.EscapeCouncil=Engineer
 TIFactionTemplate.leader.description.DestroyCouncil=Attented Soviet Airborne Forces officer school, graduated with distinction in 1966. Deployed to Latin America and Africa on several advisor missions to liberation movements. Graduated from Spetsnaz training in 1974 and transferred to military intelligence, assigned to Saigon in 1975 and later served in Afghanistan before being recalled for Operation RYaN.
-TIFactionTemplate.CampaignStartHeadline.ResistCouncil=Vigilo Confido
+TIFactionTemplate.CampaignStartHeadline.ResistCouncil=Protect The Homeland
 TIFactionTemplate.CampaignStartHeadline.DestroyCouncil=Never Surrender
 TIFactionTemplate.CampaignStartHeadline.ExploitCouncil=Divide The Imperialists
 TIFactionTemplate.CampaignStartHeadline.SubmitCouncil=The Revolution Is Coming
 TIFactionTemplate.CampaignStartHeadline.AppeaseCouncil=Permanent Peace
-TIFactionTemplate.CampaignStartHeadline.CooperateCouncil=Protect The Homeland
+TIFactionTemplate.CampaignStartHeadline.CooperateCouncil=National Development
 TIFactionTemplate.CampaignStartHeadline.EscapeCouncil=Communicate with the Aliens
-TIFactionTemplate.CampaignStart.ResistCouncil=Hello {0}. In light of the recent extraterrestrial incursion, a council of nations has convened to approve the activation of the {1} Project. You have been chosen to lead this initiative and to oversee our first and last line of defense. Your efforts will have considerable influence on this planet's future and I urge you to keep that in mind as we proceed.<br/><br/>Before anything else, it is imperative that we reach the alien crash-landing at {3} in order to determine the nature and scope of the alien threat.<br/><br/><h>I am {2} and I'll serve as your deputy and I recommend we send a team to investigate the crash site in the {4} region as soon as possible. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.</h><br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. Good luck, Commander.// rank, council name, leader name
+TIFactionTemplate.CampaignStart.ResistCouncil={0}. The Commission has ratified {1} as the lead agency due to our past experience but there's no time to lose against the rest of the world.<br/><br/><h>I am {2} and I'll serve as your deputy and I recommend we send a team to investigate the crash site in the {4} region as soon as possible. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.</h><br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. Good luck, Commander.// rank, council name, leader name
 TIFactionTemplate.CampaignStart.DestroyCouncil=Ready for duty, {0}. The resources of the {1} network are at your disposal. I am {2}, your chief of staff.<br/><br/>We are establishing our war network but things unfortunately never go with the plans, as you know from your personal experience, sir. But we are more than capable to respond to this alien intrusion {3} and show the invaders who we will deal with anyone that attempts to conquer this planet.<br/><br/>With your leadership Gladio will be the sword that will defend not just our individual nations but all loyal humans on this planet and strike fear into the aliens and traitors to our world.// rank, council name, leader name
 TIFactionTemplate.CampaignStart.ExploitCouncil=Greetings, {0}. The General Secretary has died after the massive stroke it suffered after attending the last Politburo meeting but we still have his final orders to follow.<br/><br/>{1} was created by him to detect a first strike against our country and while we can't rule out yet that this 'alien arrival' {3} isn't a ploy by our ideological enemies, we have been ordered to investigate and defend the proletariat against this possible new threat. Unfortunately, our political leadership has become divided and potentially unreliable after his death, so we'll need to find new allies that share the communist goal, to help us divide and defeat the imperialists on Earth and above.<br/><br/>I have assembled a Spetsnaz team to help investigating the {4} region. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.<br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. // rank, council name, leader name
 TIFactionTemplate.CampaignStart.SubmitCouncil=And unto you, {0}. The Council has appointed you as our acting representative and military commander. I am {2}, your attendant and guide.<br/><br/>I expect that what has happened {3} has left you feeling uneasy, perhaps afraid. This is only natural. All has changed; our old lives are gone. But there is a new world to come. Everyone shall have a part to play, and yours will be one of the greatest of all.<br/><br/>I am sure you have been told many things about me and {1}, and I expect that most are bad. You no doubt have many questions, but I am afraid I cannot explain myself fully, not yet. Just know that there is a greater purpose behind the instructions I give you. I promise that I will tell you everything, in time. Until then, I ask for your trust.// rank, council name, leader name
 TIFactionTemplate.CampaignStart.AppeaseCouncil=May peace be upon you, {0}. The {1} has chosen you as our leader and I am {2}, your assigned aide.<br/><br/>We need to ensure that this arrival won't bring warfare to our planet by reaching out and signing a settlement with the newcomers before tensions escalate, but public opinion unfortunately isn't in our side. And the current international situation will pose a serious threat to our goal because of the current balance of terror and the superpowers are already racing to reach the alien crash-landing at {3}.<br/><br/><h>I recommend we send a councilor to investigate the crash site in the {4} region as soon as possible. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.</h><br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. // rank, council name, leader name
 TIFactionTemplate.CampaignStart.CooperateCouncil=All I can say {0} is that the President's announcement to the world would have gone better, if it has gone as planned a couple of weeks from now. We were already tasked with the nearly impossible of stopping a nuclear missile attack on this country and now we also have to defend it against... aliens? People are calling it the 'Star Wars' speech and unsure whether to laugh or cry!<br/><br/>So now {1} has been turned as a multinational effort with our allies and friends, which isn't too bad regarding some positive publicity to us, because we are going to need any help we can to protect this planet from aliens, meteors or what else the politicians decide.<br/><br/>I have assembled a recovery team to help investigating the {4} region. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.<br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. // rank, council name, leader name
 TIFactionTemplate.CampaignStart.EscapeCouncil=The search for extraterrestrial life has now truly begun with the crash of the artificial object at (2), {0}. And {1} must continue its work, to establish first contact with any alien species that we now know are out there.<br/><br/>And we must lead the scientific community and our political leaders in this effort of contacting the aliens, it's already clear that our leaders too preocupied with their petty ideologies and are failing to respond to the greatest moment yet lived by humanity. There's much we need to learn, and quickly, because we do not have the luxury of time anymore, there are already other powers interested at the crash site at (3) and whatever secrets it may contain.<br/><br/>I have assembled a recovery team to help investigating the {4} region. Our other councilors may be best used in trying to gain influence in nations that may be able to contribute resources to our cause.<br/><br/>You may review our objectives at any time by clicking our faction symbol in the top-left corner of your screen. // rank, council name, leader name
-TIFactionTemplate.Introduction.ResistCouncil=We have encountered {0}.<br/><br/>A multinational effort, XCOM was activated to investigate and stop any extraterrestrial threat to our planet.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.ResistCouncil=We have encountered {0}.<br/><br/>The Strategic Defense Initiative was initially formed to defend the United States against nuclear missiles but their mission has been changed to protect Earth from any threat, including the aliens.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.DestroyCouncil=We have encountered {0}.<br/><br/>A stay-behind organization initially created by the NATO nations to conduct guerrilla warfare against any invaders, Gladio's leadership considers the extraterrestrials the greatest threat and has called for total warfare against the extraterrestrials and their supporters on Earth.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.ExploitCouncil=We have encountered {0}.<br/><br/>As a result of the Soviet leaders paranoia against the West, the KGB was ordered to create an operation to detect and prevent any surprise attack by the West.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.SubmitCouncil=We have encountered {0}.<br/><br/>A coalition of revolutionary and terrorist groups, they are using the opportunity created by the alien arrival to gain power while applauding the alien arrival as an opportunity for humanity for global peace and justice.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.AppeaseCouncil=We have encountered {0}.<br/><br/>Led by members of the international diplomatic corps and business interests, their leaders are calling for a peaceful transition period after the alien arrival.<br/><br/>{4}<br/>   - {1} {2} {3}
-TIFactionTemplate.Introduction.CooperateCouncil=We have encountered {0}.<br/><br/>The Strategic Defense Initiative was initially formed to defend the United States against nuclear missiles but their mission has been changed to protect Earth from any threat, including the aliens.<br/><br/>{4}<br/>   - {1} {2} {3}
+TIFactionTemplate.Introduction.CooperateCouncil=We have encountered {0}.<br/><br/>Initially a campaign created by the mainland Chinese government in the 1970s, the Third Front goals are to develop its military and industrial infrastructure to defend against any potential threats to China and its Communist Party.<br/><br/>{4}<br/>   - {1} {2} {3}
 TIFactionTemplate.Introduction.EscapeCouncil=We have encountered {0}.<br/><br/>A network of scientists and their supporters, they call for humanity to establish first contact with as many alien civilizations as possible, since the arrival of the aliens means that more civilizations should be among the stars.<br/><br/>{4}<br/>   - {1} {2} {3}
-TIFactionTemplate.Quote.ResistCouncil=<align="right">"We must be watchful and ready to intervene to defend our planet."<align="left">
+TIFactionTemplate.Quote.ResistCouncil=<align="right">"We need to remove the permanent threat that hangs over our heads, regardless if they are extraterrestrial or human in origin.<align="left">
 TIFactionTemplate.Quote.DestroyCouncil=<align="right">"Earth must be free of any alien influence or presence to freely choose its destiny."<align="left">
 TIFactionTemplate.Quote.ExploitCouncil=<align="right">"The imperialists' greatest weakness is always their blindness to the power of the proletariat once it is properly unleashed."<align="left">
 TIFactionTemplate.Quote.SubmitCouncil=<align="right">"The aliens are bringing a new world order of peace and progress for all of us."<align="left">
 TIFactionTemplate.Quote.AppeaseCouncil=<align="right">"Only a permanent peace will ensure us survival instead of anarchy and extinction."<align="left">
-TIFactionTemplate.Quote.CooperateCouncil=<align="right">"We need to remove the permanent threat that hangs over our heads, regardless if they are extraterrestrial or human in origin."<align="left">
+TIFactionTemplate.Quote.CooperateCouncil=<align="right">"We need to develop our hands and minds to keep pace with the Universe."<align="left">
 TIFactionTemplate.Quote.EscapeCouncil=<align="right">"There must be dozens of other civilizations out there and contacting them all is the rational choice to ensure our survival."<align="left">
-TIFactionTemplate.Goal.ResistCouncil=Investigate and defeat the alien threat
+TIFactionTemplate.Goal.ResistCouncil=Protect Earth from space threats
 TIFactionTemplate.Goal.DestroyCouncil=Defend humanity's freedom
 TIFactionTemplate.Goal.ExploitCouncil=Divide the workers' enemies and defeat them apiece
 TIFactionTemplate.Goal.SubmitCouncil=Create a new world order of peace and justice
 TIFactionTemplate.Goal.AppeaseCouncil=Negotiate with the aliens
-TIFactionTemplate.Goal.CooperateCouncil=Protect Earth from space threats
+TIFactionTemplate.Goal.CooperateCouncil=Develop technology and society
 TIFactionTemplate.Goal.EscapeCouncil=Contact other galactic civilizations
 TIFactionTemplate.Victory.DestroyCouncil=spread the revolution through Hydra wormhole
 TIFactionTemplate.WinNotification.DestroyCouncil={0} forces have used the alien wormhole to spread our agent, causing the different alien species to achieve class consciousness and overthrow their Hydra masters.
-TIFactionTemplate.Fleet.ResistCouncil=XCOM-
+TIFactionTemplate.Fleet.ResistCouncil=SDI-
 TIFactionTemplate.Fleet.DestroyCouncil=Sword-
 TIFactionTemplate.Fleet.ExploitCouncil=Red Banner-
 TIFactionTemplate.Fleet.SubmitCouncil=NWO-
 TIFactionTemplate.Fleet.AppeaseCouncil=UN-
-TIFactionTemplate.Fleet.CooperateCouncil=Task Force-
+TIFactionTemplate.Fleet.CooperateCouncil=Dragon-
 TIFactionTemplate.Fleet.EscapeCouncil=SETI-
 TIFactionTemplate.Fleet.AlienCouncil=UFO-

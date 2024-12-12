@@ -1,13 +1,12 @@
 {
-	"title": "XCOM 1983",
+	"title": "Red Dawn (1983 scenario)",
 	"author": "Hobbes",
 	"description": "A 1983 scenario where the aliens arrive at Earth to find the world with the two superpowers on the brink of nuclear armageddon.",
-	"Version": "0.3.3",
-	"GameVersion": "0.3.99",
-	"mod url": "https://github.com/Hobbes74/Terra-Invicta-XCOM-1983",
-	"TemplatesToReplace": [ 
+	"Version": "1.0.0a",
+	"GameVersion": "0.4.41",
+	"mod url": "",
+	"TemplatesToReplace": [
 		"TIBilateralTemplate.json",
-		"TIProjectTemplate.json",
-		"TICouncilorTypeTemplate.json"
+		"TICouncilorTypeTemplate.json"	
 	]
 }

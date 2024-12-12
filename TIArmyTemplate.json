@@ -119,8 +119,8 @@
  {
    "dataName": "EUABlindeeFrance",
    "friendlyName": "1st French Army",
-   "startRegionStr": "Germany",
-   "homeRegionStr": "France",
+   "startRegionStr": "Bavaria",
+   "homeRegionStr": "Paris",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -157,6 +157,15 @@
    "friendlyName": "Federal German Army",
    "startRegionStr": "Germany",
    "homeRegionStr": "Germany",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "EUAPanzersBavaria",
+   "friendlyName": "Territorial Army",
+   "startRegionStr": "Bavaria",
+   "homeRegionStr": "Bavaria",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -272,8 +281,8 @@
  {
    "dataName": "ESPArmy",
    "friendlyName": "Immediate Intervention Force",
-   "startRegionStr": "Spain",
-   "homeRegionStr": "Spain",
+   "startRegionStr": "Barcelona",
+   "homeRegionStr": "Barcelona",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -281,8 +290,8 @@
  {
    "dataName": "NETArmy",
    "friendlyName": "Belgian-Dutch Army",
-   "startRegionStr": "Benelux",
-   "homeRegionStr": "Benelux",
+   "startRegionStr": "Netherlands",
+   "homeRegionStr": "Netherlands",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -396,7 +405,7 @@
    "startingStrength": 1
  },
  {
-   "dataName": "RUSGuardsRostovskaya",
+   "dataName": "RUSArmyRostovskaya",
    "friendlyName": "28th Combined Arms Army",
    "startRegionStr": "Rostovskaya",
    "homeRegionStr": "Rostovskaya",
@@ -441,10 +450,10 @@
    "startingStrength": 1
  },
  {
-   "dataName": "RUSArmyBalticStates",
+   "dataName": "RUSArmyLithuania",
    "friendlyName": "14th Combined Arms Army",
-   "startRegionStr": "BalticStates",
-   "homeRegionStr": "BalticStates",
+   "startRegionStr": "Lithuania",
+   "homeRegionStr": "Lithuania",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -614,8 +623,8 @@
  {
    "dataName": "JPNArmy",
    "friendlyName": "Central Army",
-   "startRegionStr": "Honshu",
-   "homeRegionStr": "Honshu",
+   "startRegionStr": "NorthHonshu",
+   "homeRegionStr": "NorthHonshu",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
@@ -643,6 +652,15 @@
    "friendlyName": "Republican Army",
    "startRegionStr": "Baghdad",
    "homeRegionStr": "Baghdad",
+   "armyType": "Human",
+   "deploymentType": "Standard",
+   "startingStrength": 1
+ },
+ {
+   "dataName": "EGYArmy",
+   "friendlyName": "1st Field Army",
+   "startRegionStr": "Cairo",
+   "homeRegionStr": "Cairo",
    "armyType": "Human",
    "deploymentType": "Standard",
    "startingStrength": 1
